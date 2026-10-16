@@ -1,73 +1,31 @@
 [
   {
     "id": "1",
-    "title": "Solo Leveling",
-    "type": "Manhwa",
-    "coverImage": "https://upload.wikimedia.org/wikipedia/id/9/99/Solo_Leveling_Webtoon.png",
+    "title": "Frieren: Beyond Journey's End",
+    "type": "Anime",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
     "genres": [
-      "Action",
+      "Adventure",
       "Fantasy",
-      "System"
+      "Drama"
     ],
-    "synopsis": "Sung Jin-Woo, the weakest E-rank hunter, gains a unique system that lets him level up infinitely, transforming from prey into the most powerful hunter in the world.",
-    "review": "An absolute page-turner. The progression system and escalating stakes make every arc feel earned. The art improves dramatically over time, reaching jaw-dropping levels in the final chapters.",
+    "synopsis": "After the defeat of the Demon King, elf mage Frieren reflects on her brief time with her former party and begins a new journey to better understand humanity and the meaning of life.",
+    "review": "A thoughtful fantasy story with beautiful atmosphere, memorable character moments, and a moving exploration of time, loss, and connection.",
     "scores": {
-      "story": 8.5,
-      "character": 8.0,
-      "art": 9.8,
-      "enjoyment": 9.5
+      "story": 9.5,
+      "character": 9.4,
+      "art": 9.5,
+      "enjoyment": 9.4
     },
-    "status": "Completed"
+    "status": "Ongoing",
+    "seasons": 2,
+    "episodes": 28
   },
   {
     "id": "2",
-    "title": "Fullmetal Alchemist: Brotherhood",
-    "type": "Anime",
-    "coverImage": "",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "synopsis": "Two brothers search for the Philosopher's Stone to restore their bodies after a forbidden alchemy ritual goes wrong, uncovering a vast conspiracy along the way.",
-    "review": "A masterclass in storytelling. Every plot thread is resolved, every character matters. The emotional payoff is unmatched in anime.",
-    "scores": {
-      "story": 9.8,
-      "character": 9.5,
-      "art": 9.0,
-      "enjoyment": 9.7
-    },
-    "status": "Completed",
-    "seasons": 1,
-    "episodes": 64
-  },
-  {
-    "id": "3",
-    "title": "Berserk",
-    "type": "Manga",
-    "coverImage": "",
-    "genres": [
-      "Dark Fantasy",
-      "Action",
-      "Drama",
-      "Horror"
-    ],
-    "synopsis": "Guts, a lone mercenary with a tragic past, wages war against former friend Griffith and the godhand that cursed him, in a brutal dark fantasy world.",
-    "review": "Miura's artwork is some of the finest ever put to page. The story is harrowing, beautiful, and deeply human despite its monstrous setting.",
-    "scores": {
-      "story": 9.7,
-      "character": 9.6,
-      "art": 10,
-      "enjoyment": 8.8
-    },
-    "status": "Ongoing"
-  },
-  {
-    "id": "4",
     "title": "Attack on Titan",
     "type": "Anime",
-    "coverImage": "",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
     "genres": [
       "Action",
       "Drama",
@@ -87,10 +45,52 @@
     "episodes": 87
   },
   {
+    "id": "3",
+    "title": "Oshi no Ko",
+    "type": "Manga",
+    "chapters": 166,
+    "volumes": 12,
+    "coverImage": "https://cdn.myanimelist.net/images/manga/3/233991.jpg",
+    "genres": [
+      "Drama",
+      "Supernatural",
+      "Mystery"
+    ],
+    "synopsis": "A doctor and his patient are reincarnated as the twin children of a beloved idol, navigating the dark underbelly of the entertainment industry.",
+    "review": "A brilliant blend of industry critique and supernatural mystery. The first arc is a perfect hook. The genre-switching keeps things fresh.",
+    "scores": {
+      "story": 9.0,
+      "character": 9.2,
+      "art": 8.8,
+      "enjoyment": 9.0
+    },
+    "status": "Completed"
+  },
+  {
+    "id": "4",
+    "title": "Solo Leveling",
+    "type": "Manhwa",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/id/9/99/Solo_Leveling_Webtoon.png",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "System"
+    ],
+    "synopsis": "Sung Jin-Woo, the weakest E-rank hunter, gains a unique system that lets him level up infinitely, transforming from prey into the most powerful hunter in the world.",
+    "review": "An absolute page-turner. The progression system and escalating stakes make every arc feel earned. The art improves dramatically over time, reaching jaw-dropping levels in the final chapters.",
+    "scores": {
+      "story": 8.5,
+      "character": 8.0,
+      "art": 9.8,
+      "enjoyment": 9.5
+    },
+    "status": "Completed"
+  },
+  {
     "id": "5",
     "title": "The Beginning After The End",
     "type": "Manhwa",
-    "coverImage": "",
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1652424163i/60099365.jpg",
     "genres": [
       "Fantasy",
       "Reincarnation",
@@ -109,71 +109,9 @@
   },
   {
     "id": "6",
-    "title": "Vinland Saga",
-    "type": "Manga",
-    "coverImage": "",
-    "genres": [
-      "Historical",
-      "Action",
-      "Drama",
-      "Adventure"
-    ],
-    "synopsis": "A young Viking warrior named Thorfinn seeks revenge against the mercenary who killed his father, but his journey leads him to question the cycle of violence.",
-    "review": "The character development from the Prologue to the Farmland arc is some of the best in manga. Thorfinn's transformation is profoundly moving.",
-    "scores": {
-      "story": 9.5,
-      "character": 9.8,
-      "art": 9.0,
-      "enjoyment": 8.9
-    },
-    "status": "Ongoing"
-  },
-  {
-    "id": "7",
-    "title": "Oshi no Ko",
-    "type": "Manga",
-    "coverImage": "",
-    "genres": [
-      "Drama",
-      "Supernatural",
-      "Mystery"
-    ],
-    "synopsis": "A doctor and his patient are reincarnated as the twin children of a beloved idol, navigating the dark underbelly of the entertainment industry.",
-    "review": "A brilliant blend of industry critique and supernatural mystery. The first arc is a perfect hook. The genre-switching keeps things fresh.",
-    "scores": {
-      "story": 9.0,
-      "character": 9.2,
-      "art": 8.8,
-      "enjoyment": 9.0
-    },
-    "status": "Ongoing"
-  },
-  {
-    "id": "8",
-    "title": "Demon Slayer",
-    "type": "Anime",
-    "coverImage": "",
-    "genres": [
-      "Action",
-      "Supernatural",
-      "Historical",
-      "Drama"
-    ],
-    "synopsis": "Tanjiro Kamado becomes a demon slayer after his family is slaughtered and his sister turned into a demon, seeking a cure while battling powerful foes.",
-    "review": "Ufotable's animation is simply the best in the industry. The story is straightforward but executed with incredible emotional resonance.",
-    "scores": {
-      "story": 7.8,
-      "character": 8.0,
-      "art": 9.8,
-      "enjoyment": 9.0
-    },
-    "status": "Completed"
-  },
-  {
-    "id": "9",
     "title": "Tower of God",
     "type": "Manhwa",
-    "coverImage": "",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/2/223694.jpg",
     "genres": [
       "Action",
       "Fantasy",
@@ -191,73 +129,10 @@
     "status": "Ongoing"
   },
   {
-    "id": "10",
-    "title": "Steins;Gate",
-    "type": "Anime",
-    "coverImage": "",
-    "genres": [
-      "Sci-Fi",
-      "Drama",
-      "Thriller"
-    ],
-    "synopsis": "A self-proclaimed mad scientist accidentally discovers time travel, leading to a desperate struggle to save his friends from the consequences of altering the past.",
-    "review": "Slow burn that pays off enormously. The second half is one of the most gripping narratives in anime. The emotional weight is crushing.",
-    "scores": {
-      "story": 9.5,
-      "character": 9.3,
-      "art": 8.0,
-      "enjoyment": 9.2
-    },
-    "status": "Completed",
-    "seasons": 1,
-    "episodes": 24
-  },
-  {
-    "id": "11",
-    "title": "Jujutsu Kaisen",
-    "type": "Manga",
-    "coverImage": "",
-    "genres": [
-      "Action",
-      "Supernatural",
-      "Horror"
-    ],
-    "synopsis": "Yuji Itadori swallows a cursed finger and joins a secret organization of jujutsu sorcerers to eliminate a powerful curse named Ryomen Sukuna.",
-    "review": "Fantastic power system and some of the best fight choreography in manga. Gege's willingness to subvert expectations keeps you on edge.",
-    "scores": {
-      "story": 8.2,
-      "character": 8.5,
-      "art": 8.8,
-      "enjoyment": 8.8
-    },
-    "status": "Ongoing"
-  },
-  {
-    "id": "12",
-    "title": "Vagabond",
-    "type": "Manga",
-    "coverImage": "",
-    "genres": [
-      "Historical",
-      "Action",
-      "Drama",
-      "Philosophical"
-    ],
-    "synopsis": "Based on the life of legendary swordsman Miyamoto Musashi, the story follows his journey from a brutal fighter to a man seeking the meaning of true strength.",
-    "review": "Inoue's art is transcendent. Every panel is a painting. The philosophical depth elevates it beyond any battle manga.",
-    "scores": {
-      "story": 9.3,
-      "character": 9.7,
-      "art": 10,
-      "enjoyment": 8.5
-    },
-    "status": "Ongoing"
-  },
-  {
-    "id": "13",
+    "id": "7",
     "title": "Omniscient Reader's Viewpoint",
     "type": "Manhwa",
-    "coverImage": "",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/2/238873.jpg",
     "genres": [
       "Action",
       "Fantasy",
@@ -275,105 +150,161 @@
     "status": "Ongoing"
   },
   {
-    "id": "14",
-    "title": "Hunter x Hunter",
-    "type": "Anime",
-    "coverImage": "",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Fantasy"
-    ],
-    "synopsis": "Gon Freecss sets out to become a Hunter and find his father, encountering friends, foes, and a deep power system along the way.",
-    "review": "The nen system is the gold standard for power systems in anime. The Chimera Ant arc is one of the greatest storylines ever animated.",
-    "scores": {
-      "story": 9.4,
-      "character": 9.2,
-      "art": 8.5,
-      "enjoyment": 9.1
-    },
-    "status": "Ongoing"
+  "id": "8",
+  "title": "The Greatest Estate Developer",
+  "type": "Manhwa",
+  "coverImage": "https://cdn.myanimelist.net/images/manga/1/290131.jpg",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
+  ],
+  "synopsis": "Kim Suho, a civil engineering student, wakes up as Lloyd Frontera, a disgraced noble whose family is drowning in debt. Using his engineering knowledge and magical construction abilities, he develops innovative infrastructure and transforms the territory to secure a prosperous future.",
+  "review": "GOATED MANHWA KAWKAWKAWK LUCU BANGET LAGI SEMUAN.",
+  "scores": {
+    "story": 9.2,
+    "character": 10,
+    "art": 8.0,
+    "enjoyment": 10
   },
-  {
-    "id": "15",
-    "title": "Made in Abyss",
-    "type": "Anime",
-    "coverImage": "",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Drama",
-      "Horror"
-    ],
-    "synopsis": "A young girl and a robot boy descend into a vast, deadly abyss searching for her mother, facing terrifying creatures and the abyss's curse.",
-    "review": "Beautiful art hiding a deeply unsettling story. The world-building is incredible and the emotional gut-punches never miss.",
-    "scores": {
-      "story": 8.8,
-      "character": 8.5,
-      "art": 9.5,
-      "enjoyment": 8.3
-    },
-    "status": "Ongoing"
+  "status": "Completed",
+  "chapters": 222
+},
+{
+  "id": "9",
+  "title": "Grand Blue",
+  "type": "Manga",
+  "coverImage": "https://cdn.myanimelist.net/images/manga/2/166124.jpg",
+  "genres": [
+    "Comedy",
+    "Adult Cast",
+    "Gag Humor",
+    "Seinen"
+  ],
+  "synopsis": "Iori Kitahara begins his freshman year at Izu University and moves into his uncle's scuba diving shop, Grand Blue, hoping to enjoy an ideal college life. Instead, he gets caught up with a rowdy group of upperclassmen whose wild drinking parties lead to chaotic and hilarious situations, complicating his plans for a normal university experience.",
+  "review": "cocok buat lu yang kehidupanya ancur ancuran, komedinya sangat membantu lu buat tertawa, romance tipis tipis juga",
+  "scores": {
+    "story": 8.2,
+    "character": 9.0,
+    "art": 9.0,
+    "enjoyment": 10
   },
-  {
-    "id": "16",
-    "title": "Wind Breaker",
-    "type": "Manhwa",
-    "coverImage": "",
-    "genres": [
-      "Sports",
-      "Drama",
-      "Slice of Life"
-    ],
-    "synopsis": "A studious boy discovers a passion for cycling and joins a competitive team, finding friendship and purpose through the sport.",
-    "review": "Surprisingly engaging sports manhwa with great character dynamics. The racing sequences are dynamic and exciting.",
-    "scores": {
-      "story": 7.5,
-      "character": 8.0,
-      "art": 8.2,
-      "enjoyment": 8.0
-    },
-    "status": "Completed"
+  "status": "Ongoing",
+  "chapters": 112
+},
+{
+  "id": "10",
+  "title": "Kaguya-sama: Love Is War",
+  "type": "Manga",
+  "coverImage": "https://cdn.myanimelist.net/images/manga/3/188896.jpg",
+  "genres": [
+    "Award Winning",
+    "Comedy",
+    "Romance",
+    "School",
+    "Seinen"
+  ],
+  "synopsis": "Miyuki Shirogane, the brilliant student council president of Shuchiin Academy, and Kaguya Shinomiya, the wealthy and talented vice president, have secretly developed feelings for each other. However, both are too proud to confess, believing that doing so would mean losing their pride. Their relationship becomes a battle of wits as each tries to make the other confess first through clever schemes and hilarious daily antics.",
+  "review": "ROMCOM TERBAIK NO DEBATE, ribut kita kalo gasuka",
+  "scores": {
+    "story": 10,
+    "character": 10,
+    "art": 9.0,
+    "enjoyment": 10
   },
-  {
-    "id": "17",
-    "title": "Chainsaw Man",
-    "type": "Manga",
-    "coverImage": "",
-    "genres": [
-      "Action",
-      "Horror",
-      "Drama",
-      "Comedy"
-    ],
-    "synopsis": "Denji, a young man burdened by debt, merges with his chainsaw devil dog Pochita and becomes a devil hunter for the government.",
-    "review": "Fujimoto's unpredictable storytelling is refreshing. It's crude, hilarious, and surprisingly profound. The art is kinetic and visceral.",
-    "scores": {
-      "story": 8.7,
-      "character": 8.8,
-      "art": 9.0,
-      "enjoyment": 9.0
-    },
-    "status": "Ongoing"
+  "status": "Completed",
+  "chapters": 281
+},
+{
+  "id": "11",
+  "title": "Haikyuu!!",
+  "type": "Manga",
+  "coverImage": "https://cdn.myanimelist.net/images/manga/2/258225.jpg",
+  "genres": [
+    "Award Winning",
+    "Sports",
+    "School",
+    "Team Sports",
+    "Shounen"
+  ],
+  "synopsis": "Shouyou Hinata dreams of becoming a great volleyball player after being inspired by the legendary Little Giant. Despite his short stature, Hinata joins Karasuno High School to pursue his dream, only to discover that his former rival, Tobio Kageyama, is now his teammate. The two must overcome their differences, improve their skills, and work together with the rest of the team to compete against the strongest high school volleyball teams in Japan.",
+  "review": "gw sebut ini best sports manga. Belom ada yg setara menurut gw selain Slam Dunk yang emang peak tapi ini tu juga peak",
+  "scores": {
+    "story": 9.9,
+    "character": 9.8,
+    "art": 10,
+    "enjoyment": 10
   },
-  {
-    "id": "18",
-    "title": "Mushishi",
-    "type": "Anime",
-    "coverImage": "",
-    "genres": [
-      "Slice of Life",
-      "Supernatural",
-      "Mystery"
-    ],
-    "synopsis": "Ginko travels across Japan studying mushi, ethereal creatures that exist between the natural and supernatural worlds, helping people affected by them.",
-    "review": "A meditative, atmospheric masterpiece. Each episode is a self-contained story that lingers long after watching. The soundtrack is sublime.",
-    "scores": {
-      "story": 8.5,
-      "character": 7.8,
-      "art": 9.0,
-      "enjoyment": 8.2
-    },
-    "status": "Completed"
-  }
+  "status": "Completed",
+  "chapters": 407
+},
+{
+  "id": "12",
+  "title": "Fated To Be Loved By Villains",
+  "type": "Manhwa",
+  "coverImage": "https://storage.westmanga.blog/west/images/covers/14703623-87e3-4298-8b61-faf9f1756fcc.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Harem",
+    "Romance"
+  ],
+  "synopsis": "A veteran player of the game Savior Rising finds himself inhabiting the body of Dawood Campbell, a powerless noble living on the outskirts of society. Hoping to live quietly and avoid attention, he instead encounters Elnore Elinarize la Tristan, the game's final boss and vessel of the Grey Demon. This meeting grants him two special abilities: Desperate Survival, which makes him stronger when his chances of survival decrease, and Deadly Charm, which attracts people with Evil Traits. As he becomes entangled with Elnore and other Demon vessels, Dawood must use his veteran gaming knowledge to overcome dangerous challenges while navigating the growing attention of those drawn to him.",
+  "review": "ampas sih, pantes di axed wkwkkw",
+  "scores": {
+    "story": 6,
+    "character": 5,
+    "art": 6,
+    "enjoyment": 8
+  },
+  "status": "Ongoing",
+  "chapters": 55
+},
+{
+  "id": "13",
+  "title": "I Killed the Academy Player",
+  "type": "Manhwa",
+  "coverImage": "https://storage.westmanga.blog/west/images/covers/fd4909e1-a840-4aa8-a065-da45a7be4c2f.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Harem"
+  ],
+  "synopsis": "The protagonist has killed the player of the academy, a person he considers an extremely irritating bastard. As the story unfolds in an academy setting filled with action and fantasy, he must face the consequences of his actions and navigate the challenges that follow.",
+  "review": "Harem pada umumnya, kurang di writing sama pacing yang keliatan aneh banget",
+  "scores": {
+    "story": 7.1,
+    "character": 7.1,
+    "art":7.0,
+    "enjoyment": 8.2
+  },
+  "status": "Ongoing",
+  "chapters": 140
+},
+{
+  "id": "14",
+  "title": "All My Alter Egos Are Tycoons",
+  "type": "Manhwa",
+  "coverImage": "https://storage.westmanga.blog/west/images/covers/0f9e0b32-50f3-4f5d-8dda-90b2bfa2e29d.jpg",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Shounen"
+  ],
+  "synopsis": "Han Sunghyun loses his family in a random attack by superhumans and isolates himself due to the trauma. One day, he awakens the ability to control avatars that can venture into dangerous worlds while he stays home and focuses on growing stronger. As his avatars develop across dimensions, races, and professions, Han Sunghyun begins hunting superhumans who abuse their powers.",
+  "review": "Konsepnya menarik dia punya banyak avatar di tiap dunia, cmn konfliknnya makin lama makin gajelas",
+  "scores": {
+    "story": 7,
+    "character": 5,
+    "art": 7,
+    "enjoyment": 8.8
+  },
+  "status": "Ongoing",
+  "chapters": 101
+}
 ]
