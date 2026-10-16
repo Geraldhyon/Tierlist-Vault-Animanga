@@ -13,5 +13,8 @@ export interface MediaItem {
     enjoyment: number;
   };
   status: 'Completed' | 'Ongoing';
+  chapters?: number; // Manga / Manhwa
+  seasons?: number; // Anime
+  episodes?: number; // Anime (total eps)
   overall: number;
 }

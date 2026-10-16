@@ -18,6 +18,7 @@ import {
   type MediaScores,
 } from '@/lib/tier';
 import type { MediaItem } from '@/lib/types';
+import { formatLength } from '@/lib/length';
 
 interface DetailModalProps {
   item: MediaItem | null;
@@ -36,6 +37,7 @@ export function DetailModal({ item, open, onClose }: DetailModalProps) {
 
   const overall = calculateOverall(item.scores);
   const tier = getTier(overall);
+  const lengthText = formatLength(item);
   const scoreKeys = Object.keys(SCORE_WEIGHTS) as (keyof MediaScores)[];
 
   return (
@@ -81,6 +83,12 @@ export function DetailModal({ item, open, onClose }: DetailModalProps) {
                   )}
                   {item.status}
                 </span>
+                {lengthText && (
+                  <span className="inline-flex items-center gap-1 rounded-md border border-border/60 bg-secondary/60 px-2 py-0.5 text-xs font-medium text-muted-foreground">
+                    <Clock className="h-3 w-3" />
+                    {lengthText}
+                  </span>
+                )}
               </div>
               <h2 className="text-xl font-bold leading-tight tracking-tight sm:text-2xl">
                 {item.title}
