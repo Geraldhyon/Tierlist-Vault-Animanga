@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 20 10% 6%;
+    --foreground: 40 20% 96%;
+    --card: 20 8% 9%;
+    --card-foreground: 40 20% 96%;
+    --popover: 20 8% 9%;
+    --popover-foreground: 40 20% 96%;
+    --primary: 352 82% 58%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 20 6% 15%;
+    --secondary-foreground: 40 20% 96%;
+    --muted: 20 6% 15%;
+    --muted-foreground: 30 8% 62%;
+    --accent: 20 6% 15%;
+    --accent-foreground: 40 20% 96%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 20 6% 17%;
+    --input: 20 6% 17%;
+    --ring: 352 82% 58%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+    --radius: 0.5rem;
+  }
+  .dark {
+    --background: 20 10% 6%;
+    --foreground: 40 20% 96%;
+    --card: 20 8% 9%;
+    --card-foreground: 40 20% 96%;
+    --popover: 20 8% 9%;
+    --popover-foreground: 40 20% 96%;
+    --primary: 352 82% 58%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 20 6% 15%;
+    --secondary-foreground: 40 20% 96%;
+    --muted: 20 6% 15%;
+    --muted-foreground: 30 8% 62%;
+    --accent: 20 6% 15%;
+    --accent-foreground: 40 20% 96%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 20 6% 17%;
+    --input: 20 6% 17%;
+    --ring: 352 82% 58%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    background-image: radial-gradient(ellipse 80% 50% at 50% -20%, hsl(352 82% 58% / 0.08), transparent);
+  }
+}
+
+@layer utilities {
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: hsl(var(--muted-foreground) / 0.3);
+    border-radius: 3px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    background: hsl(var(--muted-foreground) / 0.5);
+  }
+}
