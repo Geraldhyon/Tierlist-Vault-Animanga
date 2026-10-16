@@ -1,3 +1,8 @@
+export interface ReadLink {
+  name: string; // nama situs, mis. "MangaDex"
+  url: string; // link lengkap (https://...)
+}
+
 export interface MediaItem {
   id: string;
   title: string;
@@ -16,5 +21,6 @@ export interface MediaItem {
   chapters?: number; // Manga / Manhwa
   seasons?: number; // Anime
   episodes?: number; // Anime (total eps)
+  readLinks?: ReadLink[]; // opsional: daftar tempat baca / nonton
   overall: number;
 }

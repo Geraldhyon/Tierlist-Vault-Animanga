@@ -7,7 +7,7 @@ import {
   DialogTitle,
   DialogDescription,
 } from '@/components/ui/dialog';
-import { SCORE_WEIGHTS, SCORE_LABELS, TIERS } from '@/lib/tier';
+import { SCORE_WEIGHTS, SCORE_LABELS, SCORE_DESCRIPTIONS, TIERS } from '@/lib/tier';
 import { cn } from '@/lib/utils';
 
 interface ScoringInfoModalProps {
@@ -20,7 +20,7 @@ export function ScoringInfoModal({ open, onClose }: ScoringInfoModalProps) {
 
   return (
     <Dialog open={open} onOpenChange={(v) => !v && onClose()}>
-      <DialogContent className="max-h-[90vh] overflow-y-auto scrollbar-thin border-border/60 bg-card sm:max-w-lg">
+      <DialogContent className="max-h-[90vh] overflow-y-auto scrollbar-thin border-border/60 bg-card sm:max-w-xl">
         <DialogHeader>
           <DialogTitle className="text-xl">Scoring System</DialogTitle>
           <DialogDescription>
@@ -36,14 +36,28 @@ export function ScoringInfoModal({ open, onClose }: ScoringInfoModalProps) {
               {weightKeys.map((key) => (
                 <div
                   key={key}
-                  className="flex items-center justify-between rounded-lg border border-border/60 bg-secondary/30 px-4 py-2.5"
+                  className="rounded-lg border border-border/60 bg-secondary/30 px-4 py-3"
                 >
-                  <div>
+                  <div className="flex items-center justify-between">
                     <span className="text-sm font-medium text-foreground">{SCORE_LABELS[key]}</span>
+                    <span className="font-mono text-sm font-bold text-primary">
+                      {Math.round(SCORE_WEIGHTS[key] * 100)}%
+                    </span>
                   </div>
-                  <span className="font-mono text-sm font-bold text-primary">
-                    {Math.round(SCORE_WEIGHTS[key] * 100)}%
-                  </span>
+                  <p className="mt-1.5 text-xs leading-relaxed text-muted-foreground">
+                    {SCORE_DESCRIPTIONS[key].summary}
+                  </p>
+                  <ul className="mt-2 space-y-1">
+                    {SCORE_DESCRIPTIONS[key].points.map((point) => (
+                      <li
+                        key={point}
+                        className="flex gap-2 text-xs leading-relaxed text-foreground/70"
+                      >
+                        <span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-primary/70" />
+                        <span>{point}</span>
+                      </li>
+                    ))}
+                  </ul>
                 </div>
               ))}
             </div>

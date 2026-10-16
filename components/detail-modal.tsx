@@ -19,6 +19,7 @@ import {
 } from '@/lib/tier';
 import type { MediaItem } from '@/lib/types';
 import { formatLength } from '@/lib/length';
+import { ReadLinks } from '@/components/read-links';
 
 interface DetailModalProps {
   item: MediaItem | null;
@@ -130,6 +131,9 @@ export function DetailModal({ item, open, onClose }: DetailModalProps) {
               </div>
             </div>
           </div>
+
+          {/* Baca / tonton di mana (dari readLinks di tierlist.json) */}
+          <ReadLinks item={item} />
 
           {/* Genres */}
           <div>

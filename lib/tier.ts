@@ -12,6 +12,46 @@ export const SCORE_LABELS: Record<keyof typeof SCORE_WEIGHTS, string> = {
   enjoyment: 'Enjoyment / Impact',
 };
 
+// Penjelasan tiap kriteria penilaian (tampil di modal "Scoring System").
+// Edit teks di sini kalau mau ganti penjelasannya.
+export const SCORE_DESCRIPTIONS: Record<
+  keyof typeof SCORE_WEIGHTS,
+  { summary: string; points: string[] }
+> = {
+  story: {
+    summary: 'The plot itself and how well it is told from start to finish.',
+    points: [
+      'Is the premise fresh, or at least executed really well?',
+      'Does the pacing keep me hooked without dragging or rushing?',
+      'Is the world and plot consistent, with a satisfying direction or ending?',
+    ],
+  },
+  character: {
+    summary: 'How well the cast is written and how much they grow over time.',
+    points: [
+      'Do the main and side characters have distinct personalities and motivations?',
+      'Do they actually develop, instead of staying the same the whole way?',
+      'Is the MC believable, not just overpowered for no reason?',
+    ],
+  },
+  art: {
+    summary: 'The visual side of the work.',
+    points: [
+      'Manga / Manhwa: art style, panel flow, character and cover design.',
+      'Anime: animation quality, direction, and overall visual polish.',
+      'Do the visuals make fights, emotions, and key moments hit harder?',
+    ],
+  },
+  enjoyment: {
+    summary: 'My personal gut feeling: how fun it was and how much it stuck with me.',
+    points: [
+      'How badly did I want to binge it?',
+      'How strong was the emotional impact or hype?',
+      'Would I reread / rewatch it, and does it stay in my head after finishing?',
+    ],
+  },
+};
+
 export interface MediaScores {
   story: number;
   character: number;
@@ -19,13 +59,19 @@ export interface MediaScores {
   enjoyment: number;
 }
 
-export function calculateOverall(scores: MediaScores): number {
-  const overall =
+// Skor mentah (belum dibulatkan). Dipakai buat tiebreak urutan di tierlist,
+// supaya judul dengan overall sama (mis. 9.6) tetap urut dengan adil.
+export function calculateRawOverall(scores: MediaScores): number {
+  return (
     scores.story * SCORE_WEIGHTS.story +
     scores.character * SCORE_WEIGHTS.character +
     scores.art * SCORE_WEIGHTS.art +
-    scores.enjoyment * SCORE_WEIGHTS.enjoyment;
-  return Math.round(overall * 10) / 10;
+    scores.enjoyment * SCORE_WEIGHTS.enjoyment
+  );
+}
+
+export function calculateOverall(scores: MediaScores): number {
+  return Math.round(calculateRawOverall(scores) * 10) / 10;
 }
 
 export interface TierInfo {

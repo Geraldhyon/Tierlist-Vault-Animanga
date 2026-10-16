@@ -6,17 +6,26 @@ import { FilterBar, type Category } from '@/components/filter-bar';
 import { TierBoard } from '@/components/tier-board';
 import { DetailModal } from '@/components/detail-modal';
 import { ScoringInfoModal } from '@/components/scoring-info-modal';
-import { calculateOverall, getTier, TIERS } from '@/lib/tier';
+import { calculateOverall, calculateRawOverall, getTier, TIERS } from '@/lib/tier';
 import type { MediaItem } from '@/lib/types';
 import rawData from '@/data/tierlist.json';
 
 const CATEGORIES: Category[] = ['All', 'Anime', 'Manga', 'Manhwa'];
 const TIER_LABELS = TIERS.map((t) => t.label);
 
-const ALL_ITEMS: MediaItem[] = (rawData as Omit<MediaItem, 'overall'>[]).map((item) => ({
-  ...item,
-  overall: calculateOverall(item.scores),
-}));
+// Urut dari skor tertinggi ke terendah. TierBoard cuma nge-filter per tier,
+// jadi urutan ini otomatis kepakai di dalam tiap grup tier.
+// Kalau overall (dibulatkan) sama, dibandingin pakai skor mentah, lalu judul A-Z.
+const ALL_ITEMS: MediaItem[] = (rawData as Omit<MediaItem, 'overall'>[])
+  .map((item) => ({
+    ...item,
+    overall: calculateOverall(item.scores),
+  }))
+  .sort(
+    (a, b) =>
+      calculateRawOverall(b.scores) - calculateRawOverall(a.scores) ||
+      a.title.localeCompare(b.title)
+  );
 
 const ALL_GENRES = Array.from(new Set(ALL_ITEMS.flatMap((i) => i.genres))).sort();
 
