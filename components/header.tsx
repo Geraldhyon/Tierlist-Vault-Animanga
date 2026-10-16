@@ -37,7 +37,7 @@ export function Header({ onShowScoring }: HeaderProps) {
             <span className="sm:hidden">Info</span>
           </Button>
           <a
-            href="https://github.com/Geraldhyon/TierList-Vault-Anime-Manhwa-Manga"
+            href="https://github.com/Geraldhyon/Tierlist-Vault-Animanga"
             target="_blank"
             rel="noopener noreferrer"
             className="flex h-9 w-9 items-center justify-center rounded-md border border-border/60 text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
