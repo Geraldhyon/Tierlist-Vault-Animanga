@@ -1,2083 +1,1096 @@
 [
-    {
-        "id":  "1",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Frieren: Beyond Journey\u0027s End",
-        "type":  "Anime",
-        "coverImage":  "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
-        "genres":  [
-                       "Adventure",
-                       "Fantasy",
-                       "Drama"
-                   ],
-        "synopsis":  "After the defeat of the Demon King, elf mage Frieren reflects on her brief time with her former party and begins a new journey to better understand humanity and the meaning of life.",
-        "review":  "A thoughtful fantasy story with beautiful atmosphere, memorable character moments, and a moving exploration of time, loss, and connection.",
-        "scores":  {
-                       "story":  9.5,
-                       "character":  9.4,
-                       "art":  9.5,
-                       "enjoyment":  9.4
-                   },
-        "status":  "Ongoing",
-        "seasons":  2,
-        "episodes":  28
-    },
-    {
-        "id":  "2",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Attack on Titan",
-        "type":  "Anime",
-        "coverImage":  "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
-        "genres":  [
-                       "Action",
-                       "Drama",
-                       "Mystery",
-                       "Fantasy"
-                   ],
-        "synopsis":  "Humanity lives behind walls to protect themselves from man-eating Titans, but the truth about the world is far more complex and devastating than anyone imagined.",
-        "review":  "Incredible plotting and foreshadowing. The way the mystery unfolds and the moral questions it raises in the final seasons elevate it beyond typical action anime.",
-        "scores":  {
-                       "story":  9.6,
-                       "character":  9,
-                       "art":  9.2,
-                       "enjoyment":  9.6
-                   },
-        "status":  "Completed",
-        "seasons":  4,
-        "episodes":  87
-    },
-    {
-        "id":  "3",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Oshi no Ko",
-        "type":  "Manga",
-        "chapters":  166,
-        "volumes":  12,
-        "coverImage":  "https://cdn.myanimelist.net/images/manga/3/233991.jpg",
-        "genres":  [
-                       "Drama",
-                       "Supernatural",
-                       "Mystery"
-                   ],
-        "synopsis":  "A doctor and his patient are reincarnated as the twin children of a beloved idol, navigating the dark underbelly of the entertainment industry.",
-        "review":  "A brilliant blend of industry critique and supernatural mystery. The first arc is a perfect hook. The genre-switching keeps things fresh.",
-        "scores":  {
-                       "story":  9,
-                       "character":  9.2,
-                       "art":  8.8,
-                       "enjoyment":  9
-                   },
-        "status":  "Completed"
-    },
-    {
-        "id":  "4",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/5c612573-fe38-42df-8618-dc3de1c9d04a"
-                          }
-                      ],
-        "title":  "Solo Leveling",
-        "type":  "Manhwa",
-        "coverImage":  "https://upload.wikimedia.org/wikipedia/id/9/99/Solo_Leveling_Webtoon.png",
-        "genres":  [
-                       "Action",
-                       "Fantasy",
-                       "System",
-                       "Adventure",
-                       "Necromancer"
-                   ],
-        "synopsis":  "Sung Jin-Woo, the weakest E-rank hunter, gains a unique system that lets him level up infinitely, transforming from prey into the most powerful hunter in the world.",
-        "review":  "An absolute page-turner. The progression system and escalating stakes make every arc feel earned. The art improves dramatically over time, reaching jaw-dropping levels in the final chapters.",
-        "scores":  {
-                       "story":  8.5,
-                       "character":  8,
-                       "art":  9.8,
-                       "enjoyment":  9.5
-                   },
-        "status":  "Completed"
-    },
-    {
-        "id":  "5",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/caf1c938-7512-4850-9b60-9c15f9dca173"
-                          }
-                      ],
-        "title":  "The Beginning After The End",
-        "type":  "Manhwa",
-        "coverImage":  "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1652424163i/60099365.jpg",
-        "genres":  [
-                       "Fantasy",
-                       "Reincarnation",
-                       "Action",
-                       "Adventure"
-                   ],
-        "synopsis":  "A powerful king reincarnates into a magical world as a baby, retaining his memories. He navigates childhood while building toward an extraordinary new life.",
-        "review":  "Great world-building and character growth. The art is consistently gorgeous. The pacing dips in the middle but recovers strongly.",
-        "scores":  {
-                       "story":  8,
-                       "character":  8.5,
-                       "art":  9.2,
-                       "enjoyment":  8.7
-                   },
-        "status":  "Ongoing"
-    },
-    {
-        "id":  "6",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/911071c9-4c37-444d-bcda-dc605c6f67a8"
-                          }
-                      ],
-        "title":  "Tower of God",
-        "type":  "Manhwa",
-        "coverImage":  "https://cdn.myanimelist.net/images/manga/2/223694.jpg",
-        "genres":  [
-                       "Action",
-                       "Fantasy",
-                       "Mystery",
-                       "Adventure"
-                   ],
-        "synopsis":  "A boy named Bam enters a mysterious tower to find his friend, climbing floors that test strength, intelligence, and willpower against other climbers.",
-        "review":  "Massive and creative world with deep lore. The early seasons are peak webtoon storytelling. The art starts rough but evolves beautifully.",
-        "scores":  {
-                       "story":  8.5,
-                       "character":  8.3,
-                       "art":  7.8,
-                       "enjoyment":  8.5
-                   },
-        "status":  "Ongoing"
-    },
-    {
-        "id":  "7",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/799eb33b-c086-47a6-b4e0-4516cb87bc77"
-                          }
-                      ],
-        "title":  "Omniscient Reader\u0027s Viewpoint",
-        "type":  "Manhwa",
-        "coverImage":  "https://cdn.myanimelist.net/images/manga/2/238873.jpg",
-        "genres":  [
-                       "Action",
-                       "Fantasy",
-                       "Drama",
-                       "Mystery"
-                   ],
-        "synopsis":  "When the world transforms into the setting of a web novel only Kim Dokja read to completion, he uses his unique knowledge to survive and protect his companions.",
-        "review":  "One of the most clever narrative structures in manhwa. The meta-commentary on storytelling is brilliant, and the character bonds are deeply emotional.",
-        "scores":  {
-                       "story":  9.5,
-                       "character":  9.9,
-                       "art":  9.3,
-                       "enjoyment":  9.8
-                   },
-        "status":  "Ongoing"
-    },
-    {
-        "id":  "8",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/6193d77a-1470-4365-9663-33027409325f"
-                          }
-                      ],
-        "title":  "The Greatest Estate Developer",
-        "type":  "Manhwa",
-        "coverImage":  "https://cdn.myanimelist.net/images/manga/1/290131.jpg",
-        "genres":  [
-                       "Adventure",
-                       "Comedy",
-                       "Fantasy",
-                       "Isekai",
-                       "Reincarnation"
-                   ],
-        "synopsis":  "Kim Suho, a civil engineering student, wakes up as Lloyd Frontera, a disgraced noble whose family is drowning in debt. Using his engineering knowledge and magical construction abilities, he develops innovative infrastructure and transforms the territory to secure a prosperous future.",
-        "review":  "GOATED MANHWA KAWKAWKAWK LUCU BANGET LAGI SEMUAN.",
-        "scores":  {
-                       "story":  9.8,
-                       "character":  10,
-                       "art":  9,
-                       "enjoyment":  10
-                   },
-        "status":  "Completed",
-        "chapters":  222
-    },
-    {
-        "id":  "9",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Grand Blue",
-        "type":  "Manga",
-        "coverImage":  "https://cdn.myanimelist.net/images/manga/2/166124.jpg",
-        "genres":  [
-                       "Comedy",
-                       "Adult Cast",
-                       "Gag Humor",
-                       "Seinen"
-                   ],
-        "synopsis":  "Iori Kitahara begins his freshman year at Izu University and moves into his uncle\u0027s scuba diving shop, Grand Blue, hoping to enjoy an ideal college life. Instead, he gets caught up with a rowdy group of upperclassmen whose wild drinking parties lead to chaotic and hilarious situations, complicating his plans for a normal university experience.",
-        "review":  "cocok buat lu yang kehidupanya ancur ancuran, komedinya sangat membantu lu buat tertawa, romance tipis tipis juga",
-        "scores":  {
-                       "story":  8.2,
-                       "character":  9,
-                       "art":  9,
-                       "enjoyment":  10
-                   },
-        "status":  "Ongoing",
-        "chapters":  112
-    },
-    {
-        "id":  "10",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Kaguya-sama: Love Is War",
-        "type":  "Manga",
-        "coverImage":  "https://cdn.myanimelist.net/images/manga/3/188896.jpg",
-        "genres":  [
-                       "Award Winning",
-                       "Comedy",
-                       "Romance",
-                       "School",
-                       "Seinen"
-                   ],
-        "synopsis":  "Miyuki Shirogane, the brilliant student council president of Shuchiin Academy, and Kaguya Shinomiya, the wealthy and talented vice president, have secretly developed feelings for each other. However, both are too proud to confess, believing that doing so would mean losing their pride. Their relationship becomes a battle of wits as each tries to make the other confess first through clever schemes and hilarious daily antics.",
-        "review":  "ROMCOM TERBAIK NO DEBATE, ribut kita kalo gasuka",
-        "scores":  {
-                       "story":  10,
-                       "character":  10,
-                       "art":  9,
-                       "enjoyment":  10
-                   },
-        "status":  "Completed",
-        "chapters":  281
-    },
-    {
-        "id":  "11",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Haikyuu!!",
-        "type":  "Manga",
-        "coverImage":  "https://cdn.myanimelist.net/images/manga/2/258225.jpg",
-        "genres":  [
-                       "Award Winning",
-                       "Sports",
-                       "School",
-                       "Team Sports",
-                       "Shounen"
-                   ],
-        "synopsis":  "Shouyou Hinata dreams of becoming a great volleyball player after being inspired by the legendary Little Giant. Despite his short stature, Hinata joins Karasuno High School to pursue his dream, only to discover that his former rival, Tobio Kageyama, is now his teammate. The two must overcome their differences, improve their skills, and work together with the rest of the team to compete against the strongest high school volleyball teams in Japan.",
-        "review":  "gw sebut ini best sports manga. Belom ada yg setara menurut gw selain Slam Dunk yang emang peak tapi ini tu juga peak",
-        "scores":  {
-                       "story":  9.9,
-                       "character":  9.8,
-                       "art":  10,
-                       "enjoyment":  10
-                   },
-        "status":  "Completed",
-        "chapters":  407
-    },
-    {
-        "id":  "12",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/d62e901f-7882-4ca9-9915-4a82f0de971f"
-                          }
-                      ],
-        "title":  "Fated To Be Loved By Villains",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/14703623-87e3-4298-8b61-faf9f1756fcc.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Fantasy",
-                       "Harem",
-                       "Romance"
-                   ],
-        "synopsis":  "A veteran player of the game Savior Rising finds himself inhabiting the body of Dawood Campbell, a powerless noble living on the outskirts of society. Hoping to live quietly and avoid attention, he instead encounters Elnore Elinarize la Tristan, the game\u0027s final boss and vessel of the Grey Demon. This meeting grants him two special abilities: Desperate Survival, which makes him stronger when his chances of survival decrease, and Deadly Charm, which attracts people with Evil Traits. As he becomes entangled with Elnore and other Demon vessels, Dawood must use his veteran gaming knowledge to overcome dangerous challenges while navigating the growing attention of those drawn to him.",
-        "review":  "ampas sih, pantes di axed wkwkkw",
-        "scores":  {
-                       "story":  6,
-                       "character":  5,
-                       "art":  6,
-                       "enjoyment":  8
-                   },
-        "status":  "Ongoing",
-        "chapters":  55
-    },
-    {
-        "id":  "13",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/e113cf28-241b-46f8-b27c-deb8e17b15eb"
-                          }
-                      ],
-        "title":  "I Killed the Academy Player",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/fd4909e1-a840-4aa8-a065-da45a7be4c2f.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Harem"
-                   ],
-        "synopsis":  "The protagonist has killed the player of the academy, a person he considers an extremely irritating bastard. As the story unfolds in an academy setting filled with action and fantasy, he must face the consequences of his actions and navigate the challenges that follow.",
-        "review":  "Harem pada umumnya, kurang di writing sama pacing yang keliatan aneh banget",
-        "scores":  {
-                       "story":  8.8,
-                       "character":  8.9,
-                       "art":  7.9,
-                       "enjoyment":  8.2
-                   },
-        "status":  "Ongoing",
-        "chapters":  140
-    },
-    {
-        "id":  "14",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/a34b8eec-d610-43ce-9528-a1463d3add5e"
-                          }
-                      ],
-        "title":  "All My Alter Egos Are Tycoons",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/0f9e0b32-50f3-4f5d-8dda-90b2bfa2e29d.jpg",
-        "genres":  [
-                       "Action",
-                       "Fantasy",
-                       "Shounen"
-                   ],
-        "synopsis":  "Han Sunghyun loses his family in a random attack by superhumans and isolates himself due to the trauma. One day, he awakens the ability to control avatars that can venture into dangerous worlds while he stays home and focuses on growing stronger. As his avatars develop across dimensions, races, and professions, Han Sunghyun begins hunting superhumans who abuse their powers.",
-        "review":  "Konsepnya menarik dia punya banyak avatar di tiap dunia, cmn konfliknnya makin lama makin gajelas",
-        "scores":  {
-                       "story":  7,
-                       "character":  5,
-                       "art":  7,
-                       "enjoyment":  8.8
-                   },
-        "status":  "Ongoing",
-        "chapters":  101
-    },
-    {
-        "id":  "15",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/dbe6a27e-7757-4175-86b9-4d9e2d0b3aab"
-                          }
-                      ],
-        "title":  "I Took Over the Academy With a Single Sashimi Knife",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/4f8b94ee-00dd-4e41-af29-8111815124ab.jpg",
-        "genres":  [
-                       "Action",
-                       "Drama",
-                       "Fantasy",
-                       "School Life",
-                       "Seinen",
-                       "Harem"
-                   ],
-        "synopsis":  "Once known as the greatest swordsman in the country, the protagonist finds himself inside a mobile game he had only played a few times. Blessed by the Sword God, he gains extraordinary swordsmanship abilities, but there is a catch: the only weapon he can use is a sashimi knife. With the power to become a Sword Saint for just one minute a day, he must use his limited time and skill to overcome the challenges of the academy.",
-        "review":  "ini diawal bagus banget, nge hook nya tu bagus konsepnya HIGH RISK HIGH REWARD, tapi makin lama makin gajelas konfliknya",
-        "scores":  {
-                       "story":  8.3,
-                       "character":  7.4,
-                       "art":  6.9,
-                       "enjoyment":  9.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  99
-    },
-    {
-        "id":  "16",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/dd8ac0a4-b6ec-4f46-842c-98871ea3dc43"
-                          }
-                      ],
-        "title":  "Infinite Mage",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/aa11749a-3c0a-4c96-b356-25a49d952c3d.jpeg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Drama",
-                       "Fantasy",
-                       "Shounen",
-                       "Supernatural"
-                   ],
-        "synopsis":  "Shirone was abandoned in a stable as a child and raised by ordinary people. Born with an innate ability to learn and write, he discovers the wonder of magic during a visit to the city and dreams of becoming a mage. However, in a world ruled by rigid social barriers, his journey is filled with cruelty and challenges. Before reaching adulthood, Shirone begins to uncover the harsh realities of the world as he pursues his dream of becoming a great mage.",
-        "review":  "PEAKKKKK, one of the best writing terutama di power systemnya gokil ni manhwa. Pacingnya tu di 100ch awal bagus banget.",
-        "scores":  {
-                       "story":  9.2,
-                       "character":  9.8,
-                       "art":  9,
-                       "enjoyment":  10
-                   },
-        "status":  "Ongoing",
-        "chapters":  190
-    },
-    {
-        "id":  "17",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/e08e1f17-f730-4f7d-bdc2-8d912f583e07"
-                          }
-                      ],
-        "title":  "Magic Academy\u0027s Genius Blinker",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/09ec5da0-a61d-46c3-a9b6-efa6733e3e7c.jpg",
-        "genres":  [
-                       "Action",
-                       "Drama",
-                       "Fantasy",
-                       "Harem",
-                       "School Life",
-                       "Shounen"
-                   ],
-        "synopsis":  "Baek Yuseol is considered one of the weakest characters in a fantasy game because he cannot use ordinary magic. After a bad ending destroys 90% of the Aether World, he is suddenly transported into the game and tasked with achieving the True Ending. His only ability is Blink, a teleportation skill that seems insignificant compared to the magic wielded by the geniuses of Stella Academy. Using this unique ability, Baek Yuseol must survive academy life, overcome dangerous challenges, and work toward saving the world.",
-        "review":  "I LOVE THE MC SO MUCH, dia tu serasa NPC tapi MC gitu dah, trus char Haremnya tidak SEBURUK HAREM MANHWA TYPE SHI LAIN NYA.",
-        "scores":  {
-                       "story":  8.9,
-                       "character":  9.8,
-                       "art":  8.9,
-                       "enjoyment":  10
-                   },
-        "status":  "Ongoing",
-        "chapters":  100
-    },
-    {
-        "id":  "18",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/fc727dec-d1f5-43e8-a77d-37382f636659"
-                          }
-                      ],
-        "title":  "A Disaster-Class Hero Has Returned",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/0b9adea3-f7b5-4688-94e7-f1d441fc4f0d.jpg",
-        "genres":  [
-                       "Action",
-                       "Drama",
-                       "Tragedy"
-                   ],
-        "synopsis":  "As the world is consumed by darkness and monsters emerge from mysterious dungeons, humanity faces the threat of extinction. Awakened hunters rise to fight these monsters, and among them are thirteen powerful heroes known as the Zodiac Saints. This story follows one of these legendary heroes and his journey in a world on the brink of destruction.",
-        "review":  "Actually a good manhwa, but the story terlalu repetitive, the MC is too OP and the story is too predictable. The art is good tho.",
-        "scores":  {
-                       "story":  7,
-                       "character":  5,
-                       "art":  8,
-                       "enjoyment":  7
-                   },
-        "status":  "Ongoing",
-        "chapters":  192
-    },
-    {
-        "id":  "19",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/f96af365-8bf3-4b23-ab53-7bb6994a375d"
-                          }
-                      ],
-        "title":  "Pick Me Up (Infinite Gacha)",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/48501b78-fff5-4f44-888f-e96ddeadbe2a.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Fantasy"
-                   ],
-        "synopsis":  "Loki, a top-ranked player in the notoriously difficult mobile gacha game Pick Me Up, suddenly finds himself transformed into a low-level hero inside the game. Now trapped in a world where heroes must fight deadly battles to clear dungeons, he must lead a team, develop his abilities, and survive increasingly dangerous challenges. With every battle carrying the risk of permanent death, Loki must use his experience and strategic thinking to overcome the game\u0027s brutal trials and find a way back to his original world.",
-        "review":  "a good writing, nice concept, great art, great power system, but the pacing is too slow dan kadang kelamaan nya kerasa banget anjir.",
-        "scores":  {
-                       "story":  9.2,
-                       "character":  9.5,
-                       "art":  9.6,
-                       "enjoyment":  8.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  223
-    },
-    {
-        "id":  "20",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/11adc193-f845-47c2-9740-1b696ccb5ec7"
-                          }
-                      ],
-        "title":  "Terminally-Ill Genius Dark Knight",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/496bcaa6-248c-45c7-99ed-f1953745a632.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Game",
-                       "Psychological",
-                       "Harem"
-                   ],
-        "synopsis":  "Yoo Chan, a young man who has suffered from a terminal illness since childhood, has spent much of his life playing a notoriously difficult fantasy RPG. One day, the game becomes his reality, and he finds himself inhabiting the body of Nox von Reinharber, the worst villain in the game\u0027s first part. Trapped in a dangerous world where every decision matters, Yoo Chan must use his knowledge of the game to survive and find a way to reach the story\u0027s ending alive.",
-        "review":  "good story, good development terutama di social nya MC",
-        "scores":  {
-                       "story":  9,
-                       "character":  8.7,
-                       "art":  7.2,
-                       "enjoyment":  9.8
-                   },
-        "status":  "Ongoing",
-        "chapters":  169
-    },
-    {
-        "id":  "21",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/eefbdd4d-a794-43da-9725-180c98114d40"
-                          }
-                      ],
-        "title":  "The Regressed Mercenary\u0027s Machinations",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/fbc898d3-05f9-4042-9504-382d8ac2a09a.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy"
-                   ],
-        "synopsis":  "Ghislain Perdium, the Mercenary King and one of the strongest men on the continent, launches a war to avenge his family. His revenge proceeds smoothly until he is unexpectedly killed by Idun. Believing his life has ended, Ghislain awakens in his younger body before his family falls into ruin. Given a second chance, he sets out to change the course of events, correct the mistakes of his previous life, and prevent his family\u0027s downfall.",
-        "review":  "ini writing, pacing nya bagus banget, MINUSNYA kaya ga niat di lanjutin banget sama studionya padahal.",
-        "scores":  {
-                       "story":  9.4,
-                       "character":  9.2,
-                       "art":  8,
-                       "enjoyment":  9.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  110
-    },
-    {
-        "id":  "22",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/2117a402-4b65-479b-9e2f-400537016127"
-                          }
-                      ],
-        "title":  "Archmage Restaurant",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/c1fa0d49-1ed1-4547-92b4-19e46e6ed7fc.jpg",
-        "genres":  [
-                       "Action",
-                       "Comedy",
-                       "Fantasy",
-                       "Shounen",
-                       "Cooking",
-                       "Slice of Life"
-                   ],
-        "synopsis":  "A man who dreams of becoming a famous chef is transported to a world filled with monsters and magic after an accident. Instead of opening his own restaurant, he is forced to join the military and spends fifteen years fighting in a war. After finally achieving his dream of becoming a restaurant owner, he begins a new chapter of his life as an archmage who serves delicious meals in a fantasy world.",
-        "review":  "komedi tipu getah anying, gw nangis mulu baca side story char yg jadi slice of life nya",
-        "scores":  {
-                       "story":  8.7,
-                       "character":  9,
-                       "art":  8.5,
-                       "enjoyment":  8
-                   },
-        "status":  "Ongoing",
-        "chapters":  155
-    },
-    {
-        "id":  "23",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/703f6c7a-ad78-4d50-b5cc-c768c0a12fdb"
-                          }
-                      ],
-        "title":  "Revenge of the Iron-Blooded Sword Hound",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/b1386bf8-72c5-4fac-81cc-04bf1899ddbd.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Martial Arts",
-                       "Supernatural"
-                   ],
-        "synopsis":  "Vikir, the loyal hunting dog of the powerful Baskerville family, is rewarded for his service with execution by guillotine. However, death grants him an unexpected second chance, sending him back to an earlier point in his life. Remembering the betrayal and suffering he endured, Vikir abandons his former loyalty and vows to take revenge on Hugo Baskerville. Armed with his memories and determination, he begins a new path to change his fate and destroy those who wronged him.",
-        "review":  "best regression manhwa, alurnya pace nya mantep banget, TIAP CHAR TU GA DI SIA SIA IN AUTHOR TERUTAMA HAREMNYA VIKRI. Minus 1 lagi masuk arc bosenin banget anjg",
-        "scores":  {
-                       "story":  9.2,
-                       "character":  9.2,
-                       "art":  9.2,
-                       "enjoyment":  10
-                   },
-        "status":  "Ongoing",
-        "chapters":  184
-    },
-    {
-        "id":  "24",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/bd6e8536-6af4-4bf1-b159-8b79284799d0"
-                          }
-                      ],
-        "title":  "The Extra\u0027s Academy Survival Guide",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/b0966700-f834-11f0-9901-59dcf2a54fad.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Drama",
-                       "Fantasy",
-                       "Romance",
-                       "School Life",
-                       "Seinen",
-                       "Supernatural"
-                   ],
-        "synopsis":  "After possessing the body of a third-rate villainous extra in his favorite game, the protagonist has no desire to become a hero or pursue grand ambitions. All he wants is to live a quiet and peaceful life. Unfortunately, the world of the game is far more dangerous than he expected, forcing him to rely on his knowledge and resourcefulness to survive. Determined to make it to the end of the story, he must find his own way to endure the academy\u0027s challenges without following the protagonist\u0027s path.",
-        "review":  "manhwa akademi template yang LEBIH bagus dari si siapa",
-        "scores":  {
-                       "story":  8.5,
-                       "character":  8.9,
-                       "art":  8.9,
-                       "enjoyment":  9.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  128
-    },
-    {
-        "id":  "25",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/103ec374-ff4d-411f-96f2-bbd30629e3d1"
-                          }
-                      ],
-        "title":  "The Legendary Hero Is an Academy Honors Student",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/754ccbdd-fd66-4a33-8e34-21eb30024856.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Magic",
-                       "Reincarnation",
-                       "Harem",
-                       "Shounen"
-                   ],
-        "synopsis":  "Five thousand years ago, the legendary hero Kyle defeated Erebos, the origin of evil, during the Age of Despair. After reincarnating as Leo with all his memories intact, he discovers that his name has been erased from the Hero Record, a divine record of heroic achievements, and that modern society considers him fictional. Determined to uncover the truth, Leo enrolls at Lumene Academy, a prestigious hero academy that safeguards the Hero Record. He aims to become the academy\u0027s top student and discover why history has forgotten him.",
-        "review":  "SUMPAH, ini baru writing dialog yang bagus banget, gw suka banget kalau manhwa punya kata kata indah kaya di Manhwa ini, ceritanya juga ga kaleng, konsep dungeon yang time reversed itu gila keren juga, MC nya juga ga se idiot itu, dan emg goated juga",
-        "scores":  {
-                       "story":  9.8,
-                       "character":  9,
-                       "art":  10,
-                       "enjoyment":  9.1
-                   },
-        "status":  "Ongoing",
-        "chapters":  108
-    },
-    {
-        "id":  "26",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/906b7e73-e438-44b7-9f77-ba6bb0188d88"
-                          }
-                      ],
-        "title":  "Regressing as the Reincarnated Bastard of the Sword Clan",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/555379d8-d6d0-4c6e-8567-e6d0486c8ff3.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Drama",
-                       "Fantasy",
-                       "Supernatural"
-                   ],
-        "synopsis":  "Theo Ragnar belongs to the mighty Ragnar clan, a grand ducal family renowned for its ancient history, powerful Dragon Knights, and dominion over the Northern Wall and Winter Mountains. Despite his lineage, Theo is determined to claim the clan\u0027s throne and break free from the cursed chains that bind him. Relying on his own strength and resolve, he sets out to overcome the obstacles surrounding his birth and change his destiny within one of the continent\u0027s most powerful families.",
-        "review":  "Asli agak fresh si, lu reinkarnasi ternyata dari dulu udah ada jga yg reinkarnasi jadi MC nya tu ketawan kalo dia Reinkarnasi, cmn karakter nya ga sedalem itu men (GAMENARIK)",
-        "scores":  {
-                       "story":  9,
-                       "character":  8.2,
-                       "art":  9.8,
-                       "enjoyment":  8.2
-                   },
-        "status":  "Ongoing",
-        "chapters":  116
-    },
-    {
-        "id":  "27",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/729ad430-8087-47c0-963d-84a40939efe2"
-                          }
-                      ],
-        "title":  "I Became the Genius Bastard of a Noble Dark Clan",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/92d3500c-555b-469a-8ead-a0c7ea282076.jpg",
-        "genres":  [
-                       "Drama",
-                       "Fantasy",
-                       "Supernatural"
-                   ],
-        "synopsis":  "After fighting alongside a Hero\u0027s Party and suffering a fatal injury, Chris wishes to be reborn into a wealthy family. His wish comes true when he awakens as Christian van Baren Kazar, the infamous and seemingly useless illegitimate son of an immensely powerful dark magic clan. However, Christian is destined to die in just two years, and surviving that fate is only the beginning, as he must also prevent the world\u0027s destruction. Determined to enjoy his new life of wealth and luxury, Chris decides to seize control of the clan and become the Demon King himself, relying on his extraordinary genius to overcome the challenges ahead.",
-        "review":  "not that bad, kalo gabut aja baca ini pacing nya slow tapi lumayan lah, MC nya juga ga idiot banget, dan konsepnya juga lumayan fresh",
-        "scores":  {
-                       "story":  7.2,
-                       "character":  8,
-                       "art":  8.4,
-                       "enjoyment":  8
-                   },
-        "status":  "Ongoing",
-        "chapters":  74
-    },
-    {
-        "id":  "28",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/4bf6c017-842e-48a1-8a2a-f6160c1d8d44"
-                          }
-                      ],
-        "title":  "Star-Embracing Swordmaster",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/8c20c0f2-aefc-4327-8b8e-e1bf5c5da91a.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy"
-                   ],
-        "synopsis":  "Vlad is an orphan living in the slums who dreams of becoming a knight. After being struck by black lightning, he begins hearing a mysterious voice. His life changes dramatically when he encounters a knight wielding blue moonlight, setting him on a path toward a world far beyond the slums. Though he begins as a dim star in the night sky, Vlad is determined to rise and shine through his own strength and ambition.",
-        "review":  "ini representin KNIGHT banget, ASLI FRESH CONCEPT DAN MC GA DIBIKIN JADI OP MAMPUS, every char has their own development :))))",
-        "scores":  {
-                       "story":  9.5,
-                       "character":  9.7,
-                       "art":  9.8,
-                       "enjoyment":  9.6
-                   },
-        "status":  "Ongoing",
-        "chapters":  142
-    },
-    {
-        "id":  "29",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/a7c7a576-f2cc-47c7-b915-bb64212f8b56"
-                          }
-                      ],
-        "title":  "Ranker\u0027s Return (Remake)",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/2339fb8e-1e87-45ac-a738-5b209095df9a.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Fantasy",
-                       "Shounen"
-                   ],
-        "synopsis":  "During the early days of the virtual reality game Arena, MeleeGod was its strongest ranker. At the height of his fame, he deleted his character and suddenly left the game. Years later, his family\u0027s financial troubles force him to return to Arena. Starting over with a new character, he must use his former experience and exceptional gaming skills to rise through the ranks once again and help his family recover.",
-        "review":  "Great remake with improved art and story pacing. The character development is well done and the action scenes are exciting.",
-        "scores":  {
-                       "story":  9,
-                       "character":  9,
-                       "art":  8.9,
-                       "enjoyment":  9.2
-                   },
-        "status":  "Ongoing",
-        "chapters":  265
-    },
-    {
-        "id":  "30",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/f70af567-5f45-4859-8222-e41eb10ac169"
-                          }
-                      ],
-        "title":  "Swordmaster\u0027s Youngest Son",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/944df245-bf03-4387-bf5d-885ad6ea0c4b.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Shounen"
-                   ],
-        "synopsis":  "Jin Runcandel is the youngest son of the prestigious Runcandel clan, a family renowned for producing powerful swordmasters. Despite his lineage, he is considered a failure and is eventually cast out. After meeting a tragic end, Jin receives a second chance at life and regains the opportunity to change his fate. Armed with memories of his previous life and a stronger determination, he sets out to master the sword, uncover the secrets surrounding his family, and claim his rightful place among the world\u0027s greatest warriors.",
-        "review":  "actually i love the 1st 30 chapters, but lama lama boring bacanya mc gampang kena powercreep ah bete",
-        "scores":  {
-                       "story":  8,
-                       "character":  8.5,
-                       "art":  8.8,
-                       "enjoyment":  8.2
-                   },
-        "status":  "Ongoing",
-        "chapters":  216
-    },
-    {
-        "id":  "31",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/a0b5651b-584b-4f5b-a4aa-8a68c15320c0"
-                          }
-                      ],
-        "title":  "Childhood Friend of the Zenith",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/f8e0ca5f-04f8-431c-b71a-4c5a6950feb9.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Martial Arts"
-                   ],
-        "synopsis":  "Gu Yangcheon once served the Heavenly Demon as a Demonic Human, committing countless crimes under his influence. After the Orthodox factions defeat the Heavenly Demon, Gu is captured and forced to face the consequences of his actions. Before dying, he reveals information about the Demon Cult to Wi Seol-Ah, bound by the connection they share. For reasons he cannot explain, Gu then regresses to the time when he first met her. Determined to live peacefully and avoid repeating his past mistakes, he soon discovers that the complicated relationships and consequences of his former life are catching up with him.",
-        "review":  "template academy tapi VERSI MURIM",
-        "scores":  {
-                       "story":  9.2,
-                       "character":  9,
-                       "art":  9.7,
-                       "enjoyment":  9.6
-                   },
-        "status":  "Ongoing",
-        "chapters":  110
-    },
-    {
-        "id":  "32",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/c1b09df6-001d-4eec-ba58-d74d97ca3a36"
-                          }
-                      ],
-        "title":  "The Heavenly Demon Can\u0027t Live a Normal Life",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/28988605-54a5-463a-b40b-ae4a1a6c57d7.jpg",
-        "genres":  [
-                       "Action",
-                       "Fantasy"
-                   ],
-        "synopsis":  "Baek Joong-Hyuk, the Heavenly Demon, awakens in the body of Roman Dimitry, the eldest son of the Dimitry family. In his new life, Roman is regarded as a fool and is constantly overshadowed by his younger brother. However, the world has gravely underestimated the person he has become. Carrying the overwhelming will and strength of the Heavenly Demon, Roman refuses to live according to other people\u0027s expectations and begins to reshape the world around him.",
-        "review":  "GODLY GOOD, konsep murim yang dibawa ke fantasy world (tipikal sword and magic) itu menurut gw bagus terutama di manhwa ya dan MC tipikal komander yang mau ngebuild army nya itu gw suka bet jir good manhwa",
-        "scores":  {
-                       "story":  9.3,
-                       "character":  9.5,
-                       "art":  9.1,
-                       "enjoyment":  9
-                   },
-        "status":  "Ongoing",
-        "chapters":  209
-    },
-    {
-        "id":  "33",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/088e0611-f9d9-4732-a030-ede3c6f92a03"
-                          }
-                      ],
-        "title":  "Necromancer Academy\u0027s Genius Summoner",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/89e590d0-994e-4967-88be-c70cd4b56fc7.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Drama",
-                       "Fantasy",
-                       "Harem",
-                       "Romance",
-                       "School Life",
-                       "Shounen",
-                       "Necromancer",
-                       "Supernatural"
-                   ],
-        "synopsis":  "Necromancers are feared magic practitioners whose power can bring entire kingdoms to their knees. Simon Follentia is a young necromancer with extraordinary hidden talent who is recruited into a prestigious necromancer academy. As he begins his training, Simon discovers the true extent of his abilities. However, his exceptional talent attracts unexpected attention and leads to complications that could change his life and the world around him.",
-        "review":  "seangkatan sama Shirou (infinite mage) tapi ini lebi kureng dan PACE nya kadang cepet kadang lemot dan gw kurang suka sama artnya agak tidak nyaman.",
-        "scores":  {
-                       "story":  8.1,
-                       "character":  7,
-                       "art":  7.2,
-                       "enjoyment":  7.3
-                   },
-        "status":  "Ongoing",
-        "chapters":  220
-    },
-    {
-        "id":  "34",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/c44dc1b4-898d-404c-855e-910940c0496b"
-                          }
-                      ],
-        "title":  "The Novel\u0027s Extra (Remake)",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/1515a60e-c3d2-49b2-9d79-b97df90b1736.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Drama",
-                       "Fantasy",
-                       "Harem"
-                   ],
-        "synopsis":  "Kim Hajin wakes up in a world he recognizes, only to discover that he is trapped inside the unfinished novel he created. Instead of becoming the protagonist, he finds himself inhabiting the body of an insignificant extra character. His only apparent way to survive is to stay close to the original storyline, but he soon realizes that this world differs from the one he wrote. As unexpected changes unfold, Hajin must adapt to a reality that no longer follows his plans.",
-        "review":  "KING GWE KING HAJIN, how the author can make a story about a guy who is an extra in his own novel and make it interesting is beyond me, the writing is good, the pacing is good, the art is good, the character development is good, the world building is good, everything is good.",
-        "scores":  {
-                       "story":  9.3,
-                       "character":  9.5,
-                       "art":  9.1,
-                       "enjoyment":  9
-                   },
-        "status":  "Ongoing",
-        "chapters":  175
-    },
-    {
-        "id":  "35",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Mercenary Enrollment",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/1d57a548-4b29-40ee-b542-920e2c34c143.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Drama",
-                       "Military",
-                       "Romance",
-                       "School Life",
-                       "Sci-Fi"
-                   ],
-        "synopsis":  "Yu Ijin is the sole survivor of a plane crash that left him stranded in a foreign land as a child. Forced to survive, he spends ten years becoming a highly skilled mercenary. When he finally returns to his hometown, Ijin reunites with his family and attempts to live an ordinary life as a student. However, his dangerous past and exceptional combat abilities continue to draw him into conflicts, forcing him to protect the people he cares about.",
-        "review":  "PELER MIMPI BASAH ANAK SMA AOWOAWKOKAWKOAWOKAWOAWK",
-        "scores":  {
-                       "story":  8.6,
-                       "character":  8.8,
-                       "art":  8,
-                       "enjoyment":  9
-                   },
-        "status":  "Ongoing",
-        "chapters":  280
-    },
-    {
-        "id":  "36",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "The Reincarnated Assassin Is a Genius Swordsman",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/c8d0db00-25c4-4765-860c-e9593889db08.jpeg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Martial Arts",
-                       "Supernatural"
-                   ],
-        "synopsis":  "Roan spent his former life living like a chained dog, controlled by others and unable to choose his own path. Through an unexpected twist of fate, he receives a new life and the chance to stand on his own. Determined never to be controlled again, Roan resolves to forge his destiny through his swordsmanship and eliminate anyone who stands in his way, even if that opponent is a god.",
-        "review":  "gw lupa jadi gw coba baca lagi ah ternyata cerita ini lagi",
-        "scores":  {
-                       "story":  8.2,
-                       "character":  7.5,
-                       "art":  7.5,
-                       "enjoyment":  8
-                   },
-        "status":  "Ongoing",
-        "chapters":  97
-    },
-    {
-        "id":  "37",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/96146b21-e04c-43bf-8a41-45fb105eec52"
-                          }
-                      ],
-        "title":  "I\u0027m Not That Kind of Talent",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/8352b9f6-4f04-41bb-a17e-b51b18bb81ec.jpg",
-        "genres":  [
-                       "Action",
-                       "Fantasy",
-                       "Shounen",
-                       "Comedy"
-                   ],
-        "synopsis":  "Deon Hardt is a frail man who can barely withstand even the slightest pressure and is often mistaken for someone far more terrifying than he really is. Due to a series of misunderstandings, the Demon King believes Deon is a powerful warrior who killed the legendary Hero. Unbeknownst to Deon, he displays a completely different and frightening personality when drunk, creating even more confusion around his true nature. As these misunderstandings spiral out of control, his life becomes an unpredictable mix of comedy, danger, and dark fantasy.",
-        "review":  "GOOD STORY, tentang salah paham WKWKKWK ini lucu banget anjir",
-        "scores":  {
-                       "story":  9,
-                       "character":  9.5,
-                       "art":  8.5,
-                       "enjoyment":  9.2
-                   },
-        "status":  "Ongoing",
-        "chapters":  126
-    },
-    {
-        "id":  "38",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "The 100th Regression of the Max-Level Player",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/40ed6646-21a7-48d9-bf08-7fcf2a6fcded.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy"
-                   ],
-        "synopsis":  "People between the ages of fifteen and twenty-five around the world are forced to participate in a deadly game consisting of twenty rounds. Ryu Min reaches the entrance to the final round alone, only to discover that he cannot proceed without a team of five. Now facing his hundredth and final regression, he uses the knowledge gained from his previous ninety-nine attempts to recruit the teammates he needs. With everything at stake, Ryu Min must overcome the challenges of the death game and find a way to reach its conclusion.",
-        "review":  "menang art sama enjoyment gw baca, cmn ya tadi ini tu story nya template banget, regresi trus ngumpulin org op, trus dia jadi op yaudah gitu gada samting new",
-        "scores":  {
-                       "story":  8.5,
-                       "character":  8.2,
-                       "art":  9,
-                       "enjoyment":  9.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  89
-    },
-    {
-        "id":  "39",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "The Max Level Hero Has Returned!",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/de3cfe79-dd2d-484e-8b7a-2b4c203c0ee8.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Isekai",
-                       "Shounen"
-                   ],
-        "synopsis":  "Davey is a weak prince of a small kingdom who falls into a coma. While his body remains unconscious, his soul travels to a mysterious place where the spirits of legendary heroes gather. There, he undergoes intense training under these heroes and eventually reaches the maximum level. After returning to his body, Davey begins using his newfound abilities to confront his enemies, uncover hidden truths, and pursue revenge while reclaiming his place in the royal world.",
-        "review":  "it hooks me on 50 chapters tapi ujungnya ini cerita mau dibawa kemana tuh jadi gajelas MC udah kelewat OP tapi authornya bingung mau ngapain anjir lah",
-        "scores":  {
-                       "story":  7.5,
-                       "character":  8,
-                       "art":  7.2,
-                       "enjoyment":  8.2
-                   },
-        "status":  "Ongoing",
-        "chapters":  250
-    },
-    {
-        "id":  "40",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "The Count\u0027s Youngest Son Is a Player!",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/44958a7e-cf2f-4f87-95ca-f23ae05b4e69.jpg",
-        "genres":  [
-                       "Action",
-                       "Drama",
-                       "Fantasy",
-                       "Shounen"
-                   ],
-        "synopsis":  "After spending countless hours playing a virtual reality game, the protagonist makes enemies with a powerful guild. The conflict escalates when the guild tracks him down in the real world and kills him. However, instead of reaching the end, he regresses into the very game he once played. Given a second chance in a fantasy world, he must use his gaming knowledge and experience to survive, grow stronger, and change his fate.",
-        "review":  "FLOP pas author mulai ngerasa MC terlalu hoki wkwkwk, bingung kan lu bikin MC yg sempurna jadi punya flaw, makanya jangan ngide bikin MC sempurna tor",
-        "scores":  {
-                       "story":  7.3,
-                       "character":  7.5,
-                       "art":  7.5,
-                       "enjoyment":  8
-                   },
-        "status":  "Ongoing",
-        "chapters":  159
-    },
-    {
-        "id":  "41",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Return of the Legend",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/098441ea-fb56-484a-9778-4d3fc8fb63a5.jpg",
-        "genres":  [
-                       "Reincarnation"
-                   ],
-        "synopsis":  "Jang Taesan loses his job after the security company he works for collapses during an economic crisis. His life takes a tragic turn when he dies saving an elementary school student from an oncoming car. As a reward for his selfless act, he returns fourteen years into the past. Although he dreads having to take university entrance exams again, he retains memories of the exams he studied for and the stock market trends he encountered while working as a stockbroker. With this knowledge, Taesan sets out to turn his second chance into a successful life.",
-        "review":  "mimpi basah anak ESEMPEH, OWAKOAWOKAWOKAW mimpi basah gw juga anjink balik ke 2010 trus beli BTC pake tabungan",
-        "scores":  {
-                       "story":  8.5,
-                       "character":  8.5,
-                       "art":  8,
-                       "enjoyment":  8.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  177
-    },
-    {
-        "id":  "42",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Martial God Regressed to Level 2",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/7bde1f0e-a86b-4790-ac57-e86729a41c1e.jpg",
-        "genres":  [
-                       "Action",
-                       "Fantasy",
-                       "Martial Arts"
-                   ],
-        "synopsis":  "Humanity faces extinction after Battle Net, initially believed to be a game, becomes a deadly reality. Following the arrival of the Space League, living beings across the universe are forced to fight for survival. Earth repeatedly fails and is ultimately destroyed, leaving Seong Jihan, the Martial Saint, as humanity\u0027s last hope. His unique Nameless Divine Arts allows him to resist the system\u0027s attempt to erase him, granting humanity another opportunity. Having returned with the memories of his previous struggle, Seong Jihan vows to change the outcome and lead humanity toward survival.",
-        "review":  "cobain aja dah, gw ragu mau nilai ini gmn",
-        "scores":  {
-                       "story":  8.2,
-                       "character":  9,
-                       "art":  8.5,
-                       "enjoyment":  8.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  130
-    },
-    {
-        "id":  "43",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/73a836fe-373e-4645-a5d9-a517922be4d3"
-                          }
-                      ],
-        "title":  "SSS-Class Suicide Hunter",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/cf1eb4e5-48cb-4e9f-882d-c0b1f4346a2d.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Fantasy",
-                       "Martial Arts",
-                       "Shounen",
-                       "Tragedy"
-                   ],
-        "synopsis":  "Inside a mysterious tower resembling an RPG dungeon, Kim Gong-ja lives an ordinary life while envying the famous hunters around him. One day, he gains a legendary skill that allows him to copy another person\u0027s ability, but only at the cost of his own life. After being killed by the number-one hunter, the Flame Emperor, Gong-ja discovers that his new ability lets him return to the past whenever he dies. Using this power, he begins a dangerous journey to overcome his rivals, uncover the tower\u0027s secrets, and rise to the top.",
-        "review":  "WKKWKW one of peak manhwa dengan WRITING TIAP ARC NYA BIKIN NAGIH BUAT LANJUT, BIKIN NOVEL TU KAYA GINI LITERATUR NYA JUGA DI ANGGEP, jangan cuman imajinasi mimpi basah cik",
-        "scores":  {
-                       "story":  9.9,
-                       "character":  9.8,
-                       "art":  9.5,
-                       "enjoyment":  10
-                   },
-        "status":  "Ongoing",
-        "chapters":  156
-    },
-    {
-        "id":  "44",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/2835965e-14ff-4344-9489-222489a384f4"
-                          }
-                      ],
-        "title":  "I Obtained a Mythic Item",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/64d5d6cb-a8ac-47e1-a274-31c072ceeae3.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Demons",
-                       "Fantasy",
-                       "Magic",
-                       "Shounen"
-                   ],
-        "synopsis":  "When the World Tree Yggdrasil suddenly appears on Earth, demonic creatures emerge and devastate cities around the world. Humanity\u0027s only hope lies in a mysterious system granted to a select group of people. Min Jae-hyun, who regrets the poor choices he made in his past, struggles to survive in this dangerous new world. His fate changes when he obtains the only Mythic item in existence, giving him a rare opportunity to grow stronger, rewrite his future, and uncover the truth behind the catastrophe.",
-        "review":  "TIPIKAL regresi tapi dengan scope yang luas banget ini make system sama kaya Solev banget cmn. gw suka sama design tiap charnya makannya betah walau ga se goated itu ceritanya",
-        "scores":  {
-                       "story":  9.2,
-                       "character":  9.8,
-                       "art":  9,
-                       "enjoyment":  9.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  194
-    },
-    {
-        "id":  "45",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/382c9001-1710-4bfa-83fc-0636142df6ec"
-                          }
-                      ],
-        "title":  "The Great Mage Returns After 4000 Years",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/483d8ef0-4f05-11f0-9004-a143aa38c726.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Shounen"
-                   ],
-        "synopsis":  "Lucas Traumen, the greatest archmage in history, is cursed by a Demigod and condemned to spend eternity losing his sanity. Four thousand years later, he returns to the world inside the body of Frei Blake, the weakest and least talented student at the prestigious Westroad Academy of Magic. Discovering that magic has barely progressed during his absence, Lucas suspects the Demigods may be responsible. Determined to uncover the truth and exact his revenge, he begins rebuilding his power and pursuing the highest level of magic once again.",
-        "review":  "ADU DUDUDUDUH, great writing cmn minus 1 ajah pacing di awal terlalu kelamaan trus tb tb pacingnya jadi cepet, arc nya harusnya bisa dibikin lebih detail dalam bahas sejarah dll but GOATED LAH",
-        "scores":  {
-                       "story":  9.5,
-                       "character":  9.2,
-                       "art":  8.6,
-                       "enjoyment":  9.6
-                   },
-        "status":  "Ongoing",
-        "chapters":  278
-    },
-    {
-        "id":  "46",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Standard of Reincarnation",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/35ffa782-b197-4ae5-85b5-ddbe6458eb3e.jpeg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Martial Arts",
-                       "Reincarnation"
-                   ],
-        "synopsis":  "Daven was a one-armed martial warrior from the prestigious Samion family, forced to endure ridicule for having only his left arm. Despite the discrimination, he surpassed even the family\u0027s gifted direct descendants through sheer determination. Eventually betrayed by his family and parents, he met a tragic end. However, he is reincarnated with a right arm, a talented body, the experience of his previous life, and the support of the god Yulion. With these advantages, Daven begins a new journey to reach greater heights and reshape his destiny.",
-        "review":  "MINUS NYA INI CMN SI AUTHOR BINGUNG MAU BIKIN CERITANYA GMN ANJING, padahal kalau dia bisa nutupin plot hole yang kecil kecil menurut gw ini bakal jadi manhwa utuh yang bagus, MC yang harusnya emg bisa op sama ni author dibikin sengsara dengan konsep gajelas tai",
-        "scores":  {
-                       "story":  9.2,
-                       "character":  8.5,
-                       "art":  8.5,
-                       "enjoyment":  9.2
-                   },
-        "status":  "Ongoing",
-        "chapters":  202
-    },
-    {
-        "id":  "47",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/dbc2c8b5-11c3-49ce-a04d-b458f1d2c326"
-                          }
-                      ],
-        "title":  "I Became the Tyrant of a Defense Game",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/f2f03c21-782b-452f-86c9-1470fdaff7dd.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Isekai"
-                   ],
-        "synopsis":  "After clearing a notoriously difficult game that no one had ever beaten, the protagonist suddenly faints and wakes up inside the very game he completed. Trapped in a brutal world filled with deadly challenges, he must use his knowledge of the game to survive and overcome its seemingly impossible stages.",
-        "review":  "HOW CAN SOMEONE MAKE THISS? konsep TOWER DEFENSE DIIMPLEMENTASIIN LANGSUNG SI KEREN ANJIR. setiap char berbekas di hati gw",
-        "scores":  {
-                       "story":  9.8,
-                       "character":  9.5,
-                       "art":  9.2,
-                       "enjoyment":  10
-                   },
-        "status":  "Ongoing",
-        "chapters":  195
-    },
-    {
-        "id":  "48",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/14423a1b-8d7e-41e2-af00-ba0ba655d5f9"
-                          }
-                      ],
-        "title":  "Regressor Instruction Manual",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/4586241f-f3e7-48ed-9fd4-a790d51435b3.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure"
-                   ],
-        "synopsis":  "One day, the protagonist is summoned to another world where beasts roam and survival is a constant struggle. Unfortunately, his talent and player statistics are among the weakest, leaving him with almost no hope of becoming a powerful warrior or wizard. To survive, he must carefully assess his circumstances, exploit every available advantage, and use whatever resources he has at his disposal.",
-        "review":  "MC licik mampus kwkwkw, tpi jujur author keren si bisa bikin konsep licik tai anjing dengan MC yang powernya cmn bisa liat status, applaused",
-        "scores":  {
-                       "story":  9.4,
-                       "character":  9.8,
-                       "art":  9,
-                       "enjoyment":  9.9
-                   },
-        "status":  "Ongoing",
-        "chapters":  207
-    },
-    {
-        "id":  "49",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/5b4a479f-37ed-41b3-8cb0-0358f4b8fdfc"
-                          }
-                      ],
-        "title":  "Trash of the Count\u0027s Family",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/423933e1-8a38-49a1-abea-74c109219fe8.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Fantasy",
-                       "Reincarnation"
-                   ],
-        "synopsis":  "After opening his eyes, the protagonist discovers that he has become Cale Henituse, the troublesome son of a count in the novel The Birth of a Hero. The story follows Choi Han, a student from Earth transported to another dimension, whose life takes a dark turn after his village is destroyed and he is mistreated by Cale. Knowing how the original story unfolds, Cale realizes that remaining part of this dangerous narrative could ruin his new life. He decides to use his knowledge of the novel to change events, avoid a disastrous fate, and build a peaceful life for himself.",
-        "review":  "GA SEMUA ORANG BAKAL SUKA INI, cmn ini one of the best story writing manhwa and char dev",
-        "scores":  {
-                       "story":  9.5,
-                       "character":  9.6,
-                       "art":  9.4,
-                       "enjoyment":  9.8
-                   },
-        "status":  "Ongoing",
-        "chapters":  192
-    },
-    {
-        "id":  "50",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Surviving in a Romance Fantasy Novel",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/bd3913f2-9177-4b86-8e32-26093d5851a0.jpg",
-        "genres":  [
-                       "Drama",
-                       "Fantasy",
-                       "Shounen",
-                       "Harem"
-                   ],
-        "synopsis":  "Seo Tae-pyung finds himself transported into the romance fantasy novel Celestial Love as the younger brother of the female protagonist. Hoping to adapt to his new life and remain out of trouble, he simply wants to live quietly in a world supposedly filled with romance. However, strange events begin to unfold, including the unexpected attention of the crown princess. Tae-pyung soon realizes that surviving this fictional world may be far more complicated than he anticipated.",
-        "review":  "actually this is not so good, but not too bad. TENGAH lah pokonya cmn cpt bgt tai tamatnya",
-        "scores":  {
-                       "story":  8.7,
-                       "character":  8.2,
-                       "art":  8,
-                       "enjoyment":  8.3
-                   },
-        "status":  "Completed",
-        "chapters":  50
-    },
-    {
-        "id":  "51",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/081176a9-ebbd-42bf-8631-05f503e474f8"
-                          }
-                      ],
-        "title":  "Genius Archer\u0027s Streaming",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/3424f3c8-fdb7-4582-884f-a1ae431133b9.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Shounen",
-                       "Fantasy"
-                   ],
-        "synopsis":  "Yoo Sanghyun was once a promising young archer who won a national archery tournament, but an accident destroyed his dream and left him unable to hold a bow. After struggling to rebuild his life, he is eventually fired from his job. Desperate to make a living, he adopts the online persona Almond and begins streaming games. Armed with his exceptional talent and determination, he sets out to build a new career in the competitive world of gaming and streaming.",
-        "review":  "konsep template tapi gw suka karena ini nyantai banget",
-        "scores":  {
-                       "story":  8.8,
-                       "character":  9.3,
-                       "art":  9.5,
-                       "enjoyment":  9
-                   },
-        "status":  "Ongoing",
-        "chapters":  100
-    },
-    {
-        "id":  "52",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/d15c374a-4b0a-496b-81a3-359980acd081"
-                          }
-                      ],
-        "title":  "Player Who Returned 10,000 Years Later",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/26404f4b-70b4-4695-ad0d-0916733bd98e.jpg",
-        "genres":  [
-                       "Action",
-                       "Drama",
-                       "Fantasy",
-                       "Seinen",
-                       "Comedy"
-                   ],
-        "synopsis":  "Oh Kangwoo, a Demon King who has ruled Hell for ten thousand years, finally finds a way to return to Earth. However, his powers become sealed, and the world he once knew has transformed into a dangerous environment filled with dimensional gates and monsters. Humans known as players enter these gates to hunt monsters and earn a living. To survive in this unfamiliar world, Kangwoo must regain his strength and adapt to a system that may prove even more brutal than Hell itself.",
-        "review":  "kocak, enjoy banget gw baca ini",
-        "scores":  {
-                       "story":  9,
-                       "character":  8.9,
-                       "art":  8.9,
-                       "enjoyment":  9.9
-                   },
-        "status":  "Ongoing",
-        "chapters":  163
-    },
-    {
-        "id":  "53",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Legendary Youngest Son of the Marquis House",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/a2b53d87-bead-483a-ab0d-63c71c13c0ef.jpg",
-        "genres":  [
-                       "Action",
-                       "Fantasy"
-                   ],
-        "synopsis":  "Driven by revenge, the protagonist successfully brings down the Tulkan Empire, the most powerful nation on the continent. Having accomplished everything he set out to do, he accepts his approaching death, believing he has no reason left to live. However, instead of dying, he awakens in the body of his fourteen-year-old self, twenty years in the past. Given another chance to revisit the time filled with regrets, he must decide how to use this unexpected return to reshape his destiny.",
-        "review":  "gw kurang enjoy baca ceritanya karena pace nya lambat, DIALOG NYA KEPANJANGAN DAN KADANG GA MUTU ANJINK",
-        "scores":  {
-                       "story":  8.3,
-                       "character":  8.5,
-                       "art":  9,
-                       "enjoyment":  8.6
-                   },
-        "status":  "Ongoing",
-        "chapters":  182
-    },
-    {
-        "id":  "54",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/8be4fde1-29aa-4a8b-a599-944c39220704"
-                          }
-                      ],
-        "title":  "Be the Actor",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/34d76471-f18e-4c0a-ac65-6b20541bb464.jpg",
-        "genres":  [
-                       "Drama",
-                       "Fantasy",
-                       "Shounen",
-                       "Regression"
-                   ],
-        "synopsis":  "Jang Young-guk achieves great success as a supporting actor and receives his first prestigious Best Supporting Actor award. However, on the same day, his mother passes away, forcing him to confront the guilt of having neglected her for years. Overwhelmed by regret and longing for the warmth of his childhood, he decides to end his life. Instead, he unexpectedly returns to his younger years. Given another opportunity to live, Young-guk pursues his dream of becoming an actor while hoping to build a happier life than the one he left behind.",
-        "review":  "BUSET NANGIS MULU GW DI CHAPTER AWAL, ini manhwa sebenernya gw lebih suka konsep redemption dia soal kehidupan pertamnya sih soal masalah Actor nya tu gw kurang nangkep banget jujur. Makanya good char Not-sogood story",
-        "scores":  {
-                       "story":  9.2,
-                       "character":  9.9,
-                       "art":  9.4,
-                       "enjoyment":  9.8
-                   },
-        "status":  "Completed",
-        "chapters":  140
-    },
-    {
-        "id":  "55",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/16778db0-17c0-43c4-aa4a-3a4a0df5ec0b"
-                          }
-                      ],
-        "title":  "Overgeared",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/8620999a-8674-4c00-8d32-a45af4ba8036.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Shounen"
-                   ],
-        "synopsis":  "Shin Youngwoo, also known as Grid, is an unlucky man and a low-level player in the popular virtual reality game Satisfy. His life changes when he discovers a powerful item that grants him the rare legendary class of Pagma\u0027s Successor. With the ability to forge extraordinary weapons and obtain powerful equipment, Grid begins pursuing fame and fortune. However, as his influence grows within the game, he discovers that becoming a legend brings challenges far beyond what he initially expected.",
-        "review":  "AKWKWAKAWK INI PELER AH, tapi gw lumayan suka sih walau awalnya driving me crazy buat baca nya",
-        "scores":  {
-                       "story":  9.1,
-                       "character":  9.1,
-                       "art":  9.5,
-                       "enjoyment":  9.4
-                   },
-        "status":  "Ongoing",
-        "chapters":  344
-    },
-    {
-        "id":  "56",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/e4e70fb1-c2eb-4b84-be6a-42c1cbe5220c"
-                          }
-                      ],
-        "title":  "Return of the Frozen Player",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/6709edef-4fcc-4cc1-a95d-44892ec6d4c4.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy"
-                   ],
-        "synopsis":  "Five years after the world changes, the final boss appears: the Frost Queen. Seo Junho, known as Specter, joins four other top players in defeating her, hoping to restore the world to normal. However, the victory comes at a terrible cost, as the five heroes fall into a long slumber. Twenty-five years later, Junho awakens to discover that the world has changed and that defeating the Frost Queen was only the beginning. He must now face new challenges and uncover the secrets of the next stage.",
-        "review":  "ini lumayan sih, gw suka tipikal MC yg mikir nya banyak, cmn kesian dia kena powercreep anjink",
-        "scores":  {
-                       "story":  8.9,
-                       "character":  9.2,
-                       "art":  9,
-                       "enjoyment":  9.1
-                   },
-        "status":  "Ongoing",
-        "chapters":  229
-    },
-    {
-        "id":  "57",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "I Was More Overpowered Than The Hero, So I Hid My Power!",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/fe6ae01a-5d35-4725-8983-e4ecb39c9e4b.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Drama",
-                       "Fantasy",
-                       "Seinen"
-                   ],
-        "synopsis":  "The protagonist has always admired characters who appear ordinary and carefree while secretly possessing overwhelming power. When he gets the chance to be reincarnated into another world, he wishes to live exactly that kind of life by hiding his true strength. Unfortunately, his new circumstances make concealing his extraordinary abilities far more complicated than he imagined. His attempt to remain inconspicuous leads to unexpected situations and challenges.",
-        "review":  "AWKKAWKAWK CID KAGENOU VERSI MANHWA, its fun to read",
-        "scores":  {
-                       "story":  8.4,
-                       "character":  9,
-                       "art":  8.2,
-                       "enjoyment":  9.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  125
-    },
-    {
-        "id":  "58",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/2835965e-14ff-4344-9489-222489a384f4"
-                          }
-                      ],
-        "title":  "Absolute Dominion",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/c84b1c5d-55e3-4159-a1cb-8e18f186e955.png",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Drama",
-                       "Martial Arts",
-                       "Seinen"
-                   ],
-        "synopsis":  "A mysterious young fruit merchant named Jeok Leegeon possesses extraordinary martial arts abilities and wields two legendary weapons: the Monarch Sword in his left hand and the Hell Blade in his right. With a sharp tongue and remarkable combat skills, the twenty-year-old sets his sights on dominating the Jianghu, the world of martial artists. His ambitious journey begins as he seeks to establish his name and conquer the martial world.",
-        "review":  "ini kalo lu suka MC bantai bantai dah, goated cmn minus nya 1 dah mc ke OP an jing",
-        "scores":  {
-                       "story":  9,
-                       "character":  9,
-                       "art":  9.9,
-                       "enjoyment":  9.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  112
-    },
-    {
-        "id":  "59",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/5458871a-88ca-4197-8b21-756b199d8b0a"
-                          }
-                      ],
-        "title":  "Ranker Who Lives a Second Time",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/6f49c07d-3fbb-4f08-8e30-a0e90d2d7ec9.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy"
-                   ],
-        "synopsis":  "Yeon-woo\u0027s twin brother disappeared five years ago, leaving behind a pocket watch containing a hidden diary. Inside, Yeon-woo discovers a message suggesting that his brother has died after being betrayed while climbing the Obelisk, the Tower of the Sun God, a mysterious place where multiple universes and dimensions intersect. Determined to uncover the truth and avenge his brother, Yeon-woo enters the tower and follows the same trials his brother once faced. Using the diary as his guide, he begins a dangerous climb toward the top.",
-        "review":  "PEAK, GOAT, BEST WRITING terutam konsep tower, author pinter banget bikin konsep Tower jadi sebagus ini",
-        "scores":  {
-                       "story":  9.8,
-                       "character":  9.6,
-                       "art":  9.4,
-                       "enjoyment":  9.6
-                   },
-        "status":  "Ongoing",
-        "chapters":  235
-    },
-    {
-        "id":  "60",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Transcension Academy",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/4b9b5417-6040-4140-a9c2-26ee60f8c6c9.jpg",
-        "genres":  [
-                       "Action",
-                       "Drama",
-                       "Fantasy",
-                       "School Life",
-                       "Shounen"
-                   ],
-        "synopsis":  "Kim Seo-joon works hard to repay his deceased parents\u0027 debts and save enough money to attend a Hunter Academy. However, an accident forces him to spend all his savings on surgery, leaving him with little hope for the future. Just as he reaches his lowest point, he encounters an advertisement claiming that anyone can become an awakener. With nothing left to lose, Seo-joon accepts the offer and enrolls in Transcension Academy, an extraordinary hunter academy that exists in a dimension unlike any other.",
-        "review":  "agak kureng sih sbnrnya ini manhwa, cmn enjoy aja gw bacanya",
-        "scores":  {
-                       "story":  7,
-                       "character":  7.9,
-                       "art":  6.7,
-                       "enjoyment":  7.8
-                   },
-        "status":  "Completed",
-        "chapters":  218
-    },
-    {
-        "id":  "61",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/84561956-c987-491d-a189-ba1af3c22810"
-                          }
-                      ],
-        "title":  "Became The Patron Of Villains",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/65534180-b051-11f0-b479-29d0e25fa090.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Fantasy",
-                       "Harem",
-                       "Romance",
-                       "Shounen"
-                   ],
-        "synopsis":  "After reincarnating as a noble in a game, the protagonist discovers that he is merely a minor character destined to be killed by the villains of the future. Determined to avoid that fate and enjoy a comfortable noble life, he decides to guide the young villains toward a better path by supporting them and helping them overcome their harsh circumstances. His efforts seem successful as they grow into well-adjusted individuals. However, his actions eventually lead to an unexpected outcome: he becomes the mastermind behind the kingdom himself.",
-        "review":  "BAGUS KALO LU SUKA TIPIKAL MANHWA SALAH PAHAM AWOKOAWKOAW, ini seru dan ga bosenin karena emang MC kocak banget tai",
-        "scores":  {
-                       "story":  9.2,
-                       "character":  9.4,
-                       "art":  8.6,
-                       "enjoyment":  9.3
-                   },
-        "status":  "Ongoing",
-        "chapters":  57
-    },
-    {
-        "id":  "62",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Love Letter From The Future",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/38673cc3-8d45-402f-acd4-db2b89d6a2c5.jpg",
-        "genres":  [
-                       "Fantasy",
-                       "Harem",
-                       "School Life",
-                       "Seinen"
-                   ],
-        "synopsis":  "Ian Percus, a third-year swordsmanship student at the academy, wakes up one morning to find a calendar and a mysterious letter on his desk. The letter warns him that the world will perish unless its future is protected. When Ian arrives at the academy, he discovers that an entire week has passed without his knowledge and that he has supposedly defeated an undefeated junior during that time. Initially skeptical, Ian begins to believe the letter as its predictions come true. He must uncover what happened during the missing week and determine whether he can prevent the impending disaster.",
-        "review":  "agak kureng, harem harem tai ini konsepnya aneh buat gw trus DIALOGNYA KEK BORING BANGET",
-        "scores":  {
-                       "story":  7.2,
-                       "character":  7.4,
-                       "art":  7.6,
-                       "enjoyment":  7
-                   },
-        "status":  "Ongoing",
-        "chapters":  65
-    },
-    {
-        "id":  "63",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/2081d56d-72ee-464b-aa17-81657f6c5df4"
-                          }
-                      ],
-        "title":  "The Demon Prince Goes to the Academy",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/1702b221-de8b-43a0-80e9-3214cc95179b.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Comedy",
-                       "Drama",
-                       "Fantasy",
-                       "Harem",
-                       "Psychological",
-                       "Romance",
-                       "School Life",
-                       "Tragedy"
-                   ],
-        "synopsis":  "After dying while reading hateful comments about his novel, the protagonist is confronted by grim reapers who accuse him of being a terrible writer. To earn redemption and gain entry to heaven, he must survive until the ending of one of his own novels. He is transported into The Demon King Is Dead, but finds himself inhabiting the body of the Demon Prince, a character with no combat abilities who is destined to die early in the story. Now, he must find a way to survive a world he created himself.",
-        "review":  "gw sih enjoy aja baca ini karena template sekolah tu gw suka banget kwkwkw",
-        "scores":  {
-                       "story":  8.9,
-                       "character":  9,
-                       "art":  9,
-                       "enjoyment":  9.3
-                   },
-        "status":  "Ongoing",
-        "chapters":  80
-    },
-    {
-        "id":  "64",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Superhuman Battlefield",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/1a2099cf-0f13-4772-a3ac-7ab5fd89052d.jpg",
-        "genres":  [
-                       "Action",
-                       "Shounen"
-                   ],
-        "synopsis":  "Seo Moon-yeob is a superhuman who sacrificed himself to save humanity and became known as the strongest of his kind. Seventeen years later, he suddenly returns to a peaceful world that had long believed him dead. However, society has changed, and superhuman abilities are now showcased in competitive sports. Moon-yeob must adapt to this unfamiliar era and discover his place in a world that has moved on without him.",
-        "review":  "GOOD CONCEPT, sabung hero wkwkwkw, mc nya jadi coach + ada konflik external yg ga menye menye",
-        "scores":  {
-                       "story":  9.2,
-                       "character":  8.6,
-                       "art":  8.6,
-                       "enjoyment":  9
-                   },
-        "status":  "Completed",
-        "chapters":  151
-    },
-    {
-        "id":  "65",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Absolute Necromancer",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/6ad50592-0e7a-4c58-9947-0ca66ced5255.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy",
-                       "Necromancer"
-                   ],
-        "synopsis":  "After being betrayed, Cha Jinhyuk, a necromancer who reached the pinnacle of his class and evolved into a Spirit Master, is reincarnated ten years later in the body of a boy living in South Korea. Determined to take revenge on those who betrayed him and the people behind them, he sets out to climb a mysterious and ever-changing tower. Armed with his unrivaled abilities, he begins a new journey as a powerful necromancer, seeking vengeance against his enemies.",
-        "review":  "agak kureng cmn oke aja sih buat dibaca kalo gabut",
-        "scores":  {
-                       "story":  8.5,
-                       "character":  8.9,
-                       "art":  8,
-                       "enjoyment":  8.4
-                   },
-        "status":  "Ongoing",
-        "chapters":  96
-    },
-    {
-        "id":  "66",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/37e72b5f-6a11-4603-9b35-738e4a1d9997"
-                          }
-                      ],
-        "title":  "Lazy Prince Becomes a Genius",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/8573e43d-d735-4e9c-bb61-65780af61d8c.jpg",
-        "genres":  [
-                       "Action",
-                       "Fantasy"
-                   ],
-        "synopsis":  "Airen Pareira is a prince known for his laziness and lack of ambition, earning little expectation from those around him. His life begins to change as he gradually finds the motivation to overcome his weaknesses and pursue personal growth. Through perseverance and training, Airen works toward becoming a talented swordsman and proving that he is capable of far more than anyone expected.",
-        "review":  "PEAKKKK, this zero to hero type shi, i love everything bout this manhwa",
-        "scores":  {
-                       "story":  9.6,
-                       "character":  9.9,
-                       "art":  9.4,
-                       "enjoyment":  10
-                   },
-        "status":  "Ongoing",
-        "chapters":  163
-    },
-    {
-        "id":  "67",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "The Unbeatable Dungeon\u0027s Lazy Boss",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/9e609db3-b95b-491d-bebc-53adc604d4de.jpg",
-        "genres":  [
-                       "Fantasy",
-                       "Shounen"
-                   ],
-        "synopsis":  "Deep within the infamous Primordial Core dungeon lives one of the most notorious boss monsters of all time. Unlike a typical final boss eager to challenge adventurers, this monster simply wants to enjoy a peaceful life and rest. However, being the boss of such a dangerous dungeon means that trouble and challengers keep appearing, forcing him to deal with situations that constantly interrupt his desire for a quiet existence.",
-        "review":  "howly guwd, konsep jarang di manhwa mc op tapi dongok tapi op tapi pinter awkakw baca aja, dia intinya pengen hidup nyantai",
-        "scores":  {
-                       "story":  9.1,
-                       "character":  8.4,
-                       "art":  9.1,
-                       "enjoyment":  9
-                   },
-        "status":  "Ongoing",
-        "chapters":  146
-    },
-    {
-        "id":  "68",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  "https://11.shinigami.asia/series/96146b21-e04c-43bf-8a41-45fb105eec52"
-                          }
-                      ],
-        "title":  "Damn Reincarnation",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/1f9ee30b-82e1-4487-9701-10ddc0737932.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Drama",
-                       "Fantasy",
-                       "Shounen"
-                   ],
-        "synopsis":  "Hamel, a warrior who traveled with his companions to eradicate demons, dies just before their final battle begins. He is unexpectedly reincarnated as Eugene Lionhart, a descendant of his former comrade Vermouth. Given a new body with far greater potential than his previous one, Eugene begins a new life while uncovering the mysteries surrounding his reincarnation and continuing the unfinished journey of his past life.",
-        "review":  "ITS GOOD NOVEL, but bad at adaption :(",
-        "scores":  {
-                       "story":  8.9,
-                       "character":  9.2,
-                       "art":  8.9,
-                       "enjoyment":  9.5
-                   },
-        "status":  "Ongoing",
-        "chapters":  81
-    },
-    {
-        "id":  "69",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Becoming a Legendary Ace Employee",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/135b4282-701c-45cf-9819-18f0632af927.jpg",
-        "genres":  [
-                       "Drama",
-                       "Fantasy",
-                       "Shounen"
-                   ],
-        "synopsis":  "Kim Tae-seok works at a construction site when he receives notice that he has passed the document screening for a major company called El Sung. At the same time, a mysterious message appears before him, offering him a path toward becoming a permanent employee. With this unexpected opportunity, Tae-seok begins a journey to become a legendary all-round employee and prove himself in the competitive corporate world.",
-        "review":  "INI DRAMA cmn not that bad to read",
-        "scores":  {
-                       "story":  8.5,
-                       "character":  9.2,
-                       "art":  8.7,
-                       "enjoyment":  9.2
-                   },
-        "status":  "Ongoing",
-        "chapters":  160
-    },
-    {
-        "id":  "70",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "The Dark Magician Transmigrates After 66666 Years",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/793ba8eb-f45b-42c8-a248-4ac7d57dc083.jpg",
-        "genres":  [
-                       "Adventure",
-                       "Fantasy",
-                       "Magic",
-                       "Reincarnation",
-                       "Shounen",
-                       "Super Power"
-                   ],
-        "synopsis":  "Diablo Volfir, the greatest dark magician, is sealed away through the sinister schemes of the twelve gods. After 66,666 years have passed, he finally descends upon the world once again. With his immense magical power and knowledge from the distant past, Diablo begins a new chapter as he confronts a world that has changed dramatically during his long absence.",
-        "review":  "",
-        "scores":  {
-                       "story":  8.8,
-                       "character":  8.5,
-                       "art":  9,
-                       "enjoyment":  9.2
-                   },
-        "status":  "Ongoing",
-        "chapters":  202
-    },
-    {
-        "id":  "71",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Han Dae Sung Returned From Hell",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/de7237bd-b218-4ff4-a8e4-8a058e281e1c.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Drama",
-                       "Fantasy",
-                       "Seinen",
-                       "Supernatural"
-                   ],
-        "synopsis":  "Han Dae-sung is suddenly dragged into Hell on the day he is supposed to graduate from high school. Desperate to survive, he struggles through the horrors of Hell and eventually finds a way back to Earth. However, ten years have passed in the real world while his body remained in a vegetative state. Upon his return, a mysterious message appears before him, marking the beginning of an extraordinary new chapter in his life.",
-        "review":  "INI mc nya kelewat op sih cmn seru aja",
-        "scores":  {
-                       "story":  8.6,
-                       "character":  8.4,
-                       "art":  8.5,
-                       "enjoyment":  9
-                   },
-        "status":  "Ongoing",
-        "chapters":  144
-    },
-    {
-        "id":  "72",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Heavenly Grand Archive\u0027s Young Master",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/fa684883-5349-4230-8d73-cd8c803aa3b3.jpg",
-        "genres":  [
-                       "Action",
-                       "Martial Arts",
-                       "Seinen"
-                   ],
-        "synopsis":  "Hu Gong, the mighty leader of the Murim Alliance, suddenly finds himself inhabiting the body of a young man named Beom Hang. Beom Hang is the young master of the Heavenly Grand Archive, one of the three greatest archives in Jianghu, but is widely regarded as incompetent. Seeking to understand why his soul entered this body, Hu Gong begins training it. As Beom Hang\u0027s abilities grow beyond expectations, his transformation starts attracting the attention of the entire martial world.",
-        "review":  "KAKEK KAKEK MEN JADI MUDA",
-        "scores":  {
-                       "story":  8.2,
-                       "character":  8.9,
-                       "art":  9,
-                       "enjoyment":  8.1
-                   },
-        "status":  "Ongoing",
-        "chapters":  182
-    },
-    {
-        "id":  "73",
-        "readLinks":  [
-                          {
-                              "name":  "Shinigami",
-                              "url":  ""
-                          }
-                      ],
-        "title":  "Return to Player",
-        "type":  "Manhwa",
-        "coverImage":  "https://storage.westmanga.blog/west/images/covers/4b529c91-88df-46ea-8322-82ea03da5b65.jpg",
-        "genres":  [
-                       "Action",
-                       "Adventure",
-                       "Fantasy"
-                   ],
-        "synopsis":  "One day, the world turns into a game as monsters suddenly appear and begin killing humanity. Humans become players and are forced to complete quests to survive. After humanity is wiped out, Kim Sehan is given a second chance. Armed with the knowledge of what happened in the previous timeline, he must challenge the system that brought the world to ruin and try to change humanity\u0027s fate.",
-        "review":  "AKULAH SUNG JINGWOO 2.0",
-        "scores":  {
-                       "story":  8.2,
-                       "character":  8,
-                       "art":  8.4,
-                       "enjoyment":  8.9
-                   },
-        "status":  "Ongoing",
-        "chapters":  231
-    }
+  {
+    "id": "1",
+    "title": "Frieren: Beyond Journey's End",
+    "type": "Anime",
+    "status": "Ongoing",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+    "genres": ["Adventure", "Fantasy", "Drama"],
+    "synopsis": "After the defeat of the Demon King, elf mage Frieren reflects on her brief time with her former party and begins a new journey to better understand humanity and the meaning of life.",
+    "review": "A thoughtful fantasy story with beautiful atmosphere, memorable character moments, and a moving exploration of time, loss, and connection.",
+    "scores": { "story": 9.5, "character": 9.4, "art": 9.5, "enjoyment": 9.4 },
+    "seasons": 2,
+    "episodes": 28,
+    "readLinks": [
+      { "name": "Shinigami", "url": "" }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Attack on Titan",
+    "type": "Anime",
+    "status": "Completed",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+    "genres": ["Action", "Drama", "Mystery", "Fantasy"],
+    "synopsis": "Humanity lives behind walls to protect themselves from man-eating Titans, but the truth about the world is far more complex and devastating than anyone imagined.",
+    "review": "Incredible plotting and foreshadowing. The way the mystery unfolds and the moral questions it raises in the final seasons elevate it beyond typical action anime.",
+    "scores": { "story": 9.6, "character": 9, "art": 9.2, "enjoyment": 9.6 },
+    "seasons": 4,
+    "episodes": 87,
+    "readLinks": [
+      { "name": "Shinigami", "url": "" }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Oshi no Ko",
+    "type": "Manga",
+    "status": "Completed",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/3/233991.jpg",
+    "genres": ["Drama", "Supernatural", "Mystery"],
+    "synopsis": "A doctor and his patient are reincarnated as the twin children of a beloved idol, navigating the dark underbelly of the entertainment industry.",
+    "review": "A brilliant blend of industry critique and supernatural mystery. The first arc is a perfect hook. The genre-switching keeps things fresh.",
+    "scores": { "story": 9, "character": 9.2, "art": 8.8, "enjoyment": 9 },
+    "chapters": 166,
+    "volumes": 12,
+    "readLinks": [
+      { "name": "Shinigami", "url": "" }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Solo Leveling",
+    "type": "Manhwa",
+    "status": "Completed",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/id/9/99/Solo_Leveling_Webtoon.png",
+    "genres": ["Action", "Fantasy", "System", "Adventure", "Necromancer"],
+    "synopsis": "Sung Jin-Woo, the weakest E-rank hunter, gains a unique system that lets him level up infinitely, transforming from prey into the most powerful hunter in the world.",
+    "review": "An absolute page-turner. The progression system and escalating stakes make every arc feel earned. The art improves dramatically over time, reaching jaw-dropping levels in the final chapters.",
+    "scores": { "story": 8.5, "character": 8, "art": 9.8, "enjoyment": 9.5 },
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/5c612573-fe38-42df-8618-dc3de1c9d04a" }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "The Beginning After The End",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1652424163i/60099365.jpg",
+    "genres": ["Fantasy", "Reincarnation", "Action", "Adventure"],
+    "synopsis": "A powerful king reincarnates into a magical world as a baby, retaining his memories. He navigates childhood while building toward an extraordinary new life.",
+    "review": "Great world-building and character growth. The art is consistently gorgeous. The pacing dips in the middle but recovers strongly.",
+    "scores": { "story": 8, "character": 8.5, "art": 9.2, "enjoyment": 8.7 },
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/caf1c938-7512-4850-9b60-9c15f9dca173" }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Tower of God",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/2/223694.jpg",
+    "genres": ["Action", "Fantasy", "Mystery", "Adventure"],
+    "synopsis": "A boy named Bam enters a mysterious tower to find his friend, climbing floors that test strength, intelligence, and willpower against other climbers.",
+    "review": "Massive and creative world with deep lore. The early seasons are peak webtoon storytelling. The art starts rough but evolves beautifully.",
+    "scores": { "story": 8.5, "character": 8.3, "art": 7.8, "enjoyment": 8.5 },
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/911071c9-4c37-444d-bcda-dc605c6f67a8" }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Omniscient Reader's Viewpoint",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/2/238873.jpg",
+    "genres": ["Action", "Fantasy", "Drama", "Mystery"],
+    "synopsis": "When the world transforms into the setting of a web novel only Kim Dokja read to completion, he uses his unique knowledge to survive and protect his companions.",
+    "review": "One of the most clever narrative structures in manhwa. The meta-commentary on storytelling is brilliant, and the character bonds are deeply emotional.",
+    "scores": { "story": 9.5, "character": 9.9, "art": 9.3, "enjoyment": 9.8 },
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/799eb33b-c086-47a6-b4e0-4516cb87bc77" }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "The Greatest Estate Developer",
+    "type": "Manhwa",
+    "status": "Completed",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/1/290131.jpg",
+    "genres": ["Adventure", "Comedy", "Fantasy", "Isekai", "Reincarnation"],
+    "synopsis": "Kim Suho, a civil engineering student, wakes up as Lloyd Frontera, a disgraced noble whose family is drowning in debt. Using his engineering knowledge and magical construction abilities, he develops innovative infrastructure and transforms the territory to secure a prosperous future.",
+    "review": "GOATED MANHWA KAWKAWKAWK LUCU BANGET LAGI SEMUAN.",
+    "scores": { "story": 9.8, "character": 10, "art": 9, "enjoyment": 10 },
+    "chapters": 222,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/6193d77a-1470-4365-9663-33027409325f" }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Grand Blue",
+    "type": "Manga",
+    "status": "Ongoing",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/2/166124.jpg",
+    "genres": ["Comedy", "Adult Cast", "Gag Humor", "Seinen"],
+    "synopsis": "Iori Kitahara begins his freshman year at Izu University and moves into his uncle's scuba diving shop, Grand Blue, hoping to enjoy an ideal college life. Instead, he gets caught up with a rowdy group of upperclassmen whose wild drinking parties lead to chaotic and hilarious situations, complicating his plans for a normal university experience.",
+    "review": "cocok buat lu yang kehidupanya ancur ancuran, komedinya sangat membantu lu buat tertawa, romance tipis tipis juga",
+    "scores": { "story": 8.2, "character": 9, "art": 9, "enjoyment": 10 },
+    "chapters": 112,
+    "readLinks": [
+      { "name": "Shinigami", "url": "" }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Kaguya-sama: Love Is War",
+    "type": "Manga",
+    "status": "Completed",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/3/188896.jpg",
+    "genres": ["Award Winning", "Comedy", "Romance", "School", "Seinen"],
+    "synopsis": "Miyuki Shirogane, the brilliant student council president of Shuchiin Academy, and Kaguya Shinomiya, the wealthy and talented vice president, have secretly developed feelings for each other. However, both are too proud to confess, believing that doing so would mean losing their pride. Their relationship becomes a battle of wits as each tries to make the other confess first through clever schemes and hilarious daily antics.",
+    "review": "ROMCOM TERBAIK NO DEBATE, ribut kita kalo gasuka",
+    "scores": { "story": 10, "character": 10, "art": 9, "enjoyment": 10 },
+    "chapters": 281,
+    "readLinks": [
+      { "name": "Shinigami", "url": "" }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Haikyuu!!",
+    "type": "Manga",
+    "status": "Completed",
+    "coverImage": "https://cdn.myanimelist.net/images/manga/2/258225.jpg",
+    "genres": ["Award Winning", "Sports", "School", "Team Sports", "Shounen"],
+    "synopsis": "Shouyou Hinata dreams of becoming a great volleyball player after being inspired by the legendary Little Giant. Despite his short stature, Hinata joins Karasuno High School to pursue his dream, only to discover that his former rival, Tobio Kageyama, is now his teammate. The two must overcome their differences, improve their skills, and work together with the rest of the team to compete against the strongest high school volleyball teams in Japan.",
+    "review": "gw sebut ini best sports manga. Belom ada yg setara menurut gw selain Slam Dunk yang emang peak tapi ini tu juga peak",
+    "scores": { "story": 9.9, "character": 9.8, "art": 10, "enjoyment": 10 },
+    "chapters": 407,
+    "readLinks": [
+      { "name": "Shinigami", "url": "" }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Fated To Be Loved By Villains",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/14703623-87e3-4298-8b61-faf9f1756fcc.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Harem", "Romance"],
+    "synopsis": "A veteran player of the game Savior Rising finds himself inhabiting the body of Dawood Campbell, a powerless noble living on the outskirts of society. Hoping to live quietly and avoid attention, he instead encounters Elnore Elinarize la Tristan, the game's final boss and vessel of the Grey Demon. This meeting grants him two special abilities: Desperate Survival, which makes him stronger when his chances of survival decrease, and Deadly Charm, which attracts people with Evil Traits. As he becomes entangled with Elnore and other Demon vessels, Dawood must use his veteran gaming knowledge to overcome dangerous challenges while navigating the growing attention of those drawn to him.",
+    "review": "ampas sih, pantes di axed wkwkkw",
+    "scores": { "story": 6, "character": 5, "art": 6, "enjoyment": 8 },
+    "chapters": 55,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/d62e901f-7882-4ca9-9915-4a82f0de971f" }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "I Killed the Academy Player",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/fd4909e1-a840-4aa8-a065-da45a7be4c2f.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Harem"],
+    "synopsis": "The protagonist has killed the player of the academy, a person he considers an extremely irritating bastard. As the story unfolds in an academy setting filled with action and fantasy, he must face the consequences of his actions and navigate the challenges that follow.",
+    "review": "Harem pada umumnya, kurang di writing sama pacing yang keliatan aneh banget",
+    "scores": { "story": 8.8, "character": 8.9, "art": 7.9, "enjoyment": 8.2 },
+    "chapters": 140,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/e113cf28-241b-46f8-b27c-deb8e17b15eb" }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "All My Alter Egos Are Tycoons",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/0f9e0b32-50f3-4f5d-8dda-90b2bfa2e29d.jpg",
+    "genres": ["Action", "Fantasy", "Shounen"],
+    "synopsis": "Han Sunghyun loses his family in a random attack by superhumans and isolates himself due to the trauma. One day, he awakens the ability to control avatars that can venture into dangerous worlds while he stays home and focuses on growing stronger. As his avatars develop across dimensions, races, and professions, Han Sunghyun begins hunting superhumans who abuse their powers.",
+    "review": "Konsepnya menarik dia punya banyak avatar di tiap dunia, cmn konfliknnya makin lama makin gajelas",
+    "scores": { "story": 7, "character": 5, "art": 7, "enjoyment": 8.8 },
+    "chapters": 101,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/a34b8eec-d610-43ce-9528-a1463d3add5e" }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "I Took Over the Academy With a Single Sashimi Knife",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/4f8b94ee-00dd-4e41-af29-8111815124ab.jpg",
+    "genres": ["Action", "Drama", "Fantasy", "School Life", "Seinen", "Harem"],
+    "synopsis": "Once known as the greatest swordsman in the country, the protagonist finds himself inside a mobile game he had only played a few times. Blessed by the Sword God, he gains extraordinary swordsmanship abilities, but there is a catch: the only weapon he can use is a sashimi knife. With the power to become a Sword Saint for just one minute a day, he must use his limited time and skill to overcome the challenges of the academy.",
+    "review": "ini diawal bagus banget, nge hook nya tu bagus konsepnya HIGH RISK HIGH REWARD, tapi makin lama makin gajelas konfliknya",
+    "scores": { "story": 8.3, "character": 7.4, "art": 6.9, "enjoyment": 9.5 },
+    "chapters": 99,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/dbe6a27e-7757-4175-86b9-4d9e2d0b3aab" }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Infinite Mage",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/aa11749a-3c0a-4c96-b356-25a49d952c3d.jpeg",
+    "genres": ["Action", "Adventure", "Drama", "Fantasy", "Shounen", "Supernatural"],
+    "synopsis": "Shirone was abandoned in a stable as a child and raised by ordinary people. Born with an innate ability to learn and write, he discovers the wonder of magic during a visit to the city and dreams of becoming a mage. However, in a world ruled by rigid social barriers, his journey is filled with cruelty and challenges. Before reaching adulthood, Shirone begins to uncover the harsh realities of the world as he pursues his dream of becoming a great mage.",
+    "review": "PEAKKKKK, one of the best writing terutama di power systemnya gokil ni manhwa. Pacingnya tu di 100ch awal bagus banget.",
+    "scores": { "story": 9.2, "character": 9.8, "art": 9, "enjoyment": 10 },
+    "chapters": 190,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/dd8ac0a4-b6ec-4f46-842c-98871ea3dc43" }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Magic Academy's Genius Blinker",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/09ec5da0-a61d-46c3-a9b6-efa6733e3e7c.jpg",
+    "genres": ["Action", "Drama", "Fantasy", "Harem", "School Life", "Shounen"],
+    "synopsis": "Baek Yuseol is considered one of the weakest characters in a fantasy game because he cannot use ordinary magic. After a bad ending destroys 90% of the Aether World, he is suddenly transported into the game and tasked with achieving the True Ending. His only ability is Blink, a teleportation skill that seems insignificant compared to the magic wielded by the geniuses of Stella Academy. Using this unique ability, Baek Yuseol must survive academy life, overcome dangerous challenges, and work toward saving the world.",
+    "review": "I LOVE THE MC SO MUCH, dia tu serasa NPC tapi MC gitu dah, trus char Haremnya tidak SEBURUK HAREM MANHWA TYPE SHI LAIN NYA.",
+    "scores": { "story": 8.9, "character": 9.8, "art": 8.9, "enjoyment": 10 },
+    "chapters": 100,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/e08e1f17-f730-4f7d-bdc2-8d912f583e07" }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "A Disaster-Class Hero Has Returned",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/0b9adea3-f7b5-4688-94e7-f1d441fc4f0d.jpg",
+    "genres": ["Action", "Drama", "Tragedy"],
+    "synopsis": "As the world is consumed by darkness and monsters emerge from mysterious dungeons, humanity faces the threat of extinction. Awakened hunters rise to fight these monsters, and among them are thirteen powerful heroes known as the Zodiac Saints. This story follows one of these legendary heroes and his journey in a world on the brink of destruction.",
+    "review": "Actually a good manhwa, but the story terlalu repetitive, the MC is too OP and the story is too predictable. The art is good tho.",
+    "scores": { "story": 7, "character": 5, "art": 8, "enjoyment": 7 },
+    "chapters": 192,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/fc727dec-d1f5-43e8-a77d-37382f636659" }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Pick Me Up (Infinite Gacha)",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/48501b78-fff5-4f44-888f-e96ddeadbe2a.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
+    "synopsis": "Loki, a top-ranked player in the notoriously difficult mobile gacha game Pick Me Up, suddenly finds himself transformed into a low-level hero inside the game. Now trapped in a world where heroes must fight deadly battles to clear dungeons, he must lead a team, develop his abilities, and survive increasingly dangerous challenges. With every battle carrying the risk of permanent death, Loki must use his experience and strategic thinking to overcome the game's brutal trials and find a way back to his original world.",
+    "review": "a good writing, nice concept, great art, great power system, but the pacing is too slow dan kadang kelamaan nya kerasa banget anjir.",
+    "scores": { "story": 9.2, "character": 9.5, "art": 9.6, "enjoyment": 8.5 },
+    "chapters": 223,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/f96af365-8bf3-4b23-ab53-7bb6994a375d" }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Terminally-Ill Genius Dark Knight",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/496bcaa6-248c-45c7-99ed-f1953745a632.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Game", "Psychological", "Harem"],
+    "synopsis": "Yoo Chan, a young man who has suffered from a terminal illness since childhood, has spent much of his life playing a notoriously difficult fantasy RPG. One day, the game becomes his reality, and he finds himself inhabiting the body of Nox von Reinharber, the worst villain in the game's first part. Trapped in a dangerous world where every decision matters, Yoo Chan must use his knowledge of the game to survive and find a way to reach the story's ending alive.",
+    "review": "good story, good development terutama di social nya MC",
+    "scores": { "story": 9, "character": 8.7, "art": 7.2, "enjoyment": 9.8 },
+    "chapters": 169,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/11adc193-f845-47c2-9740-1b696ccb5ec7" }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "The Regressed Mercenary's Machinations",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/fbc898d3-05f9-4042-9504-382d8ac2a09a.jpg",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "synopsis": "Ghislain Perdium, the Mercenary King and one of the strongest men on the continent, launches a war to avenge his family. His revenge proceeds smoothly until he is unexpectedly killed by Idun. Believing his life has ended, Ghislain awakens in his younger body before his family falls into ruin. Given a second chance, he sets out to change the course of events, correct the mistakes of his previous life, and prevent his family's downfall.",
+    "review": "ini writing, pacing nya bagus banget, MINUSNYA kaya ga niat di lanjutin banget sama studionya padahal.",
+    "scores": { "story": 9.4, "character": 9.2, "art": 8, "enjoyment": 9.5 },
+    "chapters": 110,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/eefbdd4d-a794-43da-9725-180c98114d40" }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Archmage Restaurant",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/c1fa0d49-1ed1-4547-92b4-19e46e6ed7fc.jpg",
+    "genres": ["Action", "Comedy", "Fantasy", "Shounen", "Cooking", "Slice of Life"],
+    "synopsis": "A man who dreams of becoming a famous chef is transported to a world filled with monsters and magic after an accident. Instead of opening his own restaurant, he is forced to join the military and spends fifteen years fighting in a war. After finally achieving his dream of becoming a restaurant owner, he begins a new chapter of his life as an archmage who serves delicious meals in a fantasy world.",
+    "review": "komedi tipu getah anying, gw nangis mulu baca side story char yg jadi slice of life nya",
+    "scores": { "story": 8.7, "character": 9, "art": 8.5, "enjoyment": 8 },
+    "chapters": 155,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/2117a402-4b65-479b-9e2f-400537016127" }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Revenge of the Iron-Blooded Sword Hound",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/b1386bf8-72c5-4fac-81cc-04bf1899ddbd.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+    "synopsis": "Vikir, the loyal hunting dog of the powerful Baskerville family, is rewarded for his service with execution by guillotine. However, death grants him an unexpected second chance, sending him back to an earlier point in his life. Remembering the betrayal and suffering he endured, Vikir abandons his former loyalty and vows to take revenge on Hugo Baskerville. Armed with his memories and determination, he begins a new path to change his fate and destroy those who wronged him.",
+    "review": "best regression manhwa, alurnya pace nya mantep banget, TIAP CHAR TU GA DI SIA SIA IN AUTHOR TERUTAMA HAREMNYA VIKRI. Minus 1 lagi masuk arc bosenin banget anjg",
+    "scores": { "story": 9.2, "character": 9.2, "art": 9.2, "enjoyment": 10 },
+    "chapters": 184,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/703f6c7a-ad78-4d50-b5cc-c768c0a12fdb" }
+    ]
+  },
+  {
+    "id": "24",
+    "title": "The Extra's Academy Survival Guide",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/b0966700-f834-11f0-9901-59dcf2a54fad.jpg",
+    "genres": ["Action", "Adventure", "Drama", "Fantasy", "Romance", "School Life", "Seinen", "Supernatural"],
+    "synopsis": "After possessing the body of a third-rate villainous extra in his favorite game, the protagonist has no desire to become a hero or pursue grand ambitions. All he wants is to live a quiet and peaceful life. Unfortunately, the world of the game is far more dangerous than he expected, forcing him to rely on his knowledge and resourcefulness to survive. Determined to make it to the end of the story, he must find his own way to endure the academy's challenges without following the protagonist's path.",
+    "review": "manhwa akademi template yang LEBIH bagus dari si siapa",
+    "scores": { "story": 8.5, "character": 8.9, "art": 8.9, "enjoyment": 9.5 },
+    "chapters": 128,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/bd6e8536-6af4-4bf1-b159-8b79284799d0" }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "The Legendary Hero Is an Academy Honors Student",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/754ccbdd-fd66-4a33-8e34-21eb30024856.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Magic", "Reincarnation", "Harem", "Shounen"],
+    "synopsis": "Five thousand years ago, the legendary hero Kyle defeated Erebos, the origin of evil, during the Age of Despair. After reincarnating as Leo with all his memories intact, he discovers that his name has been erased from the Hero Record, a divine record of heroic achievements, and that modern society considers him fictional. Determined to uncover the truth, Leo enrolls at Lumene Academy, a prestigious hero academy that safeguards the Hero Record. He aims to become the academy's top student and discover why history has forgotten him.",
+    "review": "SUMPAH, ini baru writing dialog yang bagus banget, gw suka banget kalau manhwa punya kata kata indah kaya di Manhwa ini, ceritanya juga ga kaleng, konsep dungeon yang time reversed itu gila keren juga, MC nya juga ga se idiot itu, dan emg goated juga",
+    "scores": { "story": 9.8, "character": 9, "art": 10, "enjoyment": 9.1 },
+    "chapters": 108,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/103ec374-ff4d-411f-96f2-bbd30629e3d1" }
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Regressing as the Reincarnated Bastard of the Sword Clan",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/555379d8-d6d0-4c6e-8567-e6d0486c8ff3.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Supernatural"],
+    "synopsis": "Theo Ragnar belongs to the mighty Ragnar clan, a grand ducal family renowned for its ancient history, powerful Dragon Knights, and dominion over the Northern Wall and Winter Mountains. Despite his lineage, Theo is determined to claim the clan's throne and break free from the cursed chains that bind him. Relying on his own strength and resolve, he sets out to overcome the obstacles surrounding his birth and change his destiny within one of the continent's most powerful families.",
+    "review": "Asli agak fresh si, lu reinkarnasi ternyata dari dulu udah ada jga yg reinkarnasi jadi MC nya tu ketawan kalo dia Reinkarnasi, cmn karakter nya ga sedalem itu men (GAMENARIK)",
+    "scores": { "story": 9, "character": 8.2, "art": 9.8, "enjoyment": 8.2 },
+    "chapters": 116,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/906b7e73-e438-44b7-9f77-ba6bb0188d88" }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "I Became the Genius Bastard of a Noble Dark Clan",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/92d3500c-555b-469a-8ead-a0c7ea282076.jpg",
+    "genres": ["Drama", "Fantasy", "Supernatural"],
+    "synopsis": "After fighting alongside a Hero's Party and suffering a fatal injury, Chris wishes to be reborn into a wealthy family. His wish comes true when he awakens as Christian van Baren Kazar, the infamous and seemingly useless illegitimate son of an immensely powerful dark magic clan. However, Christian is destined to die in just two years, and surviving that fate is only the beginning, as he must also prevent the world's destruction. Determined to enjoy his new life of wealth and luxury, Chris decides to seize control of the clan and become the Demon King himself, relying on his extraordinary genius to overcome the challenges ahead.",
+    "review": "not that bad, kalo gabut aja baca ini pacing nya slow tapi lumayan lah, MC nya juga ga idiot banget, dan konsepnya juga lumayan fresh",
+    "scores": { "story": 7.2, "character": 8, "art": 8.4, "enjoyment": 8 },
+    "chapters": 74,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/729ad430-8087-47c0-963d-84a40939efe2" }
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Star-Embracing Swordmaster",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/8c20c0f2-aefc-4327-8b8e-e1bf5c5da91a.jpg",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "synopsis": "Vlad is an orphan living in the slums who dreams of becoming a knight. After being struck by black lightning, he begins hearing a mysterious voice. His life changes dramatically when he encounters a knight wielding blue moonlight, setting him on a path toward a world far beyond the slums. Though he begins as a dim star in the night sky, Vlad is determined to rise and shine through his own strength and ambition.",
+    "review": "ini representin KNIGHT banget, ASLI FRESH CONCEPT DAN MC GA DIBIKIN JADI OP MAMPUS, every char has their own development :))))",
+    "scores": { "story": 9.5, "character": 9.7, "art": 9.8, "enjoyment": 9.6 },
+    "chapters": 142,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/4bf6c017-842e-48a1-8a2a-f6160c1d8d44" }
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Ranker's Return (Remake)",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/2339fb8e-1e87-45ac-a738-5b209095df9a.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Shounen"],
+    "synopsis": "During the early days of the virtual reality game Arena, MeleeGod was its strongest ranker. At the height of his fame, he deleted his character and suddenly left the game. Years later, his family's financial troubles force him to return to Arena. Starting over with a new character, he must use his former experience and exceptional gaming skills to rise through the ranks once again and help his family recover.",
+    "review": "Great remake with improved art and story pacing. The character development is well done and the action scenes are exciting.",
+    "scores": { "story": 9, "character": 9, "art": 8.9, "enjoyment": 9.2 },
+    "chapters": 265,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/a7c7a576-f2cc-47c7-b915-bb64212f8b56" }
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Swordmaster's Youngest Son",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/944df245-bf03-4387-bf5d-885ad6ea0c4b.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Shounen"],
+    "synopsis": "Jin Runcandel is the youngest son of the prestigious Runcandel clan, a family renowned for producing powerful swordmasters. Despite his lineage, he is considered a failure and is eventually cast out. After meeting a tragic end, Jin receives a second chance at life and regains the opportunity to change his fate. Armed with memories of his previous life and a stronger determination, he sets out to master the sword, uncover the secrets surrounding his family, and claim his rightful place among the world's greatest warriors.",
+    "review": "actually i love the 1st 30 chapters, but lama lama boring bacanya mc gampang kena powercreep ah bete",
+    "scores": { "story": 8, "character": 8.5, "art": 8.8, "enjoyment": 8.2 },
+    "chapters": 216,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/f70af567-5f45-4859-8222-e41eb10ac169" }
+    ]
+  },
+  {
+    "id": "31",
+    "title": "Childhood Friend of the Zenith",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/f8e0ca5f-04f8-431c-b71a-4c5a6950feb9.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Martial Arts"],
+    "synopsis": "Gu Yangcheon once served the Heavenly Demon as a Demonic Human, committing countless crimes under his influence. After the Orthodox factions defeat the Heavenly Demon, Gu is captured and forced to face the consequences of his actions. Before dying, he reveals information about the Demon Cult to Wi Seol-Ah, bound by the connection they share. For reasons he cannot explain, Gu then regresses to the time when he first met her. Determined to live peacefully and avoid repeating his past mistakes, he soon discovers that the complicated relationships and consequences of his former life are catching up with him.",
+    "review": "template academy tapi VERSI MURIM",
+    "scores": { "story": 9.2, "character": 9, "art": 9.7, "enjoyment": 9.6 },
+    "chapters": 110,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/a0b5651b-584b-4f5b-a4aa-8a68c15320c0" }
+    ]
+  },
+  {
+    "id": "32",
+    "title": "The Heavenly Demon Can't Live a Normal Life",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/28988605-54a5-463a-b40b-ae4a1a6c57d7.jpg",
+    "genres": ["Action", "Fantasy"],
+    "synopsis": "Baek Joong-Hyuk, the Heavenly Demon, awakens in the body of Roman Dimitry, the eldest son of the Dimitry family. In his new life, Roman is regarded as a fool and is constantly overshadowed by his younger brother. However, the world has gravely underestimated the person he has become. Carrying the overwhelming will and strength of the Heavenly Demon, Roman refuses to live according to other people's expectations and begins to reshape the world around him.",
+    "review": "GODLY GOOD, konsep murim yang dibawa ke fantasy world (tipikal sword and magic) itu menurut gw bagus terutama di manhwa ya dan MC tipikal komander yang mau ngebuild army nya itu gw suka bet jir good manhwa",
+    "scores": { "story": 9.3, "character": 9.5, "art": 9.1, "enjoyment": 9 },
+    "chapters": 209,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/c1b09df6-001d-4eec-ba58-d74d97ca3a36" }
+    ]
+  },
+  {
+    "id": "33",
+    "title": "Necromancer Academy's Genius Summoner",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/89e590d0-994e-4967-88be-c70cd4b56fc7.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Harem", "Romance", "School Life", "Shounen", "Necromancer", "Supernatural"],
+    "synopsis": "Necromancers are feared magic practitioners whose power can bring entire kingdoms to their knees. Simon Follentia is a young necromancer with extraordinary hidden talent who is recruited into a prestigious necromancer academy. As he begins his training, Simon discovers the true extent of his abilities. However, his exceptional talent attracts unexpected attention and leads to complications that could change his life and the world around him.",
+    "review": "seangkatan sama Shirou (infinite mage) tapi ini lebi kureng dan PACE nya kadang cepet kadang lemot dan gw kurang suka sama artnya agak tidak nyaman.",
+    "scores": { "story": 8.1, "character": 7, "art": 7.2, "enjoyment": 7.3 },
+    "chapters": 220,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/088e0611-f9d9-4732-a030-ede3c6f92a03" }
+    ]
+  },
+  {
+    "id": "34",
+    "title": "The Novel's Extra (Remake)",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/1515a60e-c3d2-49b2-9d79-b97df90b1736.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Harem"],
+    "synopsis": "Kim Hajin wakes up in a world he recognizes, only to discover that he is trapped inside the unfinished novel he created. Instead of becoming the protagonist, he finds himself inhabiting the body of an insignificant extra character. His only apparent way to survive is to stay close to the original storyline, but he soon realizes that this world differs from the one he wrote. As unexpected changes unfold, Hajin must adapt to a reality that no longer follows his plans.",
+    "review": "KING GWE KING HAJIN, how the author can make a story about a guy who is an extra in his own novel and make it interesting is beyond me, the writing is good, the pacing is good, the art is good, the character development is good, the world building is good, everything is good.",
+    "scores": { "story": 9.3, "character": 9.5, "art": 9.1, "enjoyment": 9 },
+    "chapters": 175,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/c44dc1b4-898d-404c-855e-910940c0496b" }
+    ]
+  },
+  {
+    "id": "35",
+    "title": "Mercenary Enrollment",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/1d57a548-4b29-40ee-b542-920e2c34c143.jpg",
+    "genres": ["Action", "Adventure", "Drama", "Military", "Romance", "School Life", "Sci-Fi"],
+    "synopsis": "Yu Ijin is the sole survivor of a plane crash that left him stranded in a foreign land as a child. Forced to survive, he spends ten years becoming a highly skilled mercenary. When he finally returns to his hometown, Ijin reunites with his family and attempts to live an ordinary life as a student. However, his dangerous past and exceptional combat abilities continue to draw him into conflicts, forcing him to protect the people he cares about.",
+    "review": "PELER MIMPI BASAH ANAK SMA AOWOAWKOKAWKOAWOKAWOAWK",
+    "scores": { "story": 8.6, "character": 8.8, "art": 8, "enjoyment": 9 },
+    "chapters": 280,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/b80f7a1a-d572-417b-a5e0-9ac6097bf0be" }
+    ]
+  },
+  {
+    "id": "36",
+    "title": "The Reincarnated Assassin Is a Genius Swordsman",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/c8d0db00-25c4-4765-860c-e9593889db08.jpeg",
+    "genres": ["Action", "Adventure", "Fantasy", "Martial Arts", "Supernatural"],
+    "synopsis": "Roan spent his former life living like a chained dog, controlled by others and unable to choose his own path. Through an unexpected twist of fate, he receives a new life and the chance to stand on his own. Determined never to be controlled again, Roan resolves to forge his destiny through his swordsmanship and eliminate anyone who stands in his way, even if that opponent is a god.",
+    "review": "gw lupa jadi gw coba baca lagi ah ternyata cerita ini lagi",
+    "scores": { "story": 8.2, "character": 7.5, "art": 7.5, "enjoyment": 8 },
+    "chapters": 97,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/bbd15c15-36b4-49f3-a14b-daa2439c03f5" }
+    ]
+  },
+  {
+    "id": "37",
+    "title": "I'm Not That Kind of Talent",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/8352b9f6-4f04-41bb-a17e-b51b18bb81ec.jpg",
+    "genres": ["Action", "Fantasy", "Shounen", "Comedy"],
+    "synopsis": "Deon Hardt is a frail man who can barely withstand even the slightest pressure and is often mistaken for someone far more terrifying than he really is. Due to a series of misunderstandings, the Demon King believes Deon is a powerful warrior who killed the legendary Hero. Unbeknownst to Deon, he displays a completely different and frightening personality when drunk, creating even more confusion around his true nature. As these misunderstandings spiral out of control, his life becomes an unpredictable mix of comedy, danger, and dark fantasy.",
+    "review": "GOOD STORY, tentang salah paham WKWKKWK ini lucu banget anjir",
+    "scores": { "story": 9, "character": 9.5, "art": 8.5, "enjoyment": 9.2 },
+    "chapters": 126,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/96146b21-e04c-43bf-8a41-45fb105eec52" }
+    ]
+  },
+  {
+    "id": "38",
+    "title": "The 100th Regression of the Max-Level Player",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/40ed6646-21a7-48d9-bf08-7fcf2a6fcded.jpg",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "synopsis": "People between the ages of fifteen and twenty-five around the world are forced to participate in a deadly game consisting of twenty rounds. Ryu Min reaches the entrance to the final round alone, only to discover that he cannot proceed without a team of five. Now facing his hundredth and final regression, he uses the knowledge gained from his previous ninety-nine attempts to recruit the teammates he needs. With everything at stake, Ryu Min must overcome the challenges of the death game and find a way to reach its conclusion.",
+    "review": "menang art sama enjoyment gw baca, cmn ya tadi ini tu story nya template banget, regresi trus ngumpulin org op, trus dia jadi op yaudah gitu gada samting new",
+    "scores": { "story": 8.5, "character": 8.2, "art": 9, "enjoyment": 9.5 },
+    "chapters": 89,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/aaa84f12-811b-4433-a9d7-c71ba0700302" }
+    ]
+  },
+  {
+    "id": "39",
+    "title": "The Max Level Hero Has Returned!",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/de3cfe79-dd2d-484e-8b7a-2b4c203c0ee8.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Isekai", "Shounen"],
+    "synopsis": "Davey is a weak prince of a small kingdom who falls into a coma. While his body remains unconscious, his soul travels to a mysterious place where the spirits of legendary heroes gather. There, he undergoes intense training under these heroes and eventually reaches the maximum level. After returning to his body, Davey begins using his newfound abilities to confront his enemies, uncover hidden truths, and pursue revenge while reclaiming his place in the royal world.",
+    "review": "it hooks me on 50 chapters tapi ujungnya ini cerita mau dibawa kemana tuh jadi gajelas MC udah kelewat OP tapi authornya bingung mau ngapain anjir lah",
+    "scores": { "story": 7.5, "character": 8, "art": 7.2, "enjoyment": 8.2 },
+    "chapters": 250,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/0e4ccd4c-8f98-41d5-aefd-3f50fd4a141b" }
+    ]
+  },
+  {
+    "id": "40",
+    "title": "The Count's Youngest Son Is a Player!",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/44958a7e-cf2f-4f87-95ca-f23ae05b4e69.jpg",
+    "genres": ["Action", "Drama", "Fantasy", "Shounen"],
+    "synopsis": "After spending countless hours playing a virtual reality game, the protagonist makes enemies with a powerful guild. The conflict escalates when the guild tracks him down in the real world and kills him. However, instead of reaching the end, he regresses into the very game he once played. Given a second chance in a fantasy world, he must use his gaming knowledge and experience to survive, grow stronger, and change his fate.",
+    "review": "FLOP pas author mulai ngerasa MC terlalu hoki wkwkwk, bingung kan lu bikin MC yg sempurna jadi punya flaw, makanya jangan ngide bikin MC sempurna tor",
+    "scores": { "story": 7.3, "character": 7.5, "art": 7.5, "enjoyment": 8 },
+    "chapters": 159,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/de2a3bb0-83c6-48fa-97df-4d317297fb53" }
+    ]
+  },
+  {
+    "id": "41",
+    "title": "Return of the Legend",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/098441ea-fb56-484a-9778-4d3fc8fb63a5.jpg",
+    "genres": ["Reincarnation"],
+    "synopsis": "Jang Taesan loses his job after the security company he works for collapses during an economic crisis. His life takes a tragic turn when he dies saving an elementary school student from an oncoming car. As a reward for his selfless act, he returns fourteen years into the past. Although he dreads having to take university entrance exams again, he retains memories of the exams he studied for and the stock market trends he encountered while working as a stockbroker. With this knowledge, Taesan sets out to turn his second chance into a successful life.",
+    "review": "mimpi basah anak ESEMPEH, OWAKOAWOKAWOKAW mimpi basah gw juga anjink balik ke 2010 trus beli BTC pake tabungan",
+    "scores": { "story": 8.5, "character": 8.5, "art": 8, "enjoyment": 8.5 },
+    "chapters": 177,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/68b7c1f8-4310-435b-ba26-5198602d11a3" }
+    ]
+  },
+  {
+    "id": "42",
+    "title": "Martial God Regressed to Level 2",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/7bde1f0e-a86b-4790-ac57-e86729a41c1e.jpg",
+    "genres": ["Action", "Fantasy", "Martial Arts"],
+    "synopsis": "Humanity faces extinction after Battle Net, initially believed to be a game, becomes a deadly reality. Following the arrival of the Space League, living beings across the universe are forced to fight for survival. Earth repeatedly fails and is ultimately destroyed, leaving Seong Jihan, the Martial Saint, as humanity's last hope. His unique Nameless Divine Arts allows him to resist the system's attempt to erase him, granting humanity another opportunity. Having returned with the memories of his previous struggle, Seong Jihan vows to change the outcome and lead humanity toward survival.",
+    "review": "cobain aja dah, gw ragu mau nilai ini gmn",
+    "scores": { "story": 8.2, "character": 9, "art": 8.5, "enjoyment": 8.5 },
+    "chapters": 130,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/f7adc379-9bb4-48d0-8cf5-3b1600fcc2de" }
+    ]
+  },
+  {
+    "id": "43",
+    "title": "SSS-Class Suicide Hunter",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/cf1eb4e5-48cb-4e9f-882d-c0b1f4346a2d.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Martial Arts", "Shounen", "Tragedy"],
+    "synopsis": "Inside a mysterious tower resembling an RPG dungeon, Kim Gong-ja lives an ordinary life while envying the famous hunters around him. One day, he gains a legendary skill that allows him to copy another person's ability, but only at the cost of his own life. After being killed by the number-one hunter, the Flame Emperor, Gong-ja discovers that his new ability lets him return to the past whenever he dies. Using this power, he begins a dangerous journey to overcome his rivals, uncover the tower's secrets, and rise to the top.",
+    "review": "WKKWKW one of peak manhwa dengan WRITING TIAP ARC NYA BIKIN NAGIH BUAT LANJUT, BIKIN NOVEL TU KAYA GINI LITERATUR NYA JUGA DI ANGGEP, jangan cuman imajinasi mimpi basah cik",
+    "scores": { "story": 9.9, "character": 9.8, "art": 9.5, "enjoyment": 10 },
+    "chapters": 156,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/73a836fe-373e-4645-a5d9-a517922be4d3" }
+    ]
+  },
+  {
+    "id": "44",
+    "title": "I Obtained a Mythic Item",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/64d5d6cb-a8ac-47e1-a274-31c072ceeae3.jpg",
+    "genres": ["Action", "Adventure", "Demons", "Fantasy", "Magic", "Shounen"],
+    "synopsis": "When the World Tree Yggdrasil suddenly appears on Earth, demonic creatures emerge and devastate cities around the world. Humanity's only hope lies in a mysterious system granted to a select group of people. Min Jae-hyun, who regrets the poor choices he made in his past, struggles to survive in this dangerous new world. His fate changes when he obtains the only Mythic item in existence, giving him a rare opportunity to grow stronger, rewrite his future, and uncover the truth behind the catastrophe.",
+    "review": "TIPIKAL regresi tapi dengan scope yang luas banget ini make system sama kaya Solev banget cmn. gw suka sama design tiap charnya makannya betah walau ga se goated itu ceritanya",
+    "scores": { "story": 9.2, "character": 9.8, "art": 9, "enjoyment": 9.5 },
+    "chapters": 194,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/2835965e-14ff-4344-9489-222489a384f4" }
+    ]
+  },
+  {
+    "id": "45",
+    "title": "The Great Mage Returns After 4000 Years",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/483d8ef0-4f05-11f0-9004-a143aa38c726.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Shounen"],
+    "synopsis": "Lucas Traumen, the greatest archmage in history, is cursed by a Demigod and condemned to spend eternity losing his sanity. Four thousand years later, he returns to the world inside the body of Frei Blake, the weakest and least talented student at the prestigious Westroad Academy of Magic. Discovering that magic has barely progressed during his absence, Lucas suspects the Demigods may be responsible. Determined to uncover the truth and exact his revenge, he begins rebuilding his power and pursuing the highest level of magic once again.",
+    "review": "ADU DUDUDUDUH, great writing cmn minus 1 ajah pacing di awal terlalu kelamaan trus tb tb pacingnya jadi cepet, arc nya harusnya bisa dibikin lebih detail dalam bahas sejarah dll but GOATED LAH",
+    "scores": { "story": 9.5, "character": 9.2, "art": 8.6, "enjoyment": 9.6 },
+    "chapters": 278,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/382c9001-1710-4bfa-83fc-0636142df6ec" }
+    ]
+  },
+  {
+    "id": "46",
+    "title": "Standard of Reincarnation",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/35ffa782-b197-4ae5-85b5-ddbe6458eb3e.jpeg",
+    "genres": ["Action", "Adventure", "Fantasy", "Martial Arts", "Reincarnation"],
+    "synopsis": "Daven was a one-armed martial warrior from the prestigious Samion family, forced to endure ridicule for having only his left arm. Despite the discrimination, he surpassed even the family's gifted direct descendants through sheer determination. Eventually betrayed by his family and parents, he met a tragic end. However, he is reincarnated with a right arm, a talented body, the experience of his previous life, and the support of the god Yulion. With these advantages, Daven begins a new journey to reach greater heights and reshape his destiny.",
+    "review": "MINUS NYA INI CMN SI AUTHOR BINGUNG MAU BIKIN CERITANYA GMN ANJING, padahal kalau dia bisa nutupin plot hole yang kecil kecil menurut gw ini bakal jadi manhwa utuh yang bagus, MC yang harusnya emg bisa op sama ni author dibikin sengsara dengan konsep gajelas tai",
+    "scores": { "story": 9.2, "character": 8.5, "art": 8.5, "enjoyment": 9.2 },
+    "chapters": 202,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/2d31d5d6-ff85-4fc2-8d69-04d63fedf89c" }
+    ]
+  },
+  {
+    "id": "47",
+    "title": "I Became the Tyrant of a Defense Game",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/f2f03c21-782b-452f-86c9-1470fdaff7dd.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Isekai"],
+    "synopsis": "After clearing a notoriously difficult game that no one had ever beaten, the protagonist suddenly faints and wakes up inside the very game he completed. Trapped in a brutal world filled with deadly challenges, he must use his knowledge of the game to survive and overcome its seemingly impossible stages.",
+    "review": "HOW CAN SOMEONE MAKE THISS? konsep TOWER DEFENSE DIIMPLEMENTASIIN LANGSUNG SI KEREN ANJIR. setiap char berbekas di hati gw",
+    "scores": { "story": 9.8, "character": 9.5, "art": 9.2, "enjoyment": 10 },
+    "chapters": 195,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/dbc2c8b5-11c3-49ce-a04d-b458f1d2c326" }
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Regressor Instruction Manual",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/4586241f-f3e7-48ed-9fd4-a790d51435b3.jpg",
+    "genres": ["Action", "Adventure"],
+    "synopsis": "One day, the protagonist is summoned to another world where beasts roam and survival is a constant struggle. Unfortunately, his talent and player statistics are among the weakest, leaving him with almost no hope of becoming a powerful warrior or wizard. To survive, he must carefully assess his circumstances, exploit every available advantage, and use whatever resources he has at his disposal.",
+    "review": "MC licik mampus kwkwkw, tpi jujur author keren si bisa bikin konsep licik tai anjing dengan MC yang powernya cmn bisa liat status, applaused",
+    "scores": { "story": 9.4, "character": 9.8, "art": 9, "enjoyment": 9.9 },
+    "chapters": 207,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/14423a1b-8d7e-41e2-af00-ba0ba655d5f9" }
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Trash of the Count's Family",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/423933e1-8a38-49a1-abea-74c109219fe8.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Reincarnation"],
+    "synopsis": "After opening his eyes, the protagonist discovers that he has become Cale Henituse, the troublesome son of a count in the novel The Birth of a Hero. The story follows Choi Han, a student from Earth transported to another dimension, whose life takes a dark turn after his village is destroyed and he is mistreated by Cale. Knowing how the original story unfolds, Cale realizes that remaining part of this dangerous narrative could ruin his new life. He decides to use his knowledge of the novel to change events, avoid a disastrous fate, and build a peaceful life for himself.",
+    "review": "GA SEMUA ORANG BAKAL SUKA INI, cmn ini one of the best story writing manhwa and char dev",
+    "scores": { "story": 9.5, "character": 9.6, "art": 9.4, "enjoyment": 9.8 },
+    "chapters": 192,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/5b4a479f-37ed-41b3-8cb0-0358f4b8fdfc" }
+    ]
+  },
+  {
+    "id": "50",
+    "title": "Surviving in a Romance Fantasy Novel",
+    "type": "Manhwa",
+    "status": "Completed",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/bd3913f2-9177-4b86-8e32-26093d5851a0.jpg",
+    "genres": ["Drama", "Fantasy", "Shounen", "Harem"],
+    "synopsis": "Seo Tae-pyung finds himself transported into the romance fantasy novel Celestial Love as the younger brother of the female protagonist. Hoping to adapt to his new life and remain out of trouble, he simply wants to live quietly in a world supposedly filled with romance. However, strange events begin to unfold, including the unexpected attention of the crown princess. Tae-pyung soon realizes that surviving this fictional world may be far more complicated than he anticipated.",
+    "review": "actually this is not so good, but not too bad. TENGAH lah pokonya cmn cpt bgt tai tamatnya",
+    "scores": { "story": 8.7, "character": 8.2, "art": 8, "enjoyment": 8.3 },
+    "chapters": 50,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/b4c735a8-a5ed-4a9e-b7e6-839c10ac3d8d" }
+    ]
+  },
+  {
+    "id": "51",
+    "title": "Genius Archer's Streaming",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/3424f3c8-fdb7-4582-884f-a1ae431133b9.jpg",
+    "genres": ["Action", "Adventure", "Shounen", "Fantasy"],
+    "synopsis": "Yoo Sanghyun was once a promising young archer who won a national archery tournament, but an accident destroyed his dream and left him unable to hold a bow. After struggling to rebuild his life, he is eventually fired from his job. Desperate to make a living, he adopts the online persona Almond and begins streaming games. Armed with his exceptional talent and determination, he sets out to build a new career in the competitive world of gaming and streaming.",
+    "review": "konsep template tapi gw suka karena ini nyantai banget",
+    "scores": { "story": 8.8, "character": 9.3, "art": 9.5, "enjoyment": 9 },
+    "chapters": 100,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/081176a9-ebbd-42bf-8631-05f503e474f8" }
+    ]
+  },
+  {
+    "id": "52",
+    "title": "Player Who Returned 10,000 Years Later",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/26404f4b-70b4-4695-ad0d-0916733bd98e.jpg",
+    "genres": ["Action", "Drama", "Fantasy", "Seinen", "Comedy"],
+    "synopsis": "Oh Kangwoo, a Demon King who has ruled Hell for ten thousand years, finally finds a way to return to Earth. However, his powers become sealed, and the world he once knew has transformed into a dangerous environment filled with dimensional gates and monsters. Humans known as players enter these gates to hunt monsters and earn a living. To survive in this unfamiliar world, Kangwoo must regain his strength and adapt to a system that may prove even more brutal than Hell itself.",
+    "review": "kocak, enjoy banget gw baca ini",
+    "scores": { "story": 9, "character": 8.9, "art": 8.9, "enjoyment": 9.9 },
+    "chapters": 163,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/d15c374a-4b0a-496b-81a3-359980acd081" }
+    ]
+  },
+  {
+    "id": "53",
+    "title": "Legendary Youngest Son of the Marquis House",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/a2b53d87-bead-483a-ab0d-63c71c13c0ef.jpg",
+    "genres": ["Action", "Fantasy"],
+    "synopsis": "Driven by revenge, the protagonist successfully brings down the Tulkan Empire, the most powerful nation on the continent. Having accomplished everything he set out to do, he accepts his approaching death, believing he has no reason left to live. However, instead of dying, he awakens in the body of his fourteen-year-old self, twenty years in the past. Given another chance to revisit the time filled with regrets, he must decide how to use this unexpected return to reshape his destiny.",
+    "review": "gw kurang enjoy baca ceritanya karena pace nya lambat, DIALOG NYA KEPANJANGAN DAN KADANG GA MUTU ANJINK",
+    "scores": { "story": 8.3, "character": 8.5, "art": 9, "enjoyment": 8.6 },
+    "chapters": 182,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/e2477ced-4af6-48f8-9a35-b0d6bd55dc36" }
+    ]
+  },
+  {
+    "id": "54",
+    "title": "Be the Actor",
+    "type": "Manhwa",
+    "status": "Completed",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/34d76471-f18e-4c0a-ac65-6b20541bb464.jpg",
+    "genres": ["Drama", "Fantasy", "Shounen", "Regression"],
+    "synopsis": "Jang Young-guk achieves great success as a supporting actor and receives his first prestigious Best Supporting Actor award. However, on the same day, his mother passes away, forcing him to confront the guilt of having neglected her for years. Overwhelmed by regret and longing for the warmth of his childhood, he decides to end his life. Instead, he unexpectedly returns to his younger years. Given another opportunity to live, Young-guk pursues his dream of becoming an actor while hoping to build a happier life than the one he left behind.",
+    "review": "BUSET NANGIS MULU GW DI CHAPTER AWAL, ini manhwa sebenernya gw lebih suka konsep redemption dia soal kehidupan pertamnya sih soal masalah Actor nya tu gw kurang nangkep banget jujur. Makanya good char Not-sogood story",
+    "scores": { "story": 9.2, "character": 9.9, "art": 9.4, "enjoyment": 9.8 },
+    "chapters": 140,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/8be4fde1-29aa-4a8b-a599-944c39220704" }
+    ]
+  },
+  {
+    "id": "55",
+    "title": "Overgeared",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/8620999a-8674-4c00-8d32-a45af4ba8036.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Shounen"],
+    "synopsis": "Shin Youngwoo, also known as Grid, is an unlucky man and a low-level player in the popular virtual reality game Satisfy. His life changes when he discovers a powerful item that grants him the rare legendary class of Pagma's Successor. With the ability to forge extraordinary weapons and obtain powerful equipment, Grid begins pursuing fame and fortune. However, as his influence grows within the game, he discovers that becoming a legend brings challenges far beyond what he initially expected.",
+    "review": "AKWKWAKAWK INI PELER AH, tapi gw lumayan suka sih walau awalnya driving me crazy buat baca nya",
+    "scores": { "story": 9.1, "character": 9.1, "art": 9.5, "enjoyment": 9.4 },
+    "chapters": 344,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/16778db0-17c0-43c4-aa4a-3a4a0df5ec0b" }
+    ]
+  },
+  {
+    "id": "56",
+    "title": "Return of the Frozen Player",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/6709edef-4fcc-4cc1-a95d-44892ec6d4c4.jpg",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "synopsis": "Five years after the world changes, the final boss appears: the Frost Queen. Seo Junho, known as Specter, joins four other top players in defeating her, hoping to restore the world to normal. However, the victory comes at a terrible cost, as the five heroes fall into a long slumber. Twenty-five years later, Junho awakens to discover that the world has changed and that defeating the Frost Queen was only the beginning. He must now face new challenges and uncover the secrets of the next stage.",
+    "review": "ini lumayan sih, gw suka tipikal MC yg mikir nya banyak, cmn kesian dia kena powercreep anjink",
+    "scores": { "story": 8.9, "character": 9.2, "art": 9, "enjoyment": 9.1 },
+    "chapters": 229,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/e4e70fb1-c2eb-4b84-be6a-42c1cbe5220c" }
+    ]
+  },
+  {
+    "id": "57",
+    "title": "I Was More Overpowered Than The Hero, So I Hid My Power!",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/fe6ae01a-5d35-4725-8983-e4ecb39c9e4b.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Seinen"],
+    "synopsis": "The protagonist has always admired characters who appear ordinary and carefree while secretly possessing overwhelming power. When he gets the chance to be reincarnated into another world, he wishes to live exactly that kind of life by hiding his true strength. Unfortunately, his new circumstances make concealing his extraordinary abilities far more complicated than he imagined. His attempt to remain inconspicuous leads to unexpected situations and challenges.",
+    "review": "AWKKAWKAWK CID KAGENOU VERSI MANHWA, its fun to read",
+    "scores": { "story": 8.4, "character": 9, "art": 8.2, "enjoyment": 9.5 },
+    "chapters": 125,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/61d5e828-64c7-4c9a-b985-5dbeff2628d6" }
+    ]
+  },
+  {
+    "id": "58",
+    "title": "Absolute Dominion",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/c84b1c5d-55e3-4159-a1cb-8e18f186e955.png",
+    "genres": ["Action", "Adventure", "Drama", "Martial Arts", "Seinen"],
+    "synopsis": "A mysterious young fruit merchant named Jeok Leegeon possesses extraordinary martial arts abilities and wields two legendary weapons: the Monarch Sword in his left hand and the Hell Blade in his right. With a sharp tongue and remarkable combat skills, the twenty-year-old sets his sights on dominating the Jianghu, the world of martial artists. His ambitious journey begins as he seeks to establish his name and conquer the martial world.",
+    "review": "ini kalo lu suka MC bantai bantai dah, goated cmn minus nya 1 dah mc ke OP an jing",
+    "scores": { "story": 9, "character": 9, "art": 9.9, "enjoyment": 9.5 },
+    "chapters": 112,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/2835965e-14ff-4344-9489-222489a384f4" }
+    ]
+  },
+  {
+    "id": "59",
+    "title": "Ranker Who Lives a Second Time",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/6f49c07d-3fbb-4f08-8e30-a0e90d2d7ec9.jpg",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "synopsis": "Yeon-woo's twin brother disappeared five years ago, leaving behind a pocket watch containing a hidden diary. Inside, Yeon-woo discovers a message suggesting that his brother has died after being betrayed while climbing the Obelisk, the Tower of the Sun God, a mysterious place where multiple universes and dimensions intersect. Determined to uncover the truth and avenge his brother, Yeon-woo enters the tower and follows the same trials his brother once faced. Using the diary as his guide, he begins a dangerous climb toward the top.",
+    "review": "PEAK, GOAT, BEST WRITING terutam konsep tower, author pinter banget bikin konsep Tower jadi sebagus ini",
+    "scores": { "story": 9.8, "character": 9.6, "art": 9.4, "enjoyment": 9.6 },
+    "chapters": 235,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/5458871a-88ca-4197-8b21-756b199d8b0a" }
+    ]
+  },
+  {
+    "id": "60",
+    "title": "Transcension Academy",
+    "type": "Manhwa",
+    "status": "Completed",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/4b9b5417-6040-4140-a9c2-26ee60f8c6c9.jpg",
+    "genres": ["Action", "Drama", "Fantasy", "School Life", "Shounen"],
+    "synopsis": "Kim Seo-joon works hard to repay his deceased parents' debts and save enough money to attend a Hunter Academy. However, an accident forces him to spend all his savings on surgery, leaving him with little hope for the future. Just as he reaches his lowest point, he encounters an advertisement claiming that anyone can become an awakener. With nothing left to lose, Seo-joon accepts the offer and enrolls in Transcension Academy, an extraordinary hunter academy that exists in a dimension unlike any other.",
+    "review": "agak kureng sih sbnrnya ini manhwa, cmn enjoy aja gw bacanya",
+    "scores": { "story": 7, "character": 7.9, "art": 6.7, "enjoyment": 7.8 },
+    "chapters": 218,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/3c996ae0-dbe9-45ab-9796-7b70cd73116f" }
+    ]
+  },
+  {
+    "id": "61",
+    "title": "Became The Patron Of Villains",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/65534180-b051-11f0-b479-29d0e25fa090.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Harem", "Romance", "Shounen"],
+    "synopsis": "After reincarnating as a noble in a game, the protagonist discovers that he is merely a minor character destined to be killed by the villains of the future. Determined to avoid that fate and enjoy a comfortable noble life, he decides to guide the young villains toward a better path by supporting them and helping them overcome their harsh circumstances. His efforts seem successful as they grow into well-adjusted individuals. However, his actions eventually lead to an unexpected outcome: he becomes the mastermind behind the kingdom himself.",
+    "review": "BAGUS KALO LU SUKA TIPIKAL MANHWA SALAH PAHAM AWOKOAWKOAW, ini seru dan ga bosenin karena emang MC kocak banget tai",
+    "scores": { "story": 9.2, "character": 9.4, "art": 8.6, "enjoyment": 9.3 },
+    "chapters": 57,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/84561956-c987-491d-a189-ba1af3c22810" }
+    ]
+  },
+  {
+    "id": "62",
+    "title": "Love Letter From The Future",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/38673cc3-8d45-402f-acd4-db2b89d6a2c5.jpg",
+    "genres": ["Fantasy", "Harem", "School Life", "Seinen"],
+    "synopsis": "Ian Percus, a third-year swordsmanship student at the academy, wakes up one morning to find a calendar and a mysterious letter on his desk. The letter warns him that the world will perish unless its future is protected. When Ian arrives at the academy, he discovers that an entire week has passed without his knowledge and that he has supposedly defeated an undefeated junior during that time. Initially skeptical, Ian begins to believe the letter as its predictions come true. He must uncover what happened during the missing week and determine whether he can prevent the impending disaster.",
+    "review": "agak kureng, harem harem tai ini konsepnya aneh buat gw trus DIALOGNYA KEK BORING BANGET",
+    "scores": { "story": 7.2, "character": 7.4, "art": 7.6, "enjoyment": 7 },
+    "chapters": 65,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/aa362ff7-fb0c-445e-8685-7f227a4966ad" }
+    ]
+  },
+  {
+    "id": "63",
+    "title": "The Demon Prince Goes to the Academy",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/1702b221-de8b-43a0-80e9-3214cc95179b.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Harem", "Psychological", "Romance", "School Life", "Tragedy"],
+    "synopsis": "After dying while reading hateful comments about his novel, the protagonist is confronted by grim reapers who accuse him of being a terrible writer. To earn redemption and gain entry to heaven, he must survive until the ending of one of his own novels. He is transported into The Demon King Is Dead, but finds himself inhabiting the body of the Demon Prince, a character with no combat abilities who is destined to die early in the story. Now, he must find a way to survive a world he created himself.",
+    "review": "gw sih enjoy aja baca ini karena template sekolah tu gw suka banget kwkwkw",
+    "scores": { "story": 8.9, "character": 9, "art": 9, "enjoyment": 9.3 },
+    "chapters": 80,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/2081d56d-72ee-464b-aa17-81657f6c5df4" }
+    ]
+  },
+  {
+    "id": "64",
+    "title": "Superhuman Battlefield",
+    "type": "Manhwa",
+    "status": "Completed",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/1a2099cf-0f13-4772-a3ac-7ab5fd89052d.jpg",
+    "genres": ["Action", "Shounen"],
+    "synopsis": "Seo Moon-yeob is a superhuman who sacrificed himself to save humanity and became known as the strongest of his kind. Seventeen years later, he suddenly returns to a peaceful world that had long believed him dead. However, society has changed, and superhuman abilities are now showcased in competitive sports. Moon-yeob must adapt to this unfamiliar era and discover his place in a world that has moved on without him.",
+    "review": "GOOD CONCEPT, sabung hero wkwkwkw, mc nya jadi coach + ada konflik external yg ga menye menye",
+    "scores": { "story": 9.2, "character": 8.6, "art": 8.6, "enjoyment": 9 },
+    "chapters": 151,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/2d31d5d6-ff85-4fc2-8d69-04d63fedf89c" }
+    ]
+  },
+  {
+    "id": "65",
+    "title": "Absolute Necromancer",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/6ad50592-0e7a-4c58-9947-0ca66ced5255.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Necromancer"],
+    "synopsis": "After being betrayed, Cha Jinhyuk, a necromancer who reached the pinnacle of his class and evolved into a Spirit Master, is reincarnated ten years later in the body of a boy living in South Korea. Determined to take revenge on those who betrayed him and the people behind them, he sets out to climb a mysterious and ever-changing tower. Armed with his unrivaled abilities, he begins a new journey as a powerful necromancer, seeking vengeance against his enemies.",
+    "review": "agak kureng cmn oke aja sih buat dibaca kalo gabut",
+    "scores": { "story": 8.5, "character": 8.9, "art": 8, "enjoyment": 8.4 },
+    "chapters": 96,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/c32d4021-0332-4629-9819-1ee8751cc49c" }
+    ]
+  },
+  {
+    "id": "66",
+    "title": "Lazy Prince Becomes a Genius",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/8573e43d-d735-4e9c-bb61-65780af61d8c.jpg",
+    "genres": ["Action", "Fantasy"],
+    "synopsis": "Airen Pareira is a prince known for his laziness and lack of ambition, earning little expectation from those around him. His life begins to change as he gradually finds the motivation to overcome his weaknesses and pursue personal growth. Through perseverance and training, Airen works toward becoming a talented swordsman and proving that he is capable of far more than anyone expected.",
+    "review": "PEAKKKK, this zero to hero type shi, i love everything bout this manhwa",
+    "scores": { "story": 9.6, "character": 9.9, "art": 9.4, "enjoyment": 10 },
+    "chapters": 163,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/37e72b5f-6a11-4603-9b35-738e4a1d9997" }
+    ]
+  },
+  {
+    "id": "67",
+    "title": "The Unbeatable Dungeon's Lazy Boss",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/9e609db3-b95b-491d-bebc-53adc604d4de.jpg",
+    "genres": ["Fantasy", "Shounen"],
+    "synopsis": "Deep within the infamous Primordial Core dungeon lives one of the most notorious boss monsters of all time. Unlike a typical final boss eager to challenge adventurers, this monster simply wants to enjoy a peaceful life and rest. However, being the boss of such a dangerous dungeon means that trouble and challengers keep appearing, forcing him to deal with situations that constantly interrupt his desire for a quiet existence.",
+    "review": "howly guwd, konsep jarang di manhwa mc op tapi dongok tapi op tapi pinter awkakw baca aja, dia intinya pengen hidup nyantai",
+    "scores": { "story": 9.1, "character": 8.4, "art": 9.1, "enjoyment": 9 },
+    "chapters": 146,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/eea477df-e92a-46e3-9cb0-d846ce7c158a" }
+    ]
+  },
+  {
+    "id": "68",
+    "title": "Damn Reincarnation",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/1f9ee30b-82e1-4487-9701-10ddc0737932.jpg",
+    "genres": ["Action", "Adventure", "Drama", "Fantasy", "Shounen"],
+    "synopsis": "Hamel, a warrior who traveled with his companions to eradicate demons, dies just before their final battle begins. He is unexpectedly reincarnated as Eugene Lionhart, a descendant of his former comrade Vermouth. Given a new body with far greater potential than his previous one, Eugene begins a new life while uncovering the mysteries surrounding his reincarnation and continuing the unfinished journey of his past life.",
+    "review": "ITS GOOD NOVEL, but bad at adaption :(",
+    "scores": { "story": 8.9, "character": 9.2, "art": 8.9, "enjoyment": 9.5 },
+    "chapters": 81,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/96146b21-e04c-43bf-8a41-45fb105eec52" }
+    ]
+  },
+  {
+    "id": "69",
+    "title": "Becoming a Legendary Ace Employee",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/135b4282-701c-45cf-9819-18f0632af927.jpg",
+    "genres": ["Drama", "Fantasy", "Shounen"],
+    "synopsis": "Kim Tae-seok works at a construction site when he receives notice that he has passed the document screening for a major company called El Sung. At the same time, a mysterious message appears before him, offering him a path toward becoming a permanent employee. With this unexpected opportunity, Tae-seok begins a journey to become a legendary all-round employee and prove himself in the competitive corporate world.",
+    "review": "INI DRAMA cmn not that bad to read",
+    "scores": { "story": 8.5, "character": 9.2, "art": 8.7, "enjoyment": 9.2 },
+    "chapters": 160,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/db6ffd58-4485-44cd-a9af-587fc7840f94" }
+    ]
+  },
+  {
+    "id": "70",
+    "title": "The Dark Magician Transmigrates After 66666 Years",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/793ba8eb-f45b-42c8-a248-4ac7d57dc083.jpg",
+    "genres": ["Adventure", "Fantasy", "Magic", "Reincarnation", "Shounen", "Super Power"],
+    "synopsis": "Diablo Volfir, the greatest dark magician, is sealed away through the sinister schemes of the twelve gods. After 66,666 years have passed, he finally descends upon the world once again. With his immense magical power and knowledge from the distant past, Diablo begins a new chapter as he confronts a world that has changed dramatically during his long absence.",
+    "review": "",
+    "scores": { "story": 8.8, "character": 8.5, "art": 9, "enjoyment": 9.2 },
+    "chapters": 202,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/5ddf5f28-d316-4327-9db6-126db7d754fa" }
+    ]
+  },
+  {
+    "id": "71",
+    "title": "Han Dae Sung Returned From Hell",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/de7237bd-b218-4ff4-a8e4-8a058e281e1c.jpg",
+    "genres": ["Action", "Adventure", "Drama", "Fantasy", "Seinen", "Supernatural"],
+    "synopsis": "Han Dae-sung is suddenly dragged into Hell on the day he is supposed to graduate from high school. Desperate to survive, he struggles through the horrors of Hell and eventually finds a way back to Earth. However, ten years have passed in the real world while his body remained in a vegetative state. Upon his return, a mysterious message appears before him, marking the beginning of an extraordinary new chapter in his life.",
+    "review": "INI mc nya kelewat op sih cmn seru aja",
+    "scores": { "story": 8.6, "character": 8.4, "art": 8.5, "enjoyment": 9 },
+    "chapters": 144,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/6724a959-0528-47a6-8ec8-0da7fda0a99c" }
+    ]
+  },
+  {
+    "id": "72",
+    "title": "Heavenly Grand Archive's Young Master",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/fa684883-5349-4230-8d73-cd8c803aa3b3.jpg",
+    "genres": ["Action", "Martial Arts", "Seinen"],
+    "synopsis": "Hu Gong, the mighty leader of the Murim Alliance, suddenly finds himself inhabiting the body of a young man named Beom Hang. Beom Hang is the young master of the Heavenly Grand Archive, one of the three greatest archives in Jianghu, but is widely regarded as incompetent. Seeking to understand why his soul entered this body, Hu Gong begins training it. As Beom Hang's abilities grow beyond expectations, his transformation starts attracting the attention of the entire martial world.",
+    "review": "KAKEK KAKEK MEN JADI MUDA",
+    "scores": { "story": 8.2, "character": 8.9, "art": 9, "enjoyment": 8.1 },
+    "chapters": 182,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/7ec0f4be-8f74-4bc0-b5bd-95148cf39b4e" }
+    ]
+  },
+  {
+    "id": "73",
+    "title": "Return to Player",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/4b529c91-88df-46ea-8322-82ea03da5b65.jpg",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "synopsis": "One day, the world turns into a game as monsters suddenly appear and begin killing humanity. Humans become players and are forced to complete quests to survive. After humanity is wiped out, Kim Sehan is given a second chance. Armed with the knowledge of what happened in the previous timeline, he must challenge the system that brought the world to ruin and try to change humanity's fate.",
+    "review": "AKULAH SUNG JINGWOO 2.0",
+    "scores": { "story": 8.2, "character": 8, "art": 8.4, "enjoyment": 8.9 },
+    "chapters": 231,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/b9f402d9-169e-479d-af49-fe196430d585" }
+    ]
+  }
 ]

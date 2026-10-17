@@ -29,21 +29,16 @@ export function ScoringInfoModal({ open, onClose }: ScoringInfoModalProps) {
         </DialogHeader>
 
         <div className="space-y-6 pt-2">
-          {/* Weights */}
+          {/* Criteria */}
           <div>
-            <h3 className="mb-3 text-sm font-semibold text-muted-foreground">Evaluation Criteria &amp; Weights</h3>
+            <h3 className="mb-3 text-sm font-semibold text-muted-foreground">Evaluation Criteria</h3>
             <div className="space-y-2">
               {weightKeys.map((key) => (
                 <div
                   key={key}
                   className="rounded-lg border border-border/60 bg-secondary/30 px-4 py-3"
                 >
-                  <div className="flex items-center justify-between">
-                    <span className="text-sm font-medium text-foreground">{SCORE_LABELS[key]}</span>
-                    <span className="font-mono text-sm font-bold text-primary">
-                      {Math.round(SCORE_WEIGHTS[key] * 100)}%
-                    </span>
-                  </div>
+                  <span className="text-sm font-medium text-foreground">{SCORE_LABELS[key]}</span>
                   <p className="mt-1.5 text-xs leading-relaxed text-muted-foreground">
                     {SCORE_DESCRIPTIONS[key].summary}
                   </p>
@@ -62,16 +57,8 @@ export function ScoringInfoModal({ open, onClose }: ScoringInfoModalProps) {
               ))}
             </div>
             <p className="mt-3 text-xs text-muted-foreground">
-              The overall score is a weighted average of the four components, each scored from 0 to 10.
+              The overall score combines the four criteria above, each scored from 0 to 10.
             </p>
-          </div>
-
-          {/* Formula */}
-          <div className="rounded-lg border border-border/60 bg-secondary/20 p-4">
-            <h3 className="mb-2 text-sm font-semibold text-muted-foreground">Formula</h3>
-            <code className="block text-xs leading-relaxed text-foreground/80">
-              Overall = (Story × 0.35) + (Character × 0.25) + (Art × 0.25) + (Enjoyment × 0.15)
-            </code>
           </div>
 
           {/* Tier mapping */}

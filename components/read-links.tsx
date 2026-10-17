@@ -22,10 +22,15 @@ function getHost(url: string): string {
   }
 }
 
-export function ReadLinks({ item }: { item: MediaItem }) {
-  const links: ReadLink[] = (item.readLinks ?? []).filter(
-    (l) => l && l.name && l.url && isSafeUrl(l.url)
-  );
+// Link valid saja (name + url terisi & aman). Dipakai kartu buat tahu perlu
+// nampilin tombol atau nggak, dan dipakai ReadLinks buat daftar link-nya.
+export function getReadLinks(item: MediaItem): ReadLink[] {
+  return (item.readLinks ?? []).filter((l) => l && l.name && l.url && isSafeUrl(l.url));
+}
+
+// compact = versi kecil buat di kartu; default = versi besar buat di modal detail.
+export function ReadLinks({ item, compact = false }: { item: MediaItem; compact?: boolean }) {
+  const links = getReadLinks(item);
 
   // Belum ada link di tierlist.json -> tombol disembunyiin
   if (links.length === 0) return null;
@@ -39,9 +44,13 @@ export function ReadLinks({ item }: { item: MediaItem }) {
       <PopoverTrigger asChild>
         <button
           type="button"
-          className="inline-flex items-center gap-2 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+          className={
+            compact
+              ? 'inline-flex w-full items-center justify-center gap-1.5 rounded-md bg-primary px-2 py-1.5 text-[11px] font-semibold text-primary-foreground transition-opacity hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring'
+              : 'inline-flex items-center gap-2 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring'
+          }
         >
-          <Icon className="h-4 w-4" />
+          <Icon className={compact ? 'h-3 w-3' : 'h-4 w-4'} />
           {label}
         </button>
       </PopoverTrigger>

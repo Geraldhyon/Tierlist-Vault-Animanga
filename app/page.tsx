@@ -1,8 +1,8 @@
 'use client';
 
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo, useCallback, useDeferredValue } from 'react';
 import { Header } from '@/components/header';
-import { FilterBar, type Category } from '@/components/filter-bar';
+import { FilterBar, type Category, type StatusFilter } from '@/components/filter-bar';
 import { TierBoard } from '@/components/tier-board';
 import { DetailModal } from '@/components/detail-modal';
 import { ScoringInfoModal } from '@/components/scoring-info-modal';
@@ -10,7 +10,9 @@ import { calculateOverall, calculateRawOverall, getTier, TIERS } from '@/lib/tie
 import type { MediaItem } from '@/lib/types';
 import rawData from '@/data/tierlist.json';
 
-const CATEGORIES: Category[] = ['All', 'Anime', 'Manga', 'Manhwa'];
+// Urutan tab: Manhwa, Manga, Anime, lalu All paling kanan. Yang pertama muncul = Manhwa.
+const CATEGORIES: Category[] = ['Manhwa', 'Manga', 'Anime', 'All'];
+const STATUSES: StatusFilter[] = ['All', 'Completed', 'Ongoing'];
 const TIER_LABELS = TIERS.map((t) => t.label);
 
 // Urut dari skor tertinggi ke terendah. TierBoard cuma nge-filter per tier,
@@ -30,23 +32,28 @@ const ALL_ITEMS: MediaItem[] = (rawData as Omit<MediaItem, 'overall'>[])
 const ALL_GENRES = Array.from(new Set(ALL_ITEMS.flatMap((i) => i.genres))).sort();
 
 export default function Home() {
-  const [activeCategory, setActiveCategory] = useState<Category>('All');
+  const [activeCategory, setActiveCategory] = useState<Category>('Manhwa');
   const [searchQuery, setSearchQuery] = useState('');
   const [activeGenre, setActiveGenre] = useState('All');
   const [activeTier, setActiveTier] = useState('All');
+  const [activeStatus, setActiveStatus] = useState<StatusFilter>('All');
   const [selectedItem, setSelectedItem] = useState<MediaItem | null>(null);
   const [detailOpen, setDetailOpen] = useState(false);
   const [scoringOpen, setScoringOpen] = useState(false);
+
+  // Filtering + render ulang board di-defer, jadi input search tetap responsif.
+  const deferredQuery = useDeferredValue(searchQuery);
 
   const filteredItems = useMemo(() => {
     return ALL_ITEMS.filter((item) => {
       if (activeCategory !== 'All' && item.type !== activeCategory) return false;
       if (activeGenre !== 'All' && !item.genres.includes(activeGenre)) return false;
       if (activeTier !== 'All' && getTier(item.overall).label !== activeTier) return false;
-      if (searchQuery && !item.title.toLowerCase().includes(searchQuery.toLowerCase())) return false;
+      if (activeStatus !== 'All' && item.status !== activeStatus) return false;
+      if (deferredQuery && !item.title.toLowerCase().includes(deferredQuery.toLowerCase())) return false;
       return true;
     });
-  }, [activeCategory, activeGenre, activeTier, searchQuery]);
+  }, [activeCategory, activeGenre, activeTier, activeStatus, deferredQuery]);
 
   const handleSelect = useCallback((item: MediaItem) => {
     setSelectedItem(item);
@@ -75,6 +82,9 @@ export default function Home() {
           tiers={TIER_LABELS}
           activeTier={activeTier}
           onTierChange={setActiveTier}
+          statuses={STATUSES}
+          activeStatus={activeStatus}
+          onStatusChange={setActiveStatus}
           resultCount={filteredItems.length}
         />
 

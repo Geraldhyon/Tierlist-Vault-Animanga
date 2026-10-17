@@ -6,6 +6,7 @@ import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 
 export type Category = 'All' | 'Anime' | 'Manga' | 'Manhwa';
+export type StatusFilter = 'All' | 'Completed' | 'Ongoing';
 
 interface FilterBarProps {
   categories: Category[];
@@ -19,6 +20,9 @@ interface FilterBarProps {
   tiers: string[];
   activeTier: string;
   onTierChange: (t: string) => void;
+  statuses: StatusFilter[];
+  activeStatus: StatusFilter;
+  onStatusChange: (s: StatusFilter) => void;
   resultCount: number;
 }
 
@@ -34,18 +38,23 @@ export function FilterBar({
   tiers,
   activeTier,
   onTierChange,
+  statuses,
+  activeStatus,
+  onStatusChange,
   resultCount,
 }: FilterBarProps) {
+  // Kategori (Manhwa / Manga / Anime / All) itu tab, bukan filter, jadi nggak
+  // ikut dihitung & nggak ikut di-reset oleh "Clear filters".
   const hasFilters =
-    activeCategory !== 'All' ||
     activeGenre !== 'All' ||
     activeTier !== 'All' ||
+    activeStatus !== 'All' ||
     searchQuery !== '';
 
   const clearAll = () => {
-    onCategoryChange('All');
     onGenreChange('All');
     onTierChange('All');
+    onStatusChange('All');
     onSearchChange('');
   };
 
@@ -89,6 +98,28 @@ export function FilterBar({
       </div>
 
       <div className="flex flex-wrap items-center gap-3">
+        <div className="flex items-center gap-1.5">
+          <span className="text-xs font-medium text-muted-foreground">Status:</span>
+          <div className="flex gap-1">
+            {statuses.map((s) => (
+              <button
+                key={s}
+                type="button"
+                onClick={() => onStatusChange(s)}
+                aria-pressed={activeStatus === s}
+                className={cn(
+                  'h-8 rounded-lg px-3 text-xs font-medium transition-colors',
+                  activeStatus === s
+                    ? 'bg-primary text-primary-foreground'
+                    : 'bg-secondary/60 text-muted-foreground hover:bg-secondary hover:text-foreground'
+                )}
+              >
+                {s}
+              </button>
+            ))}
+          </div>
+        </div>
+
         <div className="flex items-center gap-1.5">
           <span className="text-xs font-medium text-muted-foreground">Genre:</span>
           <select

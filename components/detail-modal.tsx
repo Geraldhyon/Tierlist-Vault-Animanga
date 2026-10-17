@@ -20,18 +20,14 @@ import {
 import type { MediaItem } from '@/lib/types';
 import { formatLength } from '@/lib/length';
 import { ReadLinks } from '@/components/read-links';
+import { TYPE_STYLES } from '@/lib/badge-styles';
+import { CoverImage } from '@/components/cover-image';
 
 interface DetailModalProps {
   item: MediaItem | null;
   open: boolean;
   onClose: () => void;
 }
-
-const TYPE_STYLES: Record<string, string> = {
-  Anime: 'bg-sky-500/20 text-sky-300 border-sky-500/30',
-  Manga: 'bg-rose-500/20 text-rose-300 border-rose-500/30',
-  Manhwa: 'bg-violet-500/20 text-violet-300 border-violet-500/30',
-};
 
 export function DetailModal({ item, open, onClose }: DetailModalProps) {
   if (!item) return null;
@@ -46,25 +42,27 @@ export function DetailModal({ item, open, onClose }: DetailModalProps) {
       <DialogContent className="max-h-[90vh] overflow-y-auto scrollbar-thin border-border/60 bg-card p-0 sm:max-w-2xl">
         {/* Cover header */}
         <div className="relative h-40 w-full overflow-hidden bg-secondary sm:h-52">
-          {item.coverImage && (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
-              src={item.coverImage}
-              alt={item.title}
-              className="h-full w-full object-cover opacity-40"
-            />
-          )}
+          <CoverImage
+            src={item.coverImage}
+            alt={item.title}
+            loading="eager"
+            className="h-full w-full object-cover opacity-40"
+            fallback={null}
+          />
           <div className="absolute inset-0 bg-gradient-to-t from-card via-card/40 to-transparent" />
           <div className="absolute bottom-0 left-0 right-0 flex items-end gap-4 p-6">
             <div className="relative w-20 shrink-0 overflow-hidden rounded-lg border-2 border-border/60 bg-secondary shadow-xl sm:w-24">
-              {item.coverImage ? (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img src={item.coverImage} alt={item.title} className="aspect-[3/4] w-full object-cover" />
-              ) : (
-                <div className="flex aspect-[3/4] w-full items-center justify-center bg-secondary p-2 text-center">
-                  <span className="text-xs font-bold text-muted-foreground">{item.title}</span>
-                </div>
-              )}
+              <CoverImage
+                src={item.coverImage}
+                alt={item.title}
+                loading="eager"
+                className="aspect-[3/4] w-full object-cover"
+                fallback={
+                  <div className="flex aspect-[3/4] w-full items-center justify-center bg-secondary p-2 text-center">
+                    <span className="text-xs font-bold text-muted-foreground">{item.title}</span>
+                  </div>
+                }
+              />
             </div>
             <div className="flex-1 pt-2">
               <div className="mb-2 flex flex-wrap gap-2">
@@ -167,15 +165,11 @@ export function DetailModal({ item, open, onClose }: DetailModalProps) {
             <div className="space-y-3">
               {scoreKeys.map((key) => {
                 const score = item.scores[key];
-                const weight = SCORE_WEIGHTS[key];
                 const pct = (score / 10) * 100;
                 return (
                   <div key={key}>
                     <div className="mb-1 flex items-center justify-between text-xs">
-                      <div className="flex items-center gap-2">
-                        <span className="font-medium text-foreground">{SCORE_LABELS[key]}</span>
-                        <span className="text-muted-foreground">({Math.round(weight * 100)}%)</span>
-                      </div>
+                      <span className="font-medium text-foreground">{SCORE_LABELS[key]}</span>
                       <span className="font-mono font-bold text-foreground">{score.toFixed(1)}/10</span>
                     </div>
                     <div className="h-2.5 w-full overflow-hidden rounded-full bg-secondary/60">
