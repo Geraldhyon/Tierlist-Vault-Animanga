@@ -126,6 +126,9 @@ export function DetailModal({ item, open, onClose }: DetailModalProps) {
                 <p className="text-sm font-semibold">
                   {tier.min.toFixed(1)} &ndash; {tier.max.toFixed(1)} range
                 </p>
+                <p className="mt-0.5 max-w-[16rem] text-xs text-muted-foreground">
+                  {tier.description}
+                </p>
               </div>
             </div>
           </div>

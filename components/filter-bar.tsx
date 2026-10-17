@@ -4,6 +4,7 @@ import { Search, X } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
+import { CHAPTER_FILTERS, type ChapterFilter } from '@/lib/length';
 
 export type Category = 'All' | 'Anime' | 'Manga' | 'Manhwa';
 export type StatusFilter = 'All' | 'Completed' | 'Ongoing';
@@ -23,6 +24,8 @@ interface FilterBarProps {
   statuses: StatusFilter[];
   activeStatus: StatusFilter;
   onStatusChange: (s: StatusFilter) => void;
+  activeChapter: ChapterFilter;
+  onChapterChange: (c: ChapterFilter) => void;
   resultCount: number;
 }
 
@@ -41,6 +44,8 @@ export function FilterBar({
   statuses,
   activeStatus,
   onStatusChange,
+  activeChapter,
+  onChapterChange,
   resultCount,
 }: FilterBarProps) {
   // Kategori (Manhwa / Manga / Anime / All) itu tab, bukan filter, jadi nggak
@@ -49,12 +54,14 @@ export function FilterBar({
     activeGenre !== 'All' ||
     activeTier !== 'All' ||
     activeStatus !== 'All' ||
+    activeChapter !== 'All' ||
     searchQuery !== '';
 
   const clearAll = () => {
     onGenreChange('All');
     onTierChange('All');
     onStatusChange('All');
+    onChapterChange('All');
     onSearchChange('');
   };
 
@@ -147,6 +154,21 @@ export function FilterBar({
             {tiers.map((t) => (
               <option key={t} value={t}>
                 {t}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <div className="flex items-center gap-1.5">
+          <span className="text-xs font-medium text-muted-foreground">Chapters:</span>
+          <select
+            value={activeChapter}
+            onChange={(e) => onChapterChange(e.target.value as ChapterFilter)}
+            className="h-8 rounded-lg border border-border/60 bg-secondary/60 px-2.5 text-xs text-foreground outline-none transition-colors hover:bg-secondary focus:border-primary"
+          >
+            {CHAPTER_FILTERS.map((c) => (
+              <option key={c.label} value={c.label}>
+                {c.label}
               </option>
             ))}
           </select>

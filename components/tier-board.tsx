@@ -13,6 +13,7 @@ import {
 } from '@/lib/badge-styles';
 import { ReadLinks, getReadLinks } from '@/components/read-links';
 import { CoverImage } from '@/components/cover-image';
+import { formatChapters } from '@/lib/length';
 import type { MediaItem } from '@/lib/types';
 
 interface TierBoardProps {
@@ -91,6 +92,7 @@ const MediaCard = memo(function MediaCard({
   onSelect: (item: MediaItem) => void;
 }) {
   const hasLinks = getReadLinks(item).length > 0;
+  const chapters = formatChapters(item);
 
   return (
     // Wrapper-nya <div> (bukan <button>) karena di dalamnya ada 2 aksi terpisah:
@@ -130,9 +132,16 @@ const MediaCard = memo(function MediaCard({
         </div>
 
         <div className="w-full p-2.5">
-          <span className={cn(BADGE_BASE, STATUS_STYLES[item.status] ?? FALLBACK_BADGE)}>
-            {item.status}
-          </span>
+          <div className="flex flex-wrap items-center gap-1">
+            <span className={cn(BADGE_BASE, STATUS_STYLES[item.status] ?? FALLBACK_BADGE)}>
+              {item.status}
+            </span>
+            {chapters && (
+              <span className={cn(BADGE_BASE, 'border-zinc-700 bg-zinc-900 text-zinc-300')}>
+                {chapters}
+              </span>
+            )}
+          </div>
           <h3 className="mt-1.5 line-clamp-1 text-xs font-semibold text-foreground">{item.title}</h3>
           <div className="mt-1.5 flex flex-wrap gap-1">
             {item.genres.slice(0, 2).map((g) => (

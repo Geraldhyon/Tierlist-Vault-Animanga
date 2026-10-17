@@ -80,19 +80,64 @@ export interface TierInfo {
   max: number;
   gradient: string;
   text: string;
+  // Arti tier-nya (tampil di modal "Scoring System").
+  description: string;
 }
 
+// Overall dibulatkan ke 1 desimal, jadi batasnya jelas:
+// S+ di atas 9.5 (mulai 9.6), S 9.1 - 9.5 (9.0 masih A).
 export const TIERS: TierInfo[] = [
-  { label: 'S+', min: 9.5, max: 10, gradient: 'from-red-500 to-red-600', text: 'text-white' },
-  { label: 'S', min: 9.0, max: 9.49, gradient: 'from-orange-500 to-orange-600', text: 'text-white' },
-  { label: 'A+', min: 8.5, max: 8.99, gradient: 'from-amber-400 to-amber-500', text: 'text-amber-950' },
-  { label: 'A', min: 8.0, max: 8.49, gradient: 'from-yellow-300 to-yellow-400', text: 'text-yellow-950' },
-  { label: 'B+', min: 7.5, max: 7.99, gradient: 'from-lime-400 to-lime-500', text: 'text-lime-950' },
-  { label: 'B', min: 7.0, max: 7.49, gradient: 'from-emerald-500 to-emerald-600', text: 'text-white' },
-  { label: 'C', min: 6.0, max: 6.99, gradient: 'from-sky-500 to-sky-600', text: 'text-white' },
-  { label: 'D/F', min: 0, max: 5.99, gradient: 'from-zinc-600 to-zinc-700', text: 'text-zinc-100' },
+  {
+    label: 'S+',
+    min: 9.6,
+    max: 10,
+    gradient: 'from-red-500 to-red-600',
+    text: 'text-white',
+    description: 'PEAK. Sebagus itu, wajib baca.',
+  },
+  {
+    label: 'S',
+    min: 9.1,
+    max: 9.5,
+    gradient: 'from-orange-500 to-orange-600',
+    text: 'text-white',
+    description: 'Nearly peak. tinggal ada hal kecil yang gw nggak suka.',
+  },
+  {
+    label: 'A',
+    min: 8.0,
+    max: 9.0,
+    gradient: 'from-yellow-300 to-yellow-400',
+    text: 'text-yellow-950',
+    description: 'Worth dibaca.',
+  },
+  {
+    label: 'B',
+    min: 7.0,
+    max: 7.9,
+    gradient: 'from-emerald-500 to-emerald-600',
+    text: 'text-white',
+    description: 'Worth dibaca kalau udah mentok semua bacaan (kalau A-S+ mentok semua).',
+  },
+  {
+    label: 'C',
+    min: 6.0,
+    max: 6.9,
+    gradient: 'from-sky-500 to-sky-600',
+    text: 'text-white',
+    description: 'Mmm, kalau nganggur oke.',
+  },
+  {
+    label: 'D',
+    min: 0,
+    max: 5.9,
+    gradient: 'from-zinc-600 to-zinc-700',
+    text: 'text-zinc-100',
+    description: 'Buang waktu idup.',
+  },
 ];
 
+// Cuma pakai batas bawah (min) supaya nggak ada celah antar tier.
 export function getTier(overall: number): TierInfo {
-  return TIERS.find((t) => overall >= t.min && overall <= t.max) ?? TIERS[TIERS.length - 1];
+  return TIERS.find((t) => overall >= t.min) ?? TIERS[TIERS.length - 1];
 }

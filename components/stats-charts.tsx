@@ -16,12 +16,10 @@ import {
 const TIER_COLORS: Record<string, string> = {
   'S+': '#ef4444',
   S: '#f97316',
-  'A+': '#fbbf24',
   A: '#fde047',
-  'B+': '#a3e635',
   B: '#10b981',
   C: '#0ea5e9',
-  'D/F': '#52525b',
+  D: '#52525b',
 };
 
 const AXIS_TICK = { fill: 'hsl(var(--muted-foreground))', fontSize: 12 };

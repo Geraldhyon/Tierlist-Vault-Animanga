@@ -25,6 +25,7 @@ export function ScoringInfoModal({ open, onClose }: ScoringInfoModalProps) {
           <DialogTitle className="text-xl">Scoring System</DialogTitle>
           <DialogDescription>
             How titles are evaluated, scored, and assigned a tier grade.
+            DISCLAIMER: Ini sangat amat Subjektif.
           </DialogDescription>
         </DialogHeader>
 
@@ -64,19 +65,26 @@ export function ScoringInfoModal({ open, onClose }: ScoringInfoModalProps) {
           {/* Tier mapping */}
           <div>
             <h3 className="mb-3 text-sm font-semibold text-muted-foreground">Tier Conversion</h3>
-            <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
+            <div className="space-y-2">
               {TIERS.map((tier) => (
                 <div
                   key={tier.label}
-                  className={cn(
-                    'flex flex-col items-center rounded-lg bg-gradient-to-br p-3',
-                    tier.gradient
-                  )}
+                  className="flex items-center gap-3 rounded-lg border border-border/60 bg-secondary/30 p-2.5"
                 >
-                  <span className={cn('text-lg font-black', tier.text)}>{tier.label}</span>
-                  <span className={cn('text-[10px] font-medium', tier.text)}>
-                    {tier.min.toFixed(1)} &ndash; {tier.max.toFixed(1)}
-                  </span>
+                  <div
+                    className={cn(
+                      'flex h-14 w-16 shrink-0 flex-col items-center justify-center rounded-lg bg-gradient-to-br',
+                      tier.gradient
+                    )}
+                  >
+                    <span className={cn('text-lg font-black leading-none', tier.text)}>
+                      {tier.label}
+                    </span>
+                    <span className={cn('mt-1 text-[10px] font-medium leading-none', tier.text)}>
+                      {tier.min.toFixed(1)}&ndash;{tier.max.toFixed(1)}
+                    </span>
+                  </div>
+                  <p className="text-xs leading-relaxed text-foreground/80">{tier.description}</p>
                 </div>
               ))}
             </div>
