@@ -217,7 +217,7 @@
     "genres": ["Action", "Drama", "Fantasy", "School Life", "Seinen", "Harem"],
     "synopsis": "Once known as the greatest swordsman in the country, the protagonist finds himself inside a mobile game he had only played a few times. Blessed by the Sword God, he gains extraordinary swordsmanship abilities, but there is a catch: the only weapon he can use is a sashimi knife. With the power to become a Sword Saint for just one minute a day, he must use his limited time and skill to overcome the challenges of the academy.",
     "review": "ini diawal bagus banget, nge hook nya tu bagus konsepnya HIGH RISK HIGH REWARD, tapi makin lama makin gajelas konfliknya",
-    "scores": { "story": 8.3, "character": 7.4, "art": 6.9, "enjoyment": 9.5 },
+    "scores": { "story": 8.3, "character": 7.4, "art": 7.5, "enjoyment": 9.5 },
     "chapters": 99,
     "readLinks": [
       { "name": "Shinigami", "url": "https://11.shinigami.asia/series/dbe6a27e-7757-4175-86b9-4d9e2d0b3aab" }
@@ -1091,6 +1091,516 @@
     "chapters": 231,
     "readLinks": [
       { "name": "Shinigami", "url": "https://11.shinigami.asia/series/b9f402d9-169e-479d-af49-fe196430d585" }
+    ] 
+  },
+  {
+  "id": "74",
+  "title": "Academy's Genius Swordmaster",
+  "type": "Manhwa",
+  "status": "Ongoing",
+  "coverImage": "https://storage.westmanga.blog/west/images/covers/4464a150-515d-11f1-ac0b-f13fd6e7651b.jpg",
+  "genres": ["Action", "Adventure", "Fantasy"],
+  "synopsis": "Ronan menjalani kehidupan yang sia-sia dan dipenuhi penyesalan. Namun, di akhir hidupnya, ia mendapatkan kesempatan kedua untuk mengubah nasibnya. Ia kembali ke masa ketika dirinya masih berusia sepuluh tahun. Demi orang-orang yang telah mengorbankan nyawa mereka untuknya, Ronan bertekad menjalani kehidupan barunya dengan sungguh-sungguh dan mengubah masa depan agar pengorbanan mereka tidak sia-sia.",
+  "review": "gaoted mc, story awal kurang nge hook tapi makin lama ini bagus banger",
+  "scores": { "story": 9.5, "character": 9.0, "art": 9.0, "enjoyment": 9.6 },
+  "chapters": 158,
+  "readLinks": [
+    { "name": "Shinigami", "url": "https://11.shinigami.asia/series/df972fcd-4b13-4121-924e-d7c044301cb5" },
+    { "name": "Westmanga", "url": "https://v1.westmanga.my/view/jagoan-pedang-paling-jenius-di-akademi-chapter-158" }
+  ]
+  },
+  {
+  "id": "75",
+  "title": "You Get Dumb When You're in Love",
+  "type": "Manhwa",
+  "status": "Ongoing",
+  "coverImage": "https://storage.westmanga.blog/west/covers/d9974c4d-7948-49fc-84f8-a01edb28c893.png",
+  "genres": ["Comedy", "Romance", "Slice of Life"],
+  "synopsis": "Serin adalah gadis yang dingin, modis, dan memiliki tembok pertahanan yang membuatnya sulit didekati. Sementara itu, Jinhyung hanyalah mahasiswa biasa. Di hadapan orang lain, keduanya selalu bersikap normal dan menjaga citra masing-masing. Namun, ketika hanya berdua, mereka justru berubah menjadi sosok yang konyol dan bertingkah bodoh. Kisah romansa komedi tentang dua orang yang kehilangan akal sehat ketika jatuh cinta.",
+  "review": "You Get Dumb When You're in Love menghadirkan romansa ringan dengan komedi dari perbedaan sikap kedua karakter saat berada di depan umum dan ketika sedang berdua. Kontras antara Serin yang terlihat dingin dan Jinhyung yang biasa saja dengan tingkah konyol mereka saat bersama menjadi daya tarik utamanya. Cocok buat pembaca yang menyukai romance slice of life dengan interaksi karakter yang lucu dan menggemaskan.",
+  "scores": { "story": 8.5, "character": 8.2, "art": 8.5, "enjoyment": 9.5 },
+  "chapters": 21,
+  "readLinks": [
+    { "name": "Westmanga", "url": "https://v1.westmanga.my/view/you-get-dumb-when-you-re-in-love-chapter-21" }
+  ]
+},
+  {
+    "id": "76",
+    "title": "Copy Skills With Affinity!",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/covers/97bfdef9-5f78-4901-bc28-da9723c0e408.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Romance"],
+    "synopsis": "Aiden, seorang penipu yang hidup di gang-gang kumuh, tiba-tiba diculik oleh ksatria wanita terhebat Kekaisaran. Ksatria tersebut mengajukan tawaran pernikahan palsu selama satu tahun dan meminta Aiden berpura-pura menjadi suaminya.",
+    "review": " ",
+    "scores": { "story": 8.2, "character": 7.9, "art": 8.0, "enjoyment": 9 },
+    "chapters": 10,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/3f69cbfe-5eae-4562-bc2e-eb0359c5c8f1" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/menyalin-skill-dengan-afinitas-chapter-10" }
+    ]
+  },
+  {
+    "id": "77",
+    "title": "+99 Wooden Stick",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/46715dcc-eb3c-4528-b804-25e0998bd667.jpg",
+    "genres": ["Action", "Drama", "Shounen"],
+    "synopsis": "Aku, pemain game realitas virtual Chrono Life, diabaikan oleh orang lain karena kemampuannya yang buruk. Secara kebetulan, ia berhasil memperkuat senjata dasar berupa tongkat kayu hingga mencapai +99. Dengan senjata tersebut, ia mulai membalas orang-orang yang pernah meremehkannya.",
+    "review": " ",
+    "scores": { "story": 7, "character": 8, "art": 6, "enjoyment": 9 },
+    "chapters": 100,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/3ce6f8ce-b3fe-4bbe-aedf-f9c0811798bf" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/99-wooden-stick-chapter-100" }
+    ]
+  },
+  {
+    "id": "78",
+    "title": "The Demon King Overrun by Heroes",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/1aaccea0-cc2e-11f0-bb8e-fbf3f44fa100.webp",
+    "genres": ["Action", "Comedy", "Fantasy", "Regression"],
+    "synopsis": "Berje mati karena mengikuti standar seorang raja iblis. Setelah mendapatkan kesempatan hidup kembali melalui regresi, ia memutuskan untuk meninggalkan standar raja iblis yang selama ini membuatnya menderita. Kini, ia berusaha bertahan hidup dengan caranya sendiri sebagai raja iblis yang tidak biasa.",
+    "review": " ",
+    "scores": { "story": 9.2, "character": 9, "art": 9, "enjoyment": 9.5 },
+    "chapters": 52,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/4df769c3-3209-4745-a2c2-e547d44e080a" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/the-demon-king-overrun-by-heroes-chapter-52" }
+    ]
+  },
+  {
+    "id": "79",
+    "title": "Solo Max-Level Newbie",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/ee2c8750-713f-11f1-b820-ab566e9f668c.jpg",
+    "genres": ["Action", "Fantasy", "Shounen"],
+    "synopsis": "Jinhyuk adalah seorang Nutuber game yang menjadi satu-satunya orang yang menyaksikan akhir Tower of Trials. Ketika popularitas game tersebut menurun, ia berniat berhenti bermain. Namun, Tower of Trials tiba-tiba menjadi kenyataan. Berbekal pengetahuan tentang setiap aspek permainan, Jinhyuk mengambil alih situasi dan menghadapi tantangan lebih cepat daripada siapa pun.",
+    "review": " ",
+    "scores": { "story": 9.5, "character": 9.8, "art": 9, "enjoyment": 9.5 },
+    "chapters": 281,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/ad6fa0a8-43b5-4dd1-aa89-1a1bbde66f65" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/solo-karir-keroco-chapter-281" }
+    ]
+  },
+  {
+    "id": "80",
+    "title": "Barbarian’s Adventure In A Fantasy World",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/f23d6bf0-6e86-11f0-b032-6ffc00e42f90.jpg",
+    "genres": ["Action", "Comedy", "Fantasy", "Shounen"],
+    "synopsis": "Seorang pria yang selalu berdoa agar dapat memasuki dunia fantasi akhirnya terbangun di dunia bersalju sebagai seorang barbarian. Berbeda dari barbarian pada umumnya, ia berusaha mempelajari bahasa manusia, menambah pengetahuan, dan mendapatkan lisensi resmi sebagai tentara bayaran. Namun, penampilannya yang mengerikan dan kekuatannya yang luar biasa sering menimbulkan kesalahpahaman.",
+    "review": " ",
+    "scores": { "story": 8.4, "character": 8.7, "art": 8.9, "enjoyment": 9.0 },
+    "chapters": 73,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/ba8918da-e213-48eb-8174-9ba64c8ab685" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/barbarians-adventure-in-a-fantasy-world-chapter-73" }
+    ]
+  },
+  {
+    "id": "81",
+    "title": "Only I Have An EX-Grade Summon",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/39c69170-3152-11f1-9b07-2b80d4d5049b.webp",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "synopsis": "Dalam dunia tempat makhluk panggilan memiliki peringkat dari F hingga S, tokoh utama menemukan sesuatu yang tidak biasa. Makhluk panggilannya ternyata memiliki peringkat EX, melampaui tingkatan yang dikenal dalam sistem tersebut.",
+    "review": " ",
+    "scores": { "story": 7, "character": 8.7, "art": 8.4, "enjoyment": 9.0 },
+    "chapters": 43,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/727a1e2e-73e9-4a21-a948-2ad2568243d3" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/only-i-have-an-ex-grade-summon-chapter-43" }
+    ]
+  },
+  {
+    "id": "82",
+    "title": "Number One Star Instructor Master Baek",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/6515c064-348f-4d8b-83e2-9834a778d2a6.jpg",
+    "genres": ["Action", "Reincarnation"],
+    "synopsis": "Seorang ahli bela diri yang mempelajari seni bela diri terkuat akhirnya terbunuh dan bereinkarnasi sebagai Baek, seorang petugas desa pedesaan yang dikenal sebagai Guru Satu Pukulan. Ia memulai kehidupan baru dengan identitas dan keadaan yang sangat berbeda dari kehidupan sebelumnya.",
+    "review": " ",
+    "scores": { "story": 8.8, "character": 8, "art": 7.9, "enjoyment": 8.4 },
+    "chapters": 164,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/5be6f8c4-28a2-4d1d-88c9-e169d544f707" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/number-one-star-instructor-master-baek-one-hit-teacher-master-baek-chapter-164" }
+    ]
+  },
+  {
+    "id": "83",
+    "title": "Transcendence Due To A System Error",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/fa60fe00-899c-11f1-8291-23c384d7b83e.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Shounen"],
+    "synopsis": "Kang Seo-yul bereinkarnasi sebagai protagonis novel yang sedang dibacanya dengan kekuatan luar biasa dan pengetahuan mengenai masa depan cerita. Namun, berbeda dengan semua orang di dunia tersebut, ia tidak memiliki jendela status dan tidak terikat oleh sistem. Setelah memasuki Akademi Manusia Super, ia memanfaatkan pengetahuannya untuk menemukan berbagai rahasia dan mengambil keuntungan dari kejadian yang akan datang.",
+    "review": " ",
+    "scores": { "story": 6.7, "character": 7.5, "art": 6.8, "enjoyment": 7.9 },
+    "chapters": 20,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/077e6226-a4b5-434d-a6fc-e39e4cdd3eb1" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/transcendence-due-to-a-system-error-chapter-20" }
+    ]
+  },
+  {
+    "id": "84",
+    "title": "Kidnapped Dragons",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/2ac73650-d51a-11f0-bf07-5b3576e22978.jpg",
+    "genres": ["Action", "Fantasy"],
+    "synopsis": "Bumi mengalami kiamat setelah gagal diselamatkan dari kehancuran akibat kegilaan para naga. Yu Jitae terus kembali ke masa lalu setiap kali ia mati berkat otoritas Vintage Clock (EX), tetapi berbagai upayanya selalu berakhir dengan kegagalan. Dalam regresi ketujuh, ia mulai memahami cara mengatasi masalah yang menghancurkan dunia.",
+    "review": " ",
+    "scores": { "story": 7.6, "character": 8, "art": 7.5, "enjoyment": 8.0 },
+    "chapters": 64,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/8fdb6581-d444-4751-8098-8fc22f604681" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/kidnapped-dragons-chapter-64" }
+    ]
+  },
+  {
+    "id": "85",
+    "title": "You’re the Only One I Can See",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/dfa817e0-31ab-11f1-9b07-2b80d4d5049b.jpg",
+    "genres": ["Comedy", "Romance"],
+    "synopsis": "Mengikuti saran teman khayalannya, Jason, yang menyuruhnya memperlakukan semua perempuan seperti batu, Park Jin-yong mulai benar-benar melihat perempuan sebagai batu. Namun, Sunwoo muncul sebagai siswi yang berbeda dari pandangannya tersebut. Untuk pertama kalinya dalam lima tahun, Jin-yong kembali merasakan kebahagiaan saat melihat wajah seorang gadis.",
+    "review": " ",
+    "scores": { "story": 9.7, "character": 9.6, "art": 9.5, "enjoyment": 10 },
+    "chapters": 33,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/ef65f963-878c-4201-bc96-432f8c5d73d2" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/youre-the-only-one-i-can-see-chapter-33" }
+    ]
+  },
+  {
+    "id": "86",
+    "title": "Player Who Can’t Level Up",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": " ",
+    "genres": ["Action", "Fantasy"],
+    "synopsis": "Undangan untuk memasuki Tower hanya diberikan kepada orang-orang terpilih yang memenuhi syarat menjadi pemain dan memperoleh kemampuan unik. Tokoh utama menerima undangan tersebut pada usia 18 tahun, tetapi setelah lima tahun, levelnya masih tetap 1.",
+    "review": " ",
+    "scores": { "story": 6.9, "character": 7, "art": 6.7, "enjoyment": 7 },
+    "chapters": 247,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/7701ba39-f6b3-46ab-873f-cbc1fe93fb10" }
+    ]
+  },
+  {
+    "id": "87",
+    "title": "Sang Raja Ksatria Rasis",
+    "type": "Manhwa",
+    "status": "Completed",
+    "coverImage": "https://storage.westmanga.blog/west/covers/a2dc6dfe-25a5-4bf0-8c85-290580079040.jpg",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "synopsis": "Setelah berburu iblis di dunia lain selama tiga ratus tahun, tokoh utama akhirnya kembali ke Bumi. Namun, ia tidak kembali sendirian. Kisah ini mengikuti kepulangannya dan berbagai hal yang menyertainya setelah perjalanan panjang di dunia lain.",
+    "review": " ",
+    "scores": { "story": 8, "character": 8.2, "art": 6.9, "enjoyment": 8 },
+    "chapters": 186,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/0f1b13dd-f1cb-48a4-93c5-b541207d5cb3" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/sang-raja-ksatria-rasis-chapter-186" }
+    ]
+  },
+  {
+    "id": "88",
+    "title": "Pacarku Balik-Balik Jadi Naga",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/covers/8c68d022-d7d4-468a-bf6d-1fb1bcdb347c.webp",
+    "genres": ["Action", "Fantasy", "Romance"],
+    "synopsis": "Sia, kekasih Minjun yang dikira telah tewas dalam peristiwa Gate Break, kembali setelah satu tahun dalam wujud seekor naga. Namun, kebahagiaan mereka terancam karena setiap kali mereka melakukan kontak fisik, risiko yang membahayakan nyawa Minjun semakin besar. Minjun harus mencari cara untuk menguasai kekuatan naga demi bertahan hidup dan mempertahankan cintanya bersama Sia.",
+    "review": " ",
+    "scores": { "story": 8, "character": 8, "art": 8, "enjoyment": 8 },
+    "chapters": 9,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/162ab027-3987-4397-b286-51341391de69" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/pacarku-balik-balik-jadi-naga-chapter-09" }
+    ]
+  },
+  {
+    "id": "89",
+    "title": "Eleceed",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/d421eed0-7762-11f1-9b03-29d8c8266dc8.jpg",
+    "genres": ["Action", "Comedy", "Shounen", "Supernatural"],
+    "synopsis": "Kaiden adalah pengguna kemampuan misterius yang bersembunyi di dalam tubuh kucing jalanan. Setelah terluka akibat pertarungan dengan pengguna kemampuan lain, ia ditemukan oleh Jiwoo. Jiwoo adalah siswa SMA yang energik, banyak bicara, menyukai kucing, dan memiliki kemampuan khusus. Pertemuan keduanya membawa mereka ke dalam berbagai petualangan.",
+    "review": " ",
+    "scores": { "story": 9.95, "character": 9.8, "art": 9.4, "enjoyment": 10 },
+    "chapters": 422,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/05bbcbc4-56a6-47e6-ac36-1d482339a322" },
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/listrik-dan-kecepatan-chapter-422" }
+    ]
+  },
+  {
+    "id": "90",
+    "title": "I’m Being Misunderstood as a Soccer Genius",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/ba163528-a0b5-4ee2-a45e-891212dd8046.jpg",
+    "genres": ["Shounen", "Sports"],
+    "synopsis": "Lee Jian, pemain sepak bola Korea yang dikeluarkan dari tim muda bergengsi di Italia, menjalani hari-harinya sebagai pemain pengganti di tim muda AC Firenze. Ia sering menyombongkan diri sebagai seorang jenius kepada teman masa kecilnya, Kim Jiwoo. Ketika mengetahui bahwa Jiwoo akan datang ke Italia untuk belajar, Jian bertekad menjadi pemain utama agar tidak mengecewakan temannya.",
+    "review": " ",
+    "scores": { "story": 8.7, "character": 8.4, "art": 8.9, "enjoyment": 9.4 },
+    "chapters": 97,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://11.shinigami.asia/series/84544ef7-d906-44af-9019-f3d08c7028b8" }
+    ]
+  },
+  {
+    "id": "91",
+    "title": "The Regressor and the Blind Saintess",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/covers/b6a2999d-a7fd-4585-b15b-3ed69bfa6370.png",
+    "genres": ["Action", "Fantasy", "Romance"],
+    "synopsis": "Vera, who was born a beggar and survived by any means necessary, dies from a curse after the Demon King War. In his final moments, the only person who genuinely cared for him was Renee, the blind Saintess who took care of him. Unfortunately, Vera witnesses her death before his own. Given a second chance by returning to the past, he vows to find and protect Renee earlier. Now, he must face conspiracies and the wrath of powerful forces across the continent, all seeking to claim Renee when her Holy Stigma awakens.",
+    "review": " ",
+    "scores": { "story": 9.7, "character": 9.8, "art": 9.0, "enjoyment": 10 },
+    "chapters": 21,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/sang-regressor-dan-saintess-buta-chapter-21" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/f32c876f-ebe6-42fa-8eec-8cb32eecd5b2" }
+    ]
+  },
+  {
+    "id": "92",
+    "title": "The Wandering Knight’s Survival Manual",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/de611810-c9a4-11f0-ad3d-97c374afb06d.jpg",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "synopsis": "After dying in an unexpected accident, Kim Yohan is reincarnated as Johann Aitz, a member of the prestigious Aitz noble family. Despite his noble birth, Johann occupies the lowest position in his family's hierarchy. Worse still, he lives in a brutal medieval society where only money and strength determine survival. Relying on knowledge from his modern life and training relentlessly, Johann eventually encounters Kaegal, the Poison Master of the Nesos Guild, the Empire's most notorious assassin guild. This is the story of Johann's fierce struggle to avoid becoming another victim of a brutal age.",
+    "review": " ",
+    "scores": { "story": 9.0, "character": 9.3, "art": 9.0, "enjoyment": 9.8 },
+    "chapters": 63,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/the-wandering-knights-survival-manual-chapter-63" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/cf54ac12-830b-49a7-9d83-bf74c4b27197" }
+    ]
+  },
+  {
+    "id": "93",
+    "title": "I Married the Dragon I Killed",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/d0684590-7ede-11f1-9b77-5b662129792e.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Harem", "Magic", "Romance"],
+    "synopsis": "The ninth circle is known as the realm of demigods. The final key to reaching it is the heart of the Red Dragon, Valdrova. 'I never expected my own fiancée to come and kill me.' For some reason, Valdrova willingly surrenders her heart without resisting. The protagonist is left confused by the uncomfortable feelings rising within him. He realizes that Valdrova's despair has run so deep and lasted so long that even his own hatred cannot compare to it.",
+    "review": " ",
+    "scores": { "story": 8, "character": 8, "art": 8, "enjoyment": 8.4 },
+    "chapters": 19,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/aku-menikahi-naga-yang-telah-kubunuh-chapter-19" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/0e65aff8-2b74-404a-8664-4363d0b9e45e" }
+    ]
+  },
+  {
+    "id": "94",
+    "title": "Healing at the Academy Convenience Store",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/covers/367ec0a0-3149-4dbd-9d64-de9c71ea36fa.png",
+    "genres": ["Comedy", "Fantasy", "Harem", "Shounen"],
+    "synopsis": "Lee Young-jin, a 29-year-old convenience store owner, dies after being hit by a truck just as his dream of owning his own shop finally comes true. Instead of ending there, his life continues as Wolfram von Lohengrin, a villainous prince in a terrible game he knows extremely well. Wolfram is a character destined to be beheaded early in the story. Determined to avoid that fate, he sets out to survive.",
+    "review": " ",
+    "scores": { "story": 8.7, "character": 8.0, "art": 9.0, "enjoyment": 9.3 },
+    "chapters": 19,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/healing-at-the-academy-convenience-store-chapter-19" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/879a3e03-80bd-4389-88a8-0d3619743454" }
+    ]
+  },
+  {
+    "id": "95",
+    "title": "Myst, Might, Mayhem",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/covers/6dd87660-4b1c-45bc-b3f8-c87f5a36f8bc.jpg",
+    "genres": ["Action", "Adventure", "Fantasy", "Martial Arts"],
+    "synopsis": "From the studio and author behind Myst, Might, Mayhem.",
+    "review": " ",
+    "scores": { "story": 9.0, "character": 9, "art": 9.4, "enjoyment": 9 },
+    "chapters": 120,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/sang-iblis-kekacauan-surgawi-chapter-120" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/4b42395f-8cb2-4e42-bddd-662f4d6683bd" }
+    ]
+  },
+  {
+    "id": "96",
+    "title": "Sword God’s Livestream",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/d12c6b40-5ea5-11f1-9fc4-bbb5d7ec0425.jpg",
+    "genres": ["Action", "Fantasy", "Martial Arts", "Shounen"],
+    "synopsis": "What use is being the Sword God in his previous life? For some reason, the protagonist begins remembering his past life as a child, which may explain why he enjoys the virtual reality game he plays. However, a congenital condition prevents him from accessing VR, and it takes seven years for a solution to appear. The solution involves a capsule worth one hundred million won. When he learns that the capsule is the grand prize in LEOS, a streaming league tournament, he considers taking part.",
+    "review": " ",
+    "scores": { "story": 8.0, "character": 8.2, "art": 8.6, "enjoyment": 8.9 },
+    "chapters": 40,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/sword-gods-livestream-chapter-40" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/2f7d8e13-c8f7-4a5f-a86f-186fbfa8a861" }
+    ]
+  },
+  {
+    "id": "97",
+    "title": "My Wife Waited for Me in the Wheat Field",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/25ff7ec0-63a9-11f1-adb3-1bbb73bc9b13.jpg",
+    "genres": ["Comedy", "Drama", "Fantasy", "Romance", "Shounen"],
+    "synopsis": "Ten years ago, he fled a marriage he never wanted, leaving on their wedding night. Seeking freedom, he abandoned his name, family, and a wife he barely knew. When tragic news forces him to return after a decade in exile, he discovers something he never expected: his wife is still there, waiting faithfully and looking just as beautiful as the day he left. Now, caught between regret, secrets from the past, and feelings that never had the chance to grow, he must face one question: why did she remain after being abandoned for ten years?",
+    "review": " ",
+    "scores": { "story": 8.4, "character": 8.0, "art": 8.0, "enjoyment": 8.1 },
+    "chapters": 33,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/my-wife-waited-for-me-in-the-wheat-field-chapter-33" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/f74fe88a-5228-4f13-bf7d-4168d0c37a83" }
+    ]
+  },
+  {
+    "id": "98",
+    "title": "Godeokchun’s Food Truck",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/a2ce4bf0-cb26-11f0-9806-1dc2536652db.jpg",
+    "genres": ["Comedy", "Harem", "Romance", "Shounen"],
+    "synopsis": "Jun-ho inherits his late uncle Deok-chun's food truck and travels around the country, cooking to make the name Go Deok-chun known nationwide. His journey begins with Se-hee, the heir to a conglomerate, and continues as Jun-ho meets women in every region he visits, each with her own story. They all fall for him, but what truly captures his heart is cooking. Follow Jun-ho's irresistible romantic journey as he travels the country with his food truck and builds a business.",
+    "review": " ",
+    "scores": { "story": 8.5, "character": 8.0, "art": 8.2, "enjoyment": 8.5 },
+    "chapters": 52,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/godeokchuns-food-truck-chapter-52" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/db8dec25-87f8-4d07-b390-1906a7270a0c" }
+    ]
+  },
+  {
+    "id": "99",
+    "title": "Doctor’s Rebirth",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/8cf19190-5928-448a-83b2-46c1257b2abf.jpg",
+    "genres": ["Action", "Fantasy", "Isekai", "Martial Arts"],
+    "synopsis": "A doctor dies while volunteering in North Korea, where he becomes involved in a civil war. After his death, he enters the world of Murim, and his story begins there.",
+    "review": " ",
+    "scores": { "story": 9.6, "character": 9.0, "art": 9.0, "enjoyment": 9.5 },
+    "chapters": 246,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/doctors-rebirth-chapter-246" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/ab799228-fb93-48b4-befc-973878496419" }
+    ]
+  },
+  {
+    "id": "100",
+    "title": "The Hero Returns",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/90a3435e-7dbf-4f1e-9d69-899163df86fc.jpg",
+    "genres": ["Action", "Adventure", "Shounen"],
+    "synopsis": "Kim Sung Bin, humanity's strongest hero, risked everything in battle but still failed to prevent the world's destruction. However, his legend is not over. He returns twenty years into the past, carrying overwhelming power and experience. Determined to succeed this time, he prepares to fight again and destroy the threat that ruined the world.",
+    "review": " ",
+    "scores": { "story": 8.9, "character": 8.4, "art": 7.0, "enjoyment": 8.0 },
+    "chapters": 174,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/the-hero-returns-chapter-174" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/657bf10d-b72d-4ba6-9a43-a4381e8a10b3" }
+    ]
+  },
+  {
+    "id": "101",
+    "title": "The Regressed Son of a Duke Is an Assassin",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/d6a67ae0-4cf1-11f1-8f4a-bfd858b94c42.webp",
+    "genres": ["Action", "Drama", "Fantasy", "Seinen"],
+    "synopsis": "Cyan Vert, the best assassin on the continent, meets a tragic end after being betrayed by his own brother, the person he trusted most throughout his life. Wishing for a second chance, he vows to live differently, trust only himself, and achieve everything he desires with his own hands. Miraculously, his wish is granted, giving him the opportunity to forge his own path rather than remain a shadow living for others.",
+    "review": " ",
+    "scores": { "story": 7.0, "character": 7.9, "art": 7.5, "enjoyment": 8.0 },
+    "chapters": 148,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/sang-putra-duke-yang-regresi-adalah-assassin-chapter-148" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/b5f07831-f952-4919-af7c-aae4cadeb607" }
+    ]
+  },
+  {
+    "id": "102",
+    "title": "30 Years Have Passed Since the Prologue",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/ec5bdbf0-886a-11f1-8291-23c384d7b83e.webp",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
+    "synopsis": "I was transported into a game world I had never seen before. Thinking it was a high-end RPG, I spent thirty years playing it.",
+    "review": " ",
+    "scores": { "story": 8.2, "character": 8.0, "art": 8, "enjoyment": 8 },
+    "chapters": 20,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/30-years-have-passed-since-the-prologue-chapter-20" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/887d8064-1be0-4810-ac92-ce205231d62f" }
+    ]
+  },
+  {
+    "id": "103",
+    "title": "The Mad Dog of the Duke’s Estate",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/2cf6c0d0-8a79-11f0-a545-01601dd37d30.webp",
+    "genres": ["Action"],
+    "synopsis": "I lived like a dog on a leash, but in this life, I will live as a mad dog. I drew my sword for a king consumed by madness and eventually died at the hands of my own best friend. When I opened my eyes again, I had been reborn as the youngest grandson of that very friend.",
+    "review": " ",
+    "scores": { "story": 7, "character": 7, "art": 7, "enjoyment": 7 },
+    "chapters": 79,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/the-mad-dog-of-the-dukes-estate-chapter-79" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/d09ef88a-65c5-461c-9c73-84d3c16231b9" }
+    ]
+  },
+  {
+    "id": "104",
+    "title": "There Are No Bad Young Ladies in This World",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/images/covers/a0b1b2e0-f99c-11f0-b1c4-5f743078e976.webp",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
+    "synopsis": "Noble ladies are often thought to be rude, lacking manners, or having their heads filled with fantasies. Even in an era when this stereotype is widespread, someone steps forward to teach them. Derrick, a commoner who discovers his talent for magic, becomes a mercenary and is eventually invited to tutor noble ladies in magic. Thanks to his exceptional teaching, he transforms unruly young ladies into respectable individuals, attracting offers from prominent noble families. He believes there are no bad young ladies in this world, at least not in front of him.",
+    "review": " ",
+    "scores": { "story": 7.2, "character": 7, "art": 6.3, "enjoyment": 7 },
+    "chapters": 46,
+    "readLinks": [
+      { "name": "Westmanga", "url": "https://v1.westmanga.my/view/there-are-no-bad-young-ladies-in-this-world-noble-lady-reformation-guide-chapter-46" },
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/d3b05787-4c8e-42bb-ba9a-6b2fafd92f3c" }
+    ]
+  },
+  {
+    "id": "105",
+    "title": "Nano Machine",
+    "type": "Manhwa",
+    "status": "Ongoing",
+    "coverImage": "https://storage.westmanga.blog/west/covers/30573b02-a150-4f98-9a72-26b6972a4283.jpg",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "synopsis": "Cheon Yeo-Woon, an orphan from the Demonic Cult, has spent his life being looked down upon and living in constant danger. His life changes when a descendant from the future unexpectedly visits him and implants a nanomachine into his body. After activation, the nanomachine transforms Cheon Yeo-Woon's life. Follow his journey as he navigates the Demonic Cult and rises to become one of the greatest martial artists.",
+    "review": " ",
+    "scores": { "story": 9, "character": 9.8, "art": 9.5, "enjoyment": 10 },
+    "chapters": 334,
+    "readLinks": [
+      { "name": "Shinigami", "url": "https://11.shinigami.asia/series/d3b05787-4c8e-42bb-ba9a-6b2fafd92f3c" }
     ]
   }
 ]
+
+
