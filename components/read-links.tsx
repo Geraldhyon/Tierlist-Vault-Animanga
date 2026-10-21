@@ -4,7 +4,7 @@ import { BookOpen, ExternalLink, Play } from 'lucide-react';
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover';
 import type { MediaItem, ReadLink } from '@/lib/types';
 
-// Cuma link http/https yang ditampilkan, biar aman dari "javascript:" dsb.
+
 function isSafeUrl(url: string): boolean {
   try {
     const { protocol } = new URL(url);
@@ -22,17 +22,16 @@ function getHost(url: string): string {
   }
 }
 
-// Link valid saja (name + url terisi & aman). Dipakai kartu buat tahu perlu
-// nampilin tombol atau nggak, dan dipakai ReadLinks buat daftar link-nya.
+
 export function getReadLinks(item: MediaItem): ReadLink[] {
   return (item.readLinks ?? []).filter((l) => l && l.name && l.url && isSafeUrl(l.url));
 }
 
-// compact = versi kecil buat di kartu; default = versi besar buat di modal detail.
+
 export function ReadLinks({ item, compact = false }: { item: MediaItem; compact?: boolean }) {
   const links = getReadLinks(item);
 
-  // Belum ada link di tierlist.json -> tombol disembunyiin
+  
   if (links.length === 0) return null;
 
   const isAnime = item.type === 'Anime';

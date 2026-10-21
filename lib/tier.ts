@@ -12,8 +12,7 @@ export const SCORE_LABELS: Record<keyof typeof SCORE_WEIGHTS, string> = {
   enjoyment: 'Enjoyment / Impact',
 };
 
-// Penjelasan tiap kriteria penilaian (tampil di modal "Scoring System").
-// Edit teks di sini kalau mau ganti penjelasannya.
+
 export const SCORE_DESCRIPTIONS: Record<
   keyof typeof SCORE_WEIGHTS,
   { summary: string; points: string[] }
@@ -59,8 +58,7 @@ export interface MediaScores {
   enjoyment: number;
 }
 
-// Skor mentah (belum dibulatkan). Dipakai buat tiebreak urutan di tierlist,
-// supaya judul dengan overall sama (mis. 9.6) tetap urut dengan adil.
+
 export function calculateRawOverall(scores: MediaScores): number {
   return (
     scores.story * SCORE_WEIGHTS.story +
@@ -80,12 +78,11 @@ export interface TierInfo {
   max: number;
   gradient: string;
   text: string;
-  // Arti tier-nya (tampil di modal "Scoring System").
+  
   description: string;
 }
 
-// Overall dibulatkan ke 1 desimal, jadi batasnya jelas:
-// S+ di atas 9.5 (mulai 9.6), S 9.1 - 9.5 (9.0 masih A).
+
 export const TIERS: TierInfo[] = [
   {
     label: 'S+',
@@ -101,7 +98,7 @@ export const TIERS: TierInfo[] = [
     max: 9.5,
     gradient: 'from-orange-500 to-orange-600',
     text: 'text-white',
-    description: 'Nearly peak. tinggal ada hal kecil yang gw nggak suka.',
+    description: 'Nearly PEAK.',
   },
   {
     label: 'A',
@@ -109,7 +106,7 @@ export const TIERS: TierInfo[] = [
     max: 9.0,
     gradient: 'from-yellow-300 to-yellow-400',
     text: 'text-yellow-950',
-    description: 'Worth dibaca.',
+    description: 'Very WORTH dibaca.',
   },
   {
     label: 'B',
@@ -137,7 +134,6 @@ export const TIERS: TierInfo[] = [
   },
 ];
 
-// Cuma pakai batas bawah (min) supaya nggak ada celah antar tier.
 export function getTier(overall: number): TierInfo {
   return TIERS.find((t) => overall >= t.min) ?? TIERS[TIERS.length - 1];
 }

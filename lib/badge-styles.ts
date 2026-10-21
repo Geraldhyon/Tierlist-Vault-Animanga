@@ -1,8 +1,3 @@
-// Style badge yang dipakai bareng di kartu & modal.
-// Semua background SOLID (opacity 100%), jadi tetap kebaca di atas cover apa pun
-// dan nggak butuh backdrop-blur (yang bikin scroll berat).
-
-// Ukuran & bentuk badge di kartu (type, rating, status) dibikin sama persis.
 export const BADGE_BASE =
   'inline-flex h-5 items-center gap-1 rounded-md border px-1.5 text-[10px] font-bold leading-none';
 
